@@ -25,6 +25,7 @@ A curated list of podcasts we like to listen to.
 * [Coding Blocks](http://www.codingblocks.net) - Software and Web Programming, security, best practices, Microsoft .NET and more.
 * [CodePen Radio](https://blog.codepen.io/radio) - Co-founders of CodePen talk about the ins and outs of running a web software business.
 * [Zone Of Front-Enders](http://zofe.com.br) - Podcast focusing on front-end web development. (pt-br)
+* [Talk Python to Me](http://www.talkpythontome.com/) - Weekly podcast (30 minutes) that covers a wide array of Python topics.
 
 ### Tooling
 
