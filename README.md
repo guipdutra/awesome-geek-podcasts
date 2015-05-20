@@ -18,6 +18,7 @@ A curated list of podcasts we like to listen to.
 * [DatabaseCast](http://imasters.com.br/perfil/databasecast) - The first Brazilian podcast about database.
 * [Ruby Rogues](http://devchat.tv/ruby-rogues)
 * [Ruby5](https://ruby5.codeschool.com) - The latest news in the Ruby and Rails community.
+* [FiveJS](https://fivejs.codeschool.com) - The latest news in the JavaScript community.
 * [The Laravel Podcast](http://www.laravelpodcast.com) - The Laravel Podcast brings you Laravel and PHP development news and discussion.
 * [The Five-Minute Geek Show](http://www.fiveminutegeekshow.com) - Matt Stauffer, unabashedly geeky, 5 minutes, twice a week. Frontend dev, backend dev, audio, design, podcasts--all fair game.
 * [CodeNewbie Podcast](http://www.codenewbie.org/podcast) - Stories from people on their coding journey.
