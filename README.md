@@ -14,11 +14,12 @@ A curated list of podcasts we like to listen to.
 * https://soundcloud.com/between-screens
 * https://developertea.com
 * http://blog.cognitect.com/cognicast
-* http://www.functionalgeekery.com/
+* http://www.functionalgeekery.com
+* http://imasters.com.br/perfil/databasecast
 
 ### Tooling
 
 * http://www.shiftyjelly.com/pocketcasts
-* http://antennapod.org/ (Android and Open Source)
+* http://antennapod.org (Android and Open Source)
 
 (Send more over pull request!)
