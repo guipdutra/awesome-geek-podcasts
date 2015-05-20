@@ -13,7 +13,8 @@ A curated list of podcasts we like to listen to.
 * https://changelog.com
 * https://soundcloud.com/between-screens
 * https://developertea.com
-
+* http://imasters.com.br/perfil/databasecast
+* 
 ### Tooling
 
 * http://www.shiftyjelly.com/pocketcasts
