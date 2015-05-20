@@ -23,7 +23,7 @@ A curated list of podcasts we like to listen to.
 * http://www.codenewbie.org/podcast
 * http://www.codingblocks.net/
 * https://blog.codepen.io/radio
-
+* http://zofe.com.br/
 
 
 ### Tooling
