@@ -5,7 +5,7 @@ A curated list of podcasts we like to listen to.
 * [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br) (pt-br)
 * [DevChat.tv](http://devchat.tv) - We are programmers. House of Ruby Rogues, Javascript Jabber, IPhreaks, Freelancers' Show, Adventures in Angular and RailsClips. 
 * [Grok Podcast](http://www.grokpodcast.com) 
-* [](https://thoughtbot.com/podcasts) - We record and release weekly podcasts from thoughtbot on design, Ruby on Rails, iOS, running software companies, and maintaining work/life balance.
+* [Thoughtbot](https://thoughtbot.com/podcasts) - We record and release weekly podcasts from thoughtbot on design, Ruby on Rails, iOS, running software companies, and maintaining work/life balance.
 * [The Hanselminutes podcast](http://hanselminutes.com) - Fresh Air for Developers.
 * [Mind the Cloud Podcast](http://mindthecloud.com) - The podcast about the developers and companies using the cloud to create the future.
 * [Reply All](http://gimletmedia.com/show/reply-all) - Reply All is a show about the internet.
