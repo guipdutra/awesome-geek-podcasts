@@ -18,6 +18,13 @@ A curated list of podcasts we like to listen to.
 * http://imasters.com.br/perfil/databasecast
 * http://devchat.tv/ruby-rogues/
 * https://ruby5.codeschool.com/
+* http://www.laravelpodcast.com
+* http://www.fiveminutegeekshow.com
+* http://www.codenewbie.org/podcast
+* http://www.codingblocks.net/
+* https://blog.codepen.io/radio
+
+
 
 ### Tooling
 
