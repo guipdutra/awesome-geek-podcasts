@@ -16,6 +16,8 @@ A curated list of podcasts we like to listen to.
 * http://blog.cognitect.com/cognicast
 * http://www.functionalgeekery.com
 * http://imasters.com.br/perfil/databasecast
+* http://devchat.tv/ruby-rogues/
+* https://ruby5.codeschool.com/
 
 ### Tooling
 
