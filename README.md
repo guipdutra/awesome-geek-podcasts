@@ -27,6 +27,7 @@ A curated list of podcasts we like to listen to.
 * [Zone Of Front-Enders](http://zofe.com.br) - Podcast focusing on front-end web development. (pt-br)
 * [Talk Python to Me](http://www.talkpythontome.com/) - Weekly podcast (30 minutes) that covers a wide array of Python topics.
 * [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) - Podcast about technology and Open Source/Free software (pt-br)
+* [Nodeup](http://nodeup.com/) - A Node.js Podcast.
 
 ### Tooling
 
