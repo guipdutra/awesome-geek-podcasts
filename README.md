@@ -8,6 +8,7 @@ A curated list of podcasts we like to listen to.
 * [DevChat.tv](http://devchat.tv) - We are programmers. House of Ruby Rogues, Javascript Jabber, IPhreaks, Freelancers' Show, Adventures in Angular and RailsClips. 
 * [Thoughtbot](https://thoughtbot.com/podcasts) - We record and release weekly podcasts from thoughtbot on design, Ruby on Rails, iOS, running software companies, and maintaining work/life balance.
 * [The Hanselminutes podcast](http://hanselminutes.com) - Fresh Air for Developers.
+* [This Developer's Life](http://thisdeveloperslife.com/) - A podcast about developers and their lives.
 * [Mind the Cloud Podcast](http://mindthecloud.com) - The podcast about the developers and companies using the cloud to create the future.
 * [Reply All](http://gimletmedia.com/show/reply-all) - Reply All is a show about the internet.
 * [ShopTalk Show](http://shoptalkshow.com) - Podcast about front end web design, development and UX.
@@ -25,6 +26,7 @@ A curated list of podcasts we like to listen to.
 * [Coding Blocks](http://www.codingblocks.net) - Software and Web Programming, security, best practices, Microsoft .NET and more.
 * [CodePen Radio](https://blog.codepen.io/radio) - Co-founders of CodePen talk about the ins and outs of running a web software business.
 * [Talk Python to Me](http://www.talkpythontome.com/) - Weekly podcast (30 minutes) that covers a wide array of Python topics.
+* [Podcast.__init__](http://podcastinit.com/) - A podcast about Python and the people who make it great.
 * [Nodeup](http://nodeup.com/) - A Node.js Podcast.
 * [.NET Rocks!](http://www.dotnetrocks.com/) - The internet audio talk show for .NET developer with Carl Franklin and Richard Campbell.
 * [RunAs Radio](http://www.runasradio.com/) - A weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.
@@ -33,6 +35,9 @@ A curated list of podcasts we like to listen to.
 * [Radiolab](http://www.radiolab.org) - Radiolab is a show about curiosity. Where sound illuminates ideas, and the boundaries blur between science, philosophy, and human experience.
 * [TechStuff](http://shows.howstuffworks.com/techstuff-podcast.htm) - TechStuff tackles topics ranging from basic electronics to the Large Hadron Collider and everything in between. TechStuff is dedicated to demystifying technology and its role in our society and culture.
 * [Fw:Thinking](http://www.fwthinking.com/podcasts/) - It's about technology. It's about humanity. It's about our future. It's Fw:Thinking.
+* [FLOSS Weekly](http://twit.tv/show/floss-weekly/) - Interviews with prominent guests from the free software/open source community.
+* [BSDTalk](http://bsdtalk.blogspot.com/) - Talking about the BSD family of free operating systems.
+* [BSDNow](http://www.bsdnow.tv/) - A Weekly BSD Podcast - News, Interviews and Tutorials.
 
 ## In Portuguese
 
