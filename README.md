@@ -30,6 +30,8 @@ A curated list of podcasts we like to listen to.
 * [Nodeup](http://nodeup.com/) - A Node.js Podcast.
 * [.NET Rocks!](http://www.dotnetrocks.com/) - The internet audio talk show for .NET developer with Carl Franklin and Richard Campbell.
 * [RunAs Radio](http://www.runasradio.com/) - A weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.
+* [Software Engineering Radio](http://www.se-radio.net/) - The podcast for professional software developers.
+* [Cloudcast](http://www.thecloudcast.net/) - Award-winning podcast on all things | Cloud Computing | AWS Ecosystem | OpenSource | DevOps | AppDev | SaaS | SDN
 
 ### Tooling
 
