@@ -26,7 +26,7 @@ A curated list of podcasts we like to listen to.
 * [CodePen Radio](https://blog.codepen.io/radio) - Co-founders of CodePen talk about the ins and outs of running a web software business.
 * [Zone Of Front-Enders](http://zofe.com.br) - Podcast focusing on front-end web development. (pt-br)
 * [Talk Python to Me](http://www.talkpythontome.com/) - Weekly podcast (30 minutes) that covers a wide array of Python topics.
-* [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) - (pt-br)
+* [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) - Podcast about technology and Open Source/Free software (pt-br)
 
 ### Tooling
 
