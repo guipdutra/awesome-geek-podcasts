@@ -2,9 +2,9 @@
 
 A curated list of podcasts we like to listen to.
 
-* [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br) (pt-br)
+## In English
+
 * [DevChat.tv](http://devchat.tv) - We are programmers. House of Ruby Rogues, Javascript Jabber, IPhreaks, Freelancers' Show, Adventures in Angular and RailsClips. 
-* [Grok Podcast](http://www.grokpodcast.com) (pt-br)
 * [Thoughtbot](https://thoughtbot.com/podcasts) - We record and release weekly podcasts from thoughtbot on design, Ruby on Rails, iOS, running software companies, and maintaining work/life balance.
 * [The Hanselminutes podcast](http://hanselminutes.com) - Fresh Air for Developers.
 * [Mind the Cloud Podcast](http://mindthecloud.com) - The podcast about the developers and companies using the cloud to create the future.
@@ -15,7 +15,6 @@ A curated list of podcasts we like to listen to.
 * [Developer Tea](https://developertea.com) - Podcast for web and software developers hosted by a developer that you can listen to in less than 10 minutes.
 * [The Cognicast](http://blog.cognitect.com/cognicast) - The Cognicast previously ThinkRelevance: The Podcast is the odcast from the Cognitect family.
 * [Functional Geekery](http://www.functionalgeekery.com) - Functional Geeks, Geeking Functionally.
-* [DatabaseCast](http://imasters.com.br/perfil/databasecast) - The first Brazilian podcast about database.
 * [Ruby Rogues](http://devchat.tv/ruby-rogues)
 * [Ruby5](https://ruby5.codeschool.com) - The latest news in the Ruby and Rails community.
 * [FiveJS](https://fivejs.codeschool.com) - The latest news in the JavaScript community.
@@ -24,14 +23,20 @@ A curated list of podcasts we like to listen to.
 * [CodeNewbie Podcast](http://www.codenewbie.org/podcast) - Stories from people on their coding journey.
 * [Coding Blocks](http://www.codingblocks.net) - Software and Web Programming, security, best practices, Microsoft .NET and more.
 * [CodePen Radio](https://blog.codepen.io/radio) - Co-founders of CodePen talk about the ins and outs of running a web software business.
-* [Zone Of Front-Enders](http://zofe.com.br) - Podcast focusing on front-end web development. (pt-br)
 * [Talk Python to Me](http://www.talkpythontome.com/) - Weekly podcast (30 minutes) that covers a wide array of Python topics.
-* [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) - Podcast about technology and Open Source/Free software (pt-br)
 * [Nodeup](http://nodeup.com/) - A Node.js Podcast.
 * [.NET Rocks!](http://www.dotnetrocks.com/) - The internet audio talk show for .NET developer with Carl Franklin and Richard Campbell.
 * [RunAs Radio](http://www.runasradio.com/) - A weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.
 * [Software Engineering Radio](http://www.se-radio.net/) - The podcast for professional software developers.
 * [Cloudcast](http://www.thecloudcast.net/) - Award-winning podcast on all things | Cloud Computing | AWS Ecosystem | OpenSource | DevOps | AppDev | SaaS | SDN
+
+## In Portuguese
+
+* [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br) (pt-br)
+* [Grok Podcast](http://www.grokpodcast.com) (pt-br)
+* [DatabaseCast](http://imasters.com.br/perfil/databasecast) - The first Brazilian podcast about databases.
+* [Zone Of Front-Enders](http://zofe.com.br) - Podcast focusing on front-end web development. (pt-br)
+* [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) - Podcast about technology and Open Source/Free software (pt-br)
 
 ### Tooling
 
