@@ -30,7 +30,8 @@ A curated list of podcasts we like to listen to.
 
 ### Tooling
 
-* http://www.shiftyjelly.com/pocketcasts
-* http://antennapod.org (Android and Open Source)
+* <http://www.shiftyjelly.com/pocketcasts>
+* <http://antennapod.org> (Android and Open Source)
+* <http://www.doggcatcher.com/>
 
 (Send more over pull request!)
