@@ -38,6 +38,7 @@ A curated list of podcasts we like to listen to.
 * [FLOSS Weekly](http://twit.tv/show/floss-weekly/) - Interviews with prominent guests from the free software/open source community.
 * [BSDTalk](http://bsdtalk.blogspot.com/) - Talking about the BSD family of free operating systems.
 * [BSDNow](http://www.bsdnow.tv/) - A Weekly BSD Podcast - News, Interviews and Tutorials.
+* [HardcoreHistory](http://www.dancarlin.com/hardcore-history-series/) - In "Hardcore History" the very unconventional Dan Carlin takes his "Martian", outside-the-box way of thinking and applies it to the past.
 
 ## In Portuguese
 
