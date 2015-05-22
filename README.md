@@ -47,6 +47,12 @@ A curated list of podcasts we like to listen to.
 * [Zone Of Front-Enders](http://zofe.com.br) - Podcast focusing on front-end web development.
 * [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) - Podcast about technology and Open Source/Free software
 
+## In Spanish
+
+* [Python en español](http://podcast.jcea.es/python/) - Python en tu idioma
+* [CAChemE](http://cacheme.org/podcast/) - Aplicaciones para ciencia e ingeniería (principalmente Python).
+* [Entre Dev y Ops](http://www.entredevyops.es/podcast.html) - Podcast sobre DevOps y metodologías ágiles.
+
 ### Tooling
 
 * http://www.shiftyjelly.com/pocketcasts
