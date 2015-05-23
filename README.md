@@ -38,6 +38,7 @@ A curated list of podcasts we like to listen to.
 * [FLOSS Weekly](http://twit.tv/show/floss-weekly/) - Interviews with prominent guests from the free software/open source community.
 * [BSDTalk](http://bsdtalk.blogspot.com/) - Talking about the BSD family of free operating systems.
 * [BSDNow](http://www.bsdnow.tv/) - A Weekly BSD Podcast - News, Interviews and Tutorials.
+* [Harry Potter and the methods of rationality](http://www.hpmorpodcast.com/) - This is an alternate universe story, where Petunia married a scientist. Harry enters the wizarding world armed with Enlightenment ideals and the experimental spirit.
 
 ## In Portuguese
 
