@@ -64,4 +64,8 @@ A curated list of podcasts we like to listen to.
 * http://antennapod.org> (Android and Open Source)
 * http://www.doggcatcher.com
 
-(See [CONTRIBUTING](./CONTRIBUTING.md) for info on how to contribute)
+### More
+
+More [awesome](https://github.com/sindresorhus/awesome).
+
+See [CONTRIBUTING](./CONTRIBUTING.md) for info on how to contribute to this list.
