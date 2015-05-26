@@ -54,6 +54,8 @@ A curated list of podcasts we like to listen to.
 * [Python en español](http://podcast.jcea.es/python/) - Python en tu idioma
 * [CAChemE](http://cacheme.org/podcast/) - Aplicaciones para ciencia e ingeniería (principalmente Python).
 * [Entre Dev y Ops](http://www.entredevyops.es/podcast.html) - Podcast sobre DevOps y metodologías ágiles.
+* [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in english).
+* [85% Cocoa](http://ochentaycincoporcientococoa.tumblr.com/) - Podcast sobre Cocoa y programación.
 
 ### Tooling
 
