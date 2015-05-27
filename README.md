@@ -56,6 +56,8 @@ A curated list of podcasts we like to listen to.
 * [Entre Dev y Ops](http://www.entredevyops.es/podcast.html) - Podcast sobre DevOps y metodologías ágiles.
 * [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in english).
 * [85% Cocoa](http://ochentaycincoporcientococoa.tumblr.com/) - Podcast sobre Cocoa y programación.
+* [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) - Programa de divulgación cientifica, ciencia ficción y videojuegos.
+* [A hombros de gigantes](http://www.rtve.es/alacarta/audios/a-hombros-de-gigantes/) - Programa de divulgación científica.
 
 ### Tooling
 
