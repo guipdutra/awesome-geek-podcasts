@@ -60,8 +60,9 @@ A curated list of podcasts we like to listen to.
 * [A hombros de gigantes](http://www.rtve.es/alacarta/audios/a-hombros-de-gigantes/) - Programa de divulgación científica.
 
 ## In Russian
-* [RWPod](http://www.rwpod.com/) - Podcast about world of Ruby and Web technologies
+* [RWPod](http://www.rwpod.com/) - Podcast about world of Ruby and Web technologies.
 * [Radio-T](http://www.radio-t.com/) - Podcast of weekend. Improvisation on the theme of IT.
+* [DevZen Podcast](http://devzen.ru/) - Podcast about programming, IT and related topics.
 
 ### Tooling
 
