@@ -59,6 +59,11 @@ A curated list of podcasts we like to listen to.
 * [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) - Programa de divulgación cientifica, ciencia ficción y videojuegos.
 * [A hombros de gigantes](http://www.rtve.es/alacarta/audios/a-hombros-de-gigantes/) - Programa de divulgación científica.
 
+## In Russian
+* [RWPod](http://www.rwpod.com/) - Podcast about world of Ruby and Web technologies.
+* [Radio-T](http://www.radio-t.com/) - Podcast of weekend. Improvisation on the theme of IT.
+* [DevZen Podcast](http://devzen.ru/) - Podcast about programming, IT and related topics.
+
 ### Tooling
 
 * http://www.shiftyjelly.com/pocketcasts
