@@ -5,7 +5,7 @@ A curated list of podcasts we like to listen to.
 ## In English
 
 * [ThoughtWorks](https://soundcloud.com/thoughtworks) - A community of passionate individuals whose purpose is to revolutionize software design, creation and delivery, while advocating for positive social change.
-* [DevChat.tv](http://devchat.tv) - We are programmers. House of Ruby Rogues, Javascript Jabber, IPhreaks, Freelancers' Show, Adventures in Angular and RailsClips. 
+* [DevChat.tv](http://devchat.tv) - We are programmers. House of Ruby Rogues, Javascript Jabber, IPhreaks, Freelancers' Show, Adventures in Angular and RailsClips.
 * [Thoughtbot](https://thoughtbot.com/podcasts) - We record and release weekly podcasts from thoughtbot on design, Ruby on Rails, iOS, running software companies, and maintaining work/life balance.
 * [The Hanselminutes podcast](http://hanselminutes.com) - Fresh Air for Developers.
 * [This Developer's Life](http://thisdeveloperslife.com/) - A podcast about developers and their lives.
@@ -38,6 +38,7 @@ A curated list of podcasts we like to listen to.
 * [FLOSS Weekly](http://twit.tv/show/floss-weekly/) - Interviews with prominent guests from the free software/open source community.
 * [BSDTalk](http://bsdtalk.blogspot.com/) - Talking about the BSD family of free operating systems.
 * [BSDNow](http://www.bsdnow.tv/) - A Weekly BSD Podcast - News, Interviews and Tutorials.
+* [CppCast](http://cppcast.com/) - The first podcast by C++ developers for C++ developers.
 * [Harry Potter and the methods of rationality](http://www.hpmorpodcast.com/) - This is an alternate universe story, where Petunia married a scientist. Harry enters the wizarding world armed with Enlightenment ideals and the experimental spirit.
 * [HardcoreHistory](http://www.dancarlin.com/hardcore-history-series/) - In "Hardcore History" the very unconventional Dan Carlin takes his "Martian", outside-the-box way of thinking and applies it to the past.
 
