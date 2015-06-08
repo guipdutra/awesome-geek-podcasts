@@ -49,7 +49,7 @@ A curated list of podcasts we like to listen to.
 * [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br) - Agilidade, arquitetura, linguagens e ativismo.
 * [Grok Podcast](http://www.grokpodcast.com) - Tecnologia, empreendedorismo, agilidade e muito mais.
 * [DatabaseCast](http://imasters.com.br/perfil/databasecast) - Primeiro podcast brasileiro sobre bancos de dados.
-* [Zone Of Front-Enders](http://zofe.com.br) - Podcast focusing on front-end web development.
+* [Zone Of Front-Enders](http://zofe.com.br) - Podcast com enfoque no desenvolvimento front-end da web.
 * [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) - Podcast about technology and Open Source/Free software
 
 ## In Spanish
