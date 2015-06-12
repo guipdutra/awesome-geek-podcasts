@@ -43,6 +43,8 @@ A curated list of podcasts we like to listen to.
 * [Harry Potter and the methods of rationality](http://www.hpmorpodcast.com/) - This is an alternate universe story, where Petunia married a scientist. Harry enters the wizarding world armed with Enlightenment ideals and the experimental spirit.
 * [HardcoreHistory](http://www.dancarlin.com/hardcore-history-series/) - In "Hardcore History" the very unconventional Dan Carlin takes his "Martian", outside-the-box way of thinking and applies it to the past.
 * [The Life Scientific](http://www.bbc.co.uk/programmes/b015sqc7) - Professor Jim Al-Khalili talks to leading scientists about their life and work, finding out what inspires and motivates them and asking what their discoveries might do for mankind.
+* [The Change Log](https://changelog.com/podcast/) - Open Source moves fast. Keep up. Releasing a new episode every Friday.
+* [React Podcast](http://reactpodcast.com/) - Podcast about React.js
 
 ## In Portuguese
 
