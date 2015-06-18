@@ -12,7 +12,6 @@ A curated list of podcasts we like to listen to.
 * [Mind the Cloud Podcast](http://mindthecloud.com) - The podcast about the developers and companies using the cloud to create the future.
 * [Reply All](http://gimletmedia.com/show/reply-all) - Reply All is a show about the internet.
 * [ShopTalk Show](http://shoptalkshow.com) - Podcast about front end web design, development and UX.
-* [The Change Log](https://changelog.com) - Covers the intersection of software development and open source.
 * [Between Screens](https://soundcloud.com/between-screens) - Expect to find content about the following topics: Ruby, Rails, Sinatra, Sass, Javascript, Design Patterns, Jekyll, Client-Side Web Apps, Rust, Typography, Git, Responsive Design, Prototyping, Web Design, Type Design and more …
 * [Developer Tea](https://developertea.com) - Podcast for web and software developers hosted by a developer that you can listen to in less than 10 minutes.
 * [The Cognicast](http://blog.cognitect.com/cognicast) - The Cognicast previously ThinkRelevance: The Podcast is the odcast from the Cognitect family.
