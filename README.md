@@ -67,7 +67,8 @@ A curated list of podcasts we like to listen to.
 * [RWPod](http://www.rwpod.com/) - Podcast about world of Ruby and Web technologies.
 * [Radio-T](http://www.radio-t.com/) - Podcast of weekend. Improvisation on the theme of IT.
 * [DevZen Podcast](http://devzen.ru/) - Podcast about programming, IT and related topics.
-* [Razbor Poletov](http://razbor-poletov.com/) - Podcast about technologies and software development.
+* [Razbor Poletov](http://razbor-poletov.com/) - Podcast about world of Java,technologies and software development.
+* [How to make games](http://galyonkin.com/podcast/) - Podcast about video games and video games industry.
 
 ### Tooling
 
