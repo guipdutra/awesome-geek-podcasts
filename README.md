@@ -44,6 +44,10 @@ A curated list of podcasts we like to listen to.
 * [The Life Scientific](http://www.bbc.co.uk/programmes/b015sqc7) - Professor Jim Al-Khalili talks to leading scientists about their life and work, finding out what inspires and motivates them and asking what their discoveries might do for mankind.
 * [The Change Log](https://changelog.com/podcast/) - Open Source moves fast. Keep up. Releasing a new episode every Friday.
 * [React Podcast](http://reactpodcast.com/) - Podcast about React.js
+* [Linux Outlaws](http://sixgun.org/linuxoutlaws) - About anything that runs on Linux, about open source software on other platforms and many other things.
+* [Creative Coding Podcast](http://creativecodingpodcast.com/) - about programming for visual and creative applications.
+* [The Web Ahead](http://5by5.tv/webahead) - Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up.
+* [The Big Web Show](http://5by5.tv/bigwebshow) - It's everything web that matters.
 
 ## In Portuguese
 
@@ -52,6 +56,7 @@ A curated list of podcasts we like to listen to.
 * [DatabaseCast](http://imasters.com.br/perfil/databasecast) - Primeiro podcast brasileiro sobre bancos de dados.
 * [Zone Of Front-Enders](http://zofe.com.br) - Podcast com enfoque no desenvolvimento front-end da web.
 * [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) - Podcast about technology and Open Source/Free software
+* [Curto Circuito](http://curtocircuito.cc/) - Um bate-papo descontraído sobre tecnologia, nerdices e tudo o mais que a curiosidade pedir no melhor estilo "mesa de bar".
 
 ## In Spanish
 
@@ -78,6 +83,7 @@ A curated list of podcasts we like to listen to.
 * http://www.shiftyjelly.com/pocketcasts
 * http://antennapod.org (Android and Open Source)
 * http://www.doggcatcher.com
+* http://gpodder.org/ https://gpodder.net/ (Multi-plataform Open Source and Podcast Directory)
 
 ### More
 
