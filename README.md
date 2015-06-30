@@ -75,6 +75,9 @@ A curated list of podcasts we like to listen to.
 * [Razbor Poletov](http://razbor-poletov.com/) - Podcast about world of Java,technologies and software development.
 * [How to make games](http://galyonkin.com/podcast/) - Podcast about video games and video games industry.
 
+## In Persian
+* [RadioGeek](http://jadi.net/podcast/) - Yet another podcast for wandering geeks in the intersection of society and technology.
+
 ### Tooling
 
 * http://www.shiftyjelly.com/pocketcasts
