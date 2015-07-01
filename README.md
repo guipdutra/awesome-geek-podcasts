@@ -67,6 +67,7 @@ A curated list of podcasts we like to listen to.
 * [85% Cocoa](http://ochentaycincoporcientococoa.tumblr.com/) - Podcast sobre Cocoa y programación.
 * [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) - Programa de divulgación cientifica, ciencia ficción y videojuegos.
 * [A hombros de gigantes](http://www.rtve.es/alacarta/audios/a-hombros-de-gigantes/) - Programa de divulgación científica.
+* [5 minutos con Carlos Fenollosa](http://cf5m.com/) - Micro-Podcast (5-10 minutos) de reflexiones sobre TIC
 
 ## In Russian
 * [RWPod](http://www.rwpod.com/) - Podcast about world of Ruby and Web technologies.
