@@ -75,6 +75,7 @@ A curated list of podcasts we like to listen to.
 * [DevZen Podcast](http://devzen.ru/) - Podcast about programming, IT and related topics.
 * [Razbor Poletov](http://razbor-poletov.com/) - Podcast about world of Java,technologies and software development.
 * [How to make games](http://galyonkin.com/podcast/) - Podcast about video games and video games industry.
+* [RadioJS](http://radiojs.ru/) - Podcast about web-development, Javascript, Frontend and client-side.
 
 ## In Persian
 * [RadioGeek](http://jadi.net/podcast/) - Yet another podcast for wandering geeks in the intersection of society and technology.
