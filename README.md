@@ -50,6 +50,7 @@ A curated list of podcasts we like to listen to.
 * [The Big Web Show](http://5by5.tv/bigwebshow) - It's everything web that matters.
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com) - Interviews with people that are making the PHP community special.
 * [Dev Discussions](http://devdiscussions.com) - Discussions over a wide variety of topics including functional programming, domain-driven design, and game development.
+* [/dev/hell](http://devhell.info/) - Chris Hartjes and Ed Finkler are trapped in Development Hell, where they talk mostly about PHP, web, their development experiences and also with special guests.
 
 ## In Portuguese
 
