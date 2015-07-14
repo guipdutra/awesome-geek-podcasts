@@ -48,6 +48,7 @@ A curated list of podcasts we like to listen to.
 * [Creative Coding Podcast](http://creativecodingpodcast.com/) - about programming for visual and creative applications.
 * [The Web Ahead](http://5by5.tv/webahead) - Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up.
 * [The Big Web Show](http://5by5.tv/bigwebshow) - It's everything web that matters.
+* [Voices of the ElePHPant](https://voicesoftheelephpant.com) - Interviews with people that are making the PHP community special.
 
 ## In Portuguese
 
