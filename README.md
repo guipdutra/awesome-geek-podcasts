@@ -57,6 +57,7 @@ A curated list of podcasts we like to listen to.
 * [Sound Of Symfony](http://www.soundofsymfony.com/) - The unofficial Symfony podcast.
 * [PHP Town Hall](http://phptownhall.com/) - Town Hall a way for PHP developers to raise questions about current events (or upcoming things) in the PHP community, with different guests each week.
 * [The Loosely Coupled Podcast](http://looselycoupled.info/) - Jeff Carouth and Matt Frost combine their decades of experience as web developers to talk about developer life.
+* [Full Stack Radio](http://fullstackradio.com/) - A podcast for developers interested in building great software products.
 
 ## In Portuguese
 
