@@ -53,6 +53,7 @@ A curated list of podcasts we like to listen to.
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com) - Interviews with people that are making the PHP community special.
 * [Dev Discussions](http://devdiscussions.com) - Discussions over a wide variety of topics including functional programming, domain-driven design, and game development.
 * [/dev/hell](http://devhell.info/) - Chris Hartjes and Ed Finkler are trapped in Development Hell, where they talk mostly about PHP, web, their development experiences and also with special guests.
+* [Three Devs and a Maybe](http://threedevsandamaybe.com/) - Weekly discussion podcast on all things web development. Topics range from daily developer life, PHP, frameworks, testing, good software design and our experiences using many other programming languages.
 
 ## In Portuguese
 
