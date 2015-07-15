@@ -102,8 +102,6 @@ A curated list of podcasts we like to listen to.
 * http://www.shiftyjelly.com/pocketcasts
 * http://antennapod.org (Android and Open Source)
 * https://github.com/bottiger/SoundWaves (Android and Open Source)
-* http://www.shiftyjelly.com/pocketcasts
-* http://antennapod.org (Android and Open Source)
 * http://www.doggcatcher.com
 * http://gpodder.org/ https://gpodder.net/ (Multi-plataform Open Source and Podcast Directory)
 
