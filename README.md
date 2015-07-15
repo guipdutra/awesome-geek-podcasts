@@ -94,6 +94,9 @@ A curated list of podcasts we like to listen to.
 ## In Persian
 * [RadioGeek](http://jadi.net/podcast/) - Yet another podcast for wandering geeks in the intersection of society and technology.
 
+## In Swedish
+* [Kodsnack](http://kodsnack.se) - Weekly Swedish podcast about all things code, for coders. Hosted by Fredrik Björeman, Tobias Hieta and Kristoffer Grönlund, with occasional guests.
+
 ### Tooling
 
 * http://www.shiftyjelly.com/pocketcasts
