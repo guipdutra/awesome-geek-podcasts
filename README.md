@@ -54,6 +54,7 @@ A curated list of podcasts we like to listen to.
 * [Dev Discussions](http://devdiscussions.com) - Discussions over a wide variety of topics including functional programming, domain-driven design, and game development.
 * [/dev/hell](http://devhell.info/) - Chris Hartjes and Ed Finkler are trapped in Development Hell, where they talk mostly about PHP, web, their development experiences and also with special guests.
 * [That Podcast](https://thatpodcast.io/) - Beau and Dave talking about life as dads, programmers, and entrepreneurs.
+* [Sound Of Symfony](http://www.soundofsymfony.com/) - The unofficial Symfony podcast.
 
 ## In Portuguese
 
