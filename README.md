@@ -60,6 +60,7 @@ A curated list of podcasts we like to listen to.
 * [Full Stack Radio](http://fullstackradio.com/) - A podcast for developers interested in building great software products.
 * [Three Devs and a Maybe](http://threedevsandamaybe.com/) - Weekly discussion podcast on all things web development. Topics range from daily developer life, PHP, frameworks, testing, good software design and our experiences using many other programming languages.
 * [TTL Podcast](http://ttlpodcast.com/) - The TTL Podcast, hosted by Rebecca Murphey, features conversations with front-end developers at large organizations about how they do their jobs.
+* [DevelopersHangout](http://www.developershangout.io/) - Two Developers talk about challeges, articles, news, books and other podcasts that came across their radar every 2 weeks. Laravel, PHP are two key topics, and other great podcasts like ths ones listed above.
 
 ## In Portuguese
 
