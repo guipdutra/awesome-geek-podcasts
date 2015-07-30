@@ -101,7 +101,7 @@ A curated list of podcasts we like to listen to.
 
 ## In French
 * [Visual Studio Talk Show](http://visualstudiotalkshow.libsyn.com/) - French podcast talking about development with Microsoft technologies. Hosted by Mario Cardinal and Guy Barrette.
-* [Visual Studio Talk Show](http://www.bloguelinux.ca/) - French (Quebec) podcast talking about Linux technologies.
+* [Blogue Linux](http://www.bloguelinux.ca/) - French (Quebec) podcast talking about Linux technologies.
 
 ### Tooling
 
