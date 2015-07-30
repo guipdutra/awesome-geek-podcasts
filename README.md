@@ -100,6 +100,10 @@ A curated list of podcasts we like to listen to.
 ## In Swedish
 * [Kodsnack](http://kodsnack.se) - Weekly Swedish podcast about all things code, for coders. Hosted by Fredrik Björeman, Tobias Hieta and Kristoffer Grönlund, with occasional guests.
 
+## In French
+* [Visual Studio Talk Show](http://visualstudiotalkshow.libsyn.com/) - French podcast talking about development with Microsoft technologies. Hosted by Mario Cardinal and Guy Barrette.
+* [Blogue Linux](http://www.bloguelinux.ca/) - French (Quebec) podcast talking about Linux technologies.
+
 ### Tooling
 
 * http://www.shiftyjelly.com/pocketcasts
