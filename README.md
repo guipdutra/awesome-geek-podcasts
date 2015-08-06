@@ -21,6 +21,7 @@ A curated list of podcasts we like to listen to.
 * [FiveJS](https://fivejs.codeschool.com) - The latest news in the JavaScript community.
 * [The Laravel Podcast](http://www.laravelpodcast.com) - The Laravel Podcast brings you Laravel and PHP development news and discussion.
 * [The Five-Minute Geek Show](http://www.fiveminutegeekshow.com) - Matt Stauffer, unabashedly geeky, 5 minutes, twice a week. Frontend dev, backend dev, audio, design, podcasts--all fair game.
+* [OSPod](http://www.nextcast.net/openstackpod/) - OSpod is a Podcast featuring interviews with prominent members of the OpenStack Community.
 * [CodeNewbie Podcast](http://www.codenewbie.org/podcast) - Stories from people on their coding journey.
 * [Coding Blocks](http://www.codingblocks.net) - Software and Web Programming, security, best practices, Microsoft .NET and more.
 * [CodePen Radio](https://blog.codepen.io/radio) - Co-founders of CodePen talk about the ins and outs of running a web software business.
