@@ -7,6 +7,7 @@ A curated list of podcasts we like to listen to.
 * [ThoughtWorks](https://soundcloud.com/thoughtworks) - A community of passionate individuals whose purpose is to revolutionize software design, creation and delivery, while advocating for positive social change.
 * [DevChat.tv](http://devchat.tv) - We are programmers. House of Ruby Rogues, Javascript Jabber, IPhreaks, Freelancers' Show, Adventures in Angular and RailsClips.
 * [Thoughtbot](https://thoughtbot.com/podcasts) - We record and release weekly podcasts from thoughtbot on design, Ruby on Rails, iOS, running software companies, and maintaining work/life balance.
+* [The Accidental Tech Podcast](http://atp.fm) - Tumblr and iOS developer [Marco Arment](http://marco.org), along with hypercritical Ars Technica writer [John Siracusa](http://hypercritical.co) and developer [Casey Liss](http://www.caseyliss.com) talk about... well, anything.
 * [The Hanselminutes podcast](http://hanselminutes.com) - Fresh Air for Developers.
 * [This Developer's Life](http://thisdeveloperslife.com/) - A podcast about developers and their lives.
 * [Mind the Cloud Podcast](http://mindthecloud.com) - The podcast about the developers and companies using the cloud to create the future.
@@ -113,6 +114,7 @@ A curated list of podcasts we like to listen to.
 ### Tooling
 
 * http://www.shiftyjelly.com/pocketcasts
+* https://overcast.fm - an elegant podcast tracker for iOS and the web
 * http://antennapod.org (Android and Open Source)
 * https://github.com/bottiger/SoundWaves (Android and Open Source)
 * http://www.doggcatcher.com
