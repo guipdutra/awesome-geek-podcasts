@@ -66,6 +66,7 @@ A curated list of podcasts we like to listen to.
 * [Roots Radio](https://roots.io/radio0) - Roots Radio is a new podcast about the Roots tools, a chance for the Roots team to talk with some folks doing cool things with their own Roots related projects, and general banter about modern web development. 
 * [The Music Makers](http://musicmakers.fm) - The best articles from around the web, curated and read to you.
 * [Software Engineering Daily](http://softwareengineeringdaily.com/) - A podcast with daily interviews about technical software topics intended for professional software developers.
+* [Get Up and Code](http://getupandcode.com/) - Get Up and Code is a podcast about fitness for programmers and software developers. Every week, John Sonmez, helps you lose weight, refactor your diet and get in shape.
 
 ## In Portuguese
 
@@ -77,8 +78,7 @@ A curated list of podcasts we like to listen to.
 * [Curto Circuito](http://curtocircuito.cc/) - Um bate-papo descontraído sobre tecnologia, nerdices e tudo o mais que a curiosidade pedir no melhor estilo "mesa de bar".
 * [PHP Do Jeito Certo](http://phpdojeitocerto.tumblr.com/) - Notícias sobre as novidades do PHP para desenvolvedores experientes e iniciantes.
 * [PHPSPCast](http://phpsp.org.br/category/phpsp/phpspcast/) - O podcast do PHPSP, o primeiro podcast brasileiro sobre PHP.
-* [Get Up and Code](http://getupandcode.com/) - Get Up and Code is a podcast about fitness for programmers and software developers. Every week, John Sonmez, helps you lose weight, refactor your diet and get in shape.
-* 
+
 ## In Spanish
 
 * [Python en español](http://podcast.jcea.es/python/) - Python en tu idioma
