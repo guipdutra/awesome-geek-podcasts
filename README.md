@@ -66,6 +66,7 @@ A curated list of podcasts we like to listen to.
 * [Roots Radio](https://roots.io/radio0) - Roots Radio is a new podcast about the Roots tools, a chance for the Roots team to talk with some folks doing cool things with their own Roots related projects, and general banter about modern web development. 
 * [The Music Makers](http://musicmakers.fm) - The best articles from around the web, curated and read to you.
 * [Software Engineering Daily](http://softwareengineeringdaily.com/) - A podcast with daily interviews about technical software topics intended for professional software developers.
+* [WIRED's Webmonkey Podcast](http://www.wired.com/series/webmonkey) - Glance behind the scenes of WIRED.com with the tech team.
 
 ## In Portuguese
 
