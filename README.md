@@ -41,6 +41,7 @@ A curated list of podcasts we like to listen to.
 * [Ruby5](https://ruby5.codeschool.com) - The latest news in the Ruby and Rails community.
 * [RunAs Radio](http://www.runasradio.com/) - A weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.
 * [ShopTalk Show](http://shoptalkshow.com) - Podcast about front end web design, development and UX.
+* [Software Engineering Daily](http://softwareengineeringdaily.com/) - A podcast with daily interviews about technical software topics intended for professional software developers.
 * [Software Engineering Radio](http://www.se-radio.net/) - The podcast for professional software developers.
 * [Sound Of Symfony](http://www.soundofsymfony.com/) - The unofficial Symfony podcast.
 * [TTL Podcast](http://ttlpodcast.com/) - The TTL Podcast, hosted by Rebecca Murphey, features conversations with front-end developers at large organizations about how they do their jobs.
