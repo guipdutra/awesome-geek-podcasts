@@ -112,6 +112,10 @@ A curated list of podcasts we like to listen to.
 ## In German
 * [GeekWeek](http://geek-week.de/) - Weekly tech podcast hosted by Frederic Lardinois in the USA, Jean-Claude Frick in Switzerland und Marcus Schuler in Germany. Main topics are 'web' and 'mobile' news.
 
+## In Chinese
+
+* [Programmer life](http://podcast.tchen.me/) - Weekly tech podcast hosted by Tyr Chen in the silicon valley. Main topics are interesting github projects / hacker news topics and startups.
+
 ### Tooling
 
 * http://www.shiftyjelly.com/pocketcasts
