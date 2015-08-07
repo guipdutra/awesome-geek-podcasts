@@ -24,6 +24,7 @@ A curated list of podcasts we like to listen to.
 * [Full Stack Radio](http://fullstackradio.com/) - A podcast for developers interested in building great software products.
 * [Functional Geekery](http://www.functionalgeekery.com) - Functional Geeks, Geeking Functionally.
 * [Fw:Thinking](http://www.fwthinking.com/podcasts/) - It's about technology. It's about humanity. It's about our future. It's Fw:Thinking.
+* [Get Up and Code](http://getupandcode.com/) - Get Up and Code is a podcast about fitness for programmers and software developers. Every week, John Sonmez, helps you lose weight, refactor your diet and get in shape.
 * [GitMinutes](http://www.gitminutes.com/) - The show for proficient Git users.
 * [HardcoreHistory](http://www.dancarlin.com/hardcore-history-series/) - In "Hardcore History" the very unconventional Dan Carlin takes his "Martian", outside-the-box way of thinking and applies it to the past.
 * [Harry Potter and the methods of rationality](http://www.hpmorpodcast.com/) - This is an alternate universe story, where Petunia married a scientist. Harry enters the wizarding world armed with Enlightenment ideals and the experimental spirit.
@@ -75,8 +76,7 @@ A curated list of podcasts we like to listen to.
 * [PHPSPCast](http://phpsp.org.br/category/phpsp/phpspcast/) - O podcast do PHPSP, o primeiro podcast brasileiro sobre PHP.
 * [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br) - Agilidade, arquitetura, linguagens e ativismo.
 * [Zone Of Front-Enders](http://zofe.com.br) - Podcast com enfoque no desenvolvimento front-end da web.
-* [Get Up and Code](http://getupandcode.com/) - Get Up and Code is a podcast about fitness for programmers and software developers. Every week, John Sonmez, helps you lose weight, refactor your diet and get in shape.
-*
+
 ## In Spanish
 
 * [5 minutos con Carlos Fenollosa](http://cf5m.com/) - Micro-Podcast (5-10 minutos) de reflexiones sobre TIC
