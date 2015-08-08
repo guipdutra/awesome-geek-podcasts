@@ -116,12 +116,12 @@ A curated list of podcasts we like to listen to.
 
 ### Tooling
 
-* http://www.shiftyjelly.com/pocketcasts
-* https://overcast.fm - an elegant podcast tracker for iOS and the web
-* http://antennapod.org (Android and Open Source)
-* https://github.com/bottiger/SoundWaves (Android and Open Source)
-* http://www.doggcatcher.com
-* http://gpodder.org/ https://gpodder.net/ (Multi-plataform Open Source and Podcast Directory)
+* [Pocket Casts](http://www.shiftyjelly.com/pocketcasts)
+* [Overcast](https://overcast.fm) - An elegant podcast tracker for iOS and the web
+* [AntennaPod](http://antennapod.org) - (Android and Open Source)
+* [Soundwaves](https://github.com/bottiger/SoundWaves) - (Android and Open Source)
+* [DoggCatcher](http://www.doggcatcher.com) - Android Podcast player
+* [gPodder](http://gpodder.org/) / [gPodder Director](https://gpodder.net/) - (Multi-plataform Open Source and Podcast Directory)
 
 ### More
 
