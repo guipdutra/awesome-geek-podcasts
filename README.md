@@ -17,7 +17,7 @@ A curated list of podcasts we like to listen to.
 * [Developer Tea](https://developertea.com) - Podcast for web and software developers hosted by a developer that you can listen to in less than 10 minutes.
 * [The Cognicast](http://blog.cognitect.com/cognicast) - The Cognicast previously ThinkRelevance: The Podcast is the podcast from the Cognitect family.
 * [Functional Geekery](http://www.functionalgeekery.com) - Functional Geeks, Geeking Functionally.
-* [Ruby Rogues](http://devchat.tv/ruby-rogues)
+* [Ruby Rogues](http://devchat.tv/ruby-rogues) - Ruby Rogues is a weekly panel discussion about programming. Ruby and technologies like Rails are what we have in common, but the discussions cover parts of the Ruby ecosystem, gems (libraries) as well as programming practices, tools, and careers.
 * [Ruby5](https://ruby5.codeschool.com) - The latest news in the Ruby and Rails community.
 * [FiveJS](https://fivejs.codeschool.com) - The latest news in the JavaScript community.
 * [The Laravel Podcast](http://www.laravelpodcast.com) - The Laravel Podcast brings you Laravel and PHP development news and discussion.
@@ -118,12 +118,12 @@ A curated list of podcasts we like to listen to.
 
 ### Tooling
 
-* http://www.shiftyjelly.com/pocketcasts
-* https://overcast.fm - an elegant podcast tracker for iOS and the web
-* http://antennapod.org (Android and Open Source)
-* https://github.com/bottiger/SoundWaves (Android and Open Source)
-* http://www.doggcatcher.com
-* http://gpodder.org/ https://gpodder.net/ (Multi-plataform Open Source and Podcast Directory)
+* [Pocket Casts](http://www.shiftyjelly.com/pocketcasts)
+* [Overcast](https://overcast.fm) - An elegant podcast tracker for iOS and the web
+* [AntennaPod](http://antennapod.org) - (Android and Open Source)
+* [Soundwaves](https://github.com/bottiger/SoundWaves) - (Android and Open Source)
+* [DoggCatcher](http://www.doggcatcher.com) - Android Podcast player
+* [gPodder](http://gpodder.org/) / [gPodder Director](https://gpodder.net/) - (Multi-plataform Open Source and Podcast Directory)
 
 ### More
 
