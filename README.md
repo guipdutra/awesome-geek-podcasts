@@ -38,7 +38,7 @@ A curated list of podcasts we like to listen to.
 * [React Podcast](http://reactpodcast.com/) - Podcast about React.js
 * [Reply All](http://gimletmedia.com/show/reply-all) - Reply All is a show about the internet.
 * [Roots Radio](https://roots.io/radio0) - Roots Radio is a new podcast about the Roots tools, a chance for the Roots team to talk with some folks doing cool things with their own Roots related projects, and general banter about modern web development.
-* [Ruby Rogues](http://devchat.tv/ruby-rogues)
+* [Ruby Rogues](http://devchat.tv/ruby-rogues) - Ruby Rogues is a weekly panel discussion about programming. Ruby and technologies like Rails are what we have in common, but the discussions cover parts of the Ruby ecosystem, gems (libraries) as well as programming practices, tools, and careers.
 * [Ruby5](https://ruby5.codeschool.com) - The latest news in the Ruby and Rails community.
 * [RunAs Radio](http://www.runasradio.com/) - A weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.
 * [ShopTalk Show](http://shoptalkshow.com) - Podcast about front end web design, development and UX.
