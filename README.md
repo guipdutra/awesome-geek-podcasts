@@ -116,6 +116,10 @@ A curated list of podcasts we like to listen to.
 
 * [Programmer life](http://podcast.tchen.me/) - Weekly tech podcast hosted by Tyr Chen in the silicon valley. Main topics are interesting github projects / hacker news topics and startups.
 
+## In Polish
+
+* [DevTalk](http://devtalk.pl/) - Tech podcast for passionate developers. All topics related to dev: architecture, languages, tools, libraries, conferences, community, career planning... Hosted by Maciej Aniserowicz.
+
 ### Tooling
 
 * [Pocket Casts](http://www.shiftyjelly.com/pocketcasts)
