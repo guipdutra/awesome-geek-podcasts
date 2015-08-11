@@ -1,6 +1,7 @@
 ---
 title: Awesome Geek Podcasts
 permalink: /
+layout: default
 ---
 # Awesome Geek Podcasts
 
