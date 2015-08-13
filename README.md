@@ -21,7 +21,7 @@ A curated list of podcasts we like to listen to.
 * [Coding Blocks](http://www.codingblocks.net) - Software and Web Programming, security, best practices, Microsoft .NET and more.
 * [CppCast](http://cppcast.com/) - The first podcast by C++ developers for C++ developers.
 * [Creative Coding Podcast](http://creativecodingpodcast.com/) - about programming for visual and creative applications.
-* [CTRL+Click Cast](http://ctrlclickcast.com/) - They "inspect the web for you". Interviews with developers and designers, about design, code, and content management systems. Hosted by Lea Alcantara and Emily Lewis
+* [CTRL+Click Cast](http://ctrlclickcast.com/) - They "inspect the web for you". Interviews with developers and designers, about design, code, and content management systems. Hosted by Lea Alcantara and Emily Lewis.
 * [Dev Discussions](http://devdiscussions.com) - Discussions over a wide variety of topics including functional programming, domain-driven design, and game development.
 * [DevChat.tv](http://devchat.tv) - We are programmers. House of Ruby Rogues, Javascript Jabber, IPhreaks, Freelancers' Show, Adventures in Angular and RailsClips.
 * [Developer Tea](https://developertea.com) - Podcast for web and software developers hosted by a developer that you can listen to in less than 10 minutes.
