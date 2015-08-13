@@ -21,6 +21,7 @@ A curated list of podcasts we like to listen to.
 * [Coding Blocks](http://www.codingblocks.net) - Software and Web Programming, security, best practices, Microsoft .NET and more.
 * [CppCast](http://cppcast.com/) - The first podcast by C++ developers for C++ developers.
 * [Creative Coding Podcast](http://creativecodingpodcast.com/) - about programming for visual and creative applications.
+* [CTRL+Click Cast](http://ctrlclickcast.com/) - They "inspect the web for you". Interviews with developers and designers, about design, code, and content management systems. Hosted by Lea Alcantara and Emily Lewis
 * [Dev Discussions](http://devdiscussions.com) - Discussions over a wide variety of topics including functional programming, domain-driven design, and game development.
 * [DevChat.tv](http://devchat.tv) - We are programmers. House of Ruby Rogues, Javascript Jabber, IPhreaks, Freelancers' Show, Adventures in Angular and RailsClips.
 * [Developer Tea](https://developertea.com) - Podcast for web and software developers hosted by a developer that you can listen to in less than 10 minutes.
@@ -52,6 +53,7 @@ A curated list of podcasts we like to listen to.
 * [Software Engineering Radio](http://www.se-radio.net/) - The podcast for professional software developers.
 * [Sound Of Symfony](http://www.soundofsymfony.com/) - The unofficial Symfony podcast.
 * [TTL Podcast](http://ttlpodcast.com/) - The TTL Podcast, hosted by Rebecca Murphey, features conversations with front-end developers at large organizations about how they do their jobs.
+* [Talking Code](http://www.talkingcode.com/) - Short expert interviews that help you _decode_ what developers are saying.
 * [Talk Python to Me](http://www.talkpythontome.com/) - Weekly podcast (30 minutes) that covers a wide array of Python topics.
 * [Talking Machines](http://www.thetalkingmachines.com/) - Talking Machines is your window into the world of machine learning.
 * [TechStuff](http://shows.howstuffworks.com/techstuff-podcast.htm) - TechStuff tackles topics ranging from basic electronics to the Large Hadron Collider and everything in between. TechStuff is dedicated to demystifying technology and its role in our society and culture.
