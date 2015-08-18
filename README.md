@@ -109,6 +109,7 @@ A curated list of podcasts we like to listen to.
 * [RadioJS](http://radiojs.ru/) - Podcast about web-development, Javascript, Frontend and client-side.
 * [Razbor Poletov](http://razbor-poletov.com/) - Podcast about world of Java,technologies and software development.
 * [uWebDesign](http://uwebdesign.ru/) - Podcast about web-design, web-development and all IT-related stuff.
+* [Frontflip Podcast](http://frontflip.me/) - Podcast about JavaScript, frontend and related technologies.
 
 ## In Persian
 * [RadioGeek](http://jadi.net/podcast/) - Yet another podcast for wandering geeks in the intersection of society and technology.
