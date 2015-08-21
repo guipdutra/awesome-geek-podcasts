@@ -132,7 +132,8 @@ A curated list of podcasts we like to listen to.
 ## In Polish
 
 * [DevTalk](http://devtalk.pl/) - Tech podcast for passionate developers. All topics related to dev: architecture, languages, tools, libraries, conferences, community, career planning... Hosted by Maciej Aniserowicz.
-
+* [Just4Fun](http://just4fun.io/) - Biweekly tech podcast hosted by Rafal Warzycha and Piotr Leszczynski. Main topics are JavaScript and frontend.
+* 
 ### Tooling
 
 * [Pocket Casts](http://www.shiftyjelly.com/pocketcasts)
