@@ -83,8 +83,12 @@ A curated list of podcasts we like to listen to.
 
 * [Curto Circuito](http://curtocircuito.cc/) - Um bate-papo descontraído sobre tecnologia, nerdices e tudo o mais que a curiosidade pedir no melhor estilo "mesa de bar".
 * [DatabaseCast](http://imasters.com.br/perfil/databasecast) - Primeiro podcast brasileiro sobre bancos de dados.
+* [DevNaEstrada](http://devnaestrada.com.br) - Podcast semanal sobre desenvolvimento web com uma pitada de humor.
+* [DioCast](http://www.diolinux.com.br/search/label/DioCast) - Podcast sobre Linux e Software Livre.
+* [GDGCasts](http://gdgcasts.com) - Podcast do Google Developer Groups.
 * [Grok Podcast](http://www.grokpodcast.com) - Tecnologia, empreendedorismo, agilidade e muito mais.
 * [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) - Podcast about technology and Open Source/Free software
+* [OpenCast](http://tecnologiaaberta.com.br/category/opencast) - Podcast que aborda tecologias Open Source, de uma maneira geral.
 * [PHP Do Jeito Certo](http://phpdojeitocerto.tumblr.com/) - Notícias sobre as novidades do PHP para desenvolvedores experientes e iniciantes.
 * [PHPSPCast](http://phpsp.org.br/category/phpsp/phpspcast/) - O podcast do PHPSP, o primeiro podcast brasileiro sobre PHP.
 * [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br) - Agilidade, arquitetura, linguagens e ativismo.
@@ -134,7 +138,7 @@ A curated list of podcasts we like to listen to.
 
 * [DevTalk](http://devtalk.pl/) - Tech podcast for passionate developers. All topics related to dev: architecture, languages, tools, libraries, conferences, community, career planning... Hosted by Maciej Aniserowicz.
 * [Just4Fun](http://just4fun.io/) - Biweekly tech podcast hosted by Rafal Warzycha and Piotr Leszczynski. Main topics are JavaScript and frontend.
-* 
+*
 ### Tooling
 
 * [Pocket Casts](http://www.shiftyjelly.com/pocketcasts)
