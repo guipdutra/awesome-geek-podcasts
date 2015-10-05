@@ -53,6 +53,7 @@ A curated list of podcasts we like to listen to.
 * [Software Engineering Daily](http://softwareengineeringdaily.com/) - A podcast with daily interviews about technical software topics intended for professional software developers.
 * [Software Engineering Radio](http://www.se-radio.net/) - The podcast for professional software developers.
 * [Sound Of Symfony](http://www.soundofsymfony.com/) - The unofficial Symfony podcast.
+* [StarTalk Radio](http://www.startalkradio.net/shows-archive/) - Program devoted to all things space and is hosted by renowned astrophysicist Neil deGrasse Tyson.
 * [TTL Podcast](http://ttlpodcast.com/) - The TTL Podcast, hosted by Rebecca Murphey, features conversations with front-end developers at large organizations about how they do their jobs.
 * [Talking Code](http://www.talkingcode.com/) - Short expert interviews that help you _decode_ what developers are saying.
 * [Talk Python to Me](http://www.talkpythontome.com/) - Weekly podcast (30 minutes) that covers a wide array of Python topics.
