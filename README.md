@@ -98,6 +98,7 @@ A curated list of podcasts we like to listen to.
 
 ## In Spanish
 
+* [1984](http://podcast.jcea.es/podcast1984/) - Hacking, hacktivismo y seguridad
 * [5 minutos con Carlos Fenollosa](http://cf5m.com/) - Micro-Podcast (5-10 minutos) de reflexiones sobre TIC
 * [85% Cocoa](http://ochentaycincoporcientococoa.tumblr.com/) - Podcast sobre Cocoa y programación.
 * [A hombros de gigantes](http://www.rtve.es/alacarta/audios/a-hombros-de-gigantes/) - Programa de divulgación científica.
