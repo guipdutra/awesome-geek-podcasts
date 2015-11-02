@@ -113,6 +113,7 @@ A curated list of podcasts we like to listen to.
 * [Ideas ágiles](http://www.ideasagiles.com/podcast/) - Podcast sobre charlas, entrevistas y experiencias sobre la vida del desarrollador de software.
 * [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) - Programa de divulgación cientifica, ciencia ficción y videojuegos.
 * [Python en español](http://podcast.jcea.es/python/) - Python en tu idioma
+* [Reality Cracking](http://mhyst.es/rcracking) - GNU/Linux, privacidad, ética, seguridad, etc.
 * [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in english).
 
 ## In Russian
