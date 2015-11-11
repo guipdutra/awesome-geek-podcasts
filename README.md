@@ -100,6 +100,7 @@ A curated list of podcasts we like to listen to.
 * [GDGCasts](http://gdgcasts.com) - Podcast do Google Developer Groups.
 * [Grok Podcast](http://www.grokpodcast.com) - Tecnologia, empreendedorismo, agilidade e muito mais.
 * [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) - Podcast about technology and Open Source/Free software
+* [NerdCast](http://jovemnerd.com.br/categoria/nerdcast/) - Podcast do portal JovemNerd que fala sobre nerdices, teorias e rpg's
 * [OpenCast](http://tecnologiaaberta.com.br/category/opencast) - Podcast que aborda tecologias Open Source, de uma maneira geral.
 * [PHP Do Jeito Certo](http://phpdojeitocerto.tumblr.com/) - Notícias sobre as novidades do PHP para desenvolvedores experientes e iniciantes.
 * [PHPSPCast](http://phpsp.org.br/category/phpsp/phpspcast/) - O podcast do PHPSP, o primeiro podcast brasileiro sobre PHP.
