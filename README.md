@@ -90,6 +90,7 @@ A curated list of podcasts we like to listen to.
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com) - Interviews with people that are making the PHP community special.
 * [Developer On Fire](http://developeronfire.com/) - Podcast with inspiring interviews with successful software developers, architects, testers, and other professionals with stories of success, failure, excellence, and inspiration.
 * [WIRED's Webmonkey Podcast](http://www.wired.com/series/webmonkey) - Glance behind the scenes of WIRED.com with the tech team.
+* [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - Podcast about JavaScript and front-end web development.
 
 ## In Portuguese
 
