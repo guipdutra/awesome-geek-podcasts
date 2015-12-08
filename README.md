@@ -59,6 +59,7 @@ A curated list of podcasts we like to listen to.
 * [Ruby5](https://ruby5.codeschool.com) - The latest news in the Ruby and Rails community.
 * [RunAs Radio](http://www.runasradio.com/) - A weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.
 * [Rusty Radio](http://rustyrad.io/) - A show about the Rust programming language and community.
+* [New Rustacean](http://www.newrustacean.com/) - This is a podcast about learning the programming language Rust—from scratch.
 * [Security Now!](https://www.grc.com/securitynow.htm) - Security Now! consists of a discussion between Steve Gibson and Leo Laporte of issues of computer security and, conversely, insecurity.
 * [ShopTalk Show](http://shoptalkshow.com) - Podcast about front end web design, development and UX.
 * [Software Engineering Daily](http://softwareengineeringdaily.com/) - A podcast with daily interviews about technical software topics intended for professional software developers.
