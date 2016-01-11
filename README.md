@@ -31,6 +31,7 @@ A curated list of podcasts we like to listen to.
 * [Digital Human](http://www.bbc.co.uk/programmes/b01n7094) - BBC series explores the digital world presented by Aleks Krotoski.
 * [FLOSS Weekly](https://twit.tv/shows/floss-weekly) - Interviews with prominent guests from the free software/open source community.
 * [FiveJS](https://fivejs.codeschool.com) - The latest news in the JavaScript community.
+* [Fragmented](http://fragmentedpodcast.com/) - An Android Developer Podcast.
 * [Full Stack Radio](http://www.fullstackradio.com/) - A podcast for developers interested in building great software products.
 * [Functional Geekery](http://www.functionalgeekery.com) - Functional Geeks, Geeking Functionally.
 * [Fw:Thinking](http://www.fwthinking.com/podcasts/) - It's about technology. It's about humanity. It's about our future. It's Fw:Thinking.
@@ -59,6 +60,7 @@ A curated list of podcasts we like to listen to.
 * [Ruby5](https://ruby5.codeschool.com) - The latest news in the Ruby and Rails community.
 * [RunAs Radio](http://www.runasradio.com/) - A weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.
 * [Rusty Radio](http://rustyrad.io/) - A show about the Rust programming language and community.
+* [New Rustacean](http://www.newrustacean.com/) - This is a podcast about learning the programming language Rust—from scratch.
 * [Security Now!](https://www.grc.com/securitynow.htm) - Security Now! consists of a discussion between Steve Gibson and Leo Laporte of issues of computer security and, conversely, insecurity.
 * [ShopTalk Show](http://shoptalkshow.com) - Podcast about front end web design, development and UX.
 * [Software Engineering Daily](http://softwareengineeringdaily.com/) - A podcast with daily interviews about technical software topics intended for professional software developers.
