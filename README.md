@@ -134,6 +134,7 @@ A curated list of podcasts we like to listen to.
 * [Razbor Poletov](http://razbor-poletov.com/) - Podcast about world of Java, technologies and software development.
 * [uWebDesign](https://uwebdesign.ru/) - Podcast about web-design, web-development and all IT-related stuff.
 * [Frontflip Podcast](http://frontflip.me/) - Podcast about JavaScript, frontend and related technologies.
+* [GoLang Show](https://golangshow.com/) - Podcast about Go language.
 
 ## In Persian
 * [RadioGeek](http://jadi.net/podcast/) - Yet another podcast for wandering geeks in the intersection of society and technology.
