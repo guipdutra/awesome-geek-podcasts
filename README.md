@@ -117,6 +117,7 @@ A curated list of podcasts we like to listen to.
 * [5 minutos con Carlos Fenollosa](http://cf5m.com/) - Micro-Podcast (5-10 minutos) de reflexiones sobre TIC
 * [85% Cocoa](http://ochentaycincoporcientococoa.tumblr.com/) - Podcast sobre Cocoa y programación.
 * [A hombros de gigantes](http://www.rtve.es/alacarta/audios/a-hombros-de-gigantes/) - Programa de divulgación científica.
+* [Basta ya de picar](http://www.bastayadepicar.com/) - Podcasts donde se discuten diversos temas de programación y de la vida del programador. 
 * [CAChemE](http://cacheme.org/podcast/) - Aplicaciones para ciencia e ingeniería (principalmente Python).
 * [Entre Dev y Ops](http://www.entredevyops.es/podcast.html) - Podcast sobre DevOps y metodologías ágiles.
 * [Ideas ágiles](http://www.ideasagiles.com/podcast/) - Podcast sobre charlas, entrevistas y experiencias sobre la vida del desarrollador de software.
