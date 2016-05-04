@@ -51,7 +51,7 @@ A curated list of podcasts we like to listen to.
 * [Partially Derivative](http://www.partiallyderivative.com/) - A podcast about Data, Nerdiness, and Beer.
 * [PHP Round Table](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
 * [PHP Town Hall](http://phptownhall.com/) - Town Hall a way for PHP developers to raise questions about current events (or upcoming things) in the PHP community, with different guests each week.
-* [Podcast.__init__](http://podcastinit.com/) - A podcast about Python and the people who make it great.
+* [Podcast.\__init__](http://podcastinit.com/) - A podcast about Python and the people who make it great.
 * [Radiolab](http://www.radiolab.org) - Radiolab is a show about curiosity. Where sound illuminates ideas, and the boundaries blur between science, philosophy, and human experience.
 * [React Podcast](http://reactpodcast.com/) - Podcast about React.js
 * [Reactive](http://reactive.audio/) - A podcast which merges, filters, scans and maps streams of thoughts about software engineering, culture, and technology.
