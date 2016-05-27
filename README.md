@@ -111,6 +111,7 @@ A curated list of podcasts we like to listen to.
 * [OpenCast](http://tecnologiaaberta.com.br/category/opencast/) - Podcast que aborda tecologias Open Source, de uma maneira geral.
 * [PHP Do Jeito Certo](http://phpdojeitocerto.tumblr.com/) - Notícias sobre as novidades do PHP para desenvolvedores experientes e iniciantes.
 * [PHPSPCast](http://phpsp.org.br/category/phpsp/phpspcast/) - O podcast do PHPSP, o primeiro podcast brasileiro sobre PHP.
+* [PODebug](http://www.podebug.com/) - Desenvolvimento de software e tecnologia em geral, mas de forma bem humorada e descontraída.
 * [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br) - Agilidade, arquitetura, linguagens e ativismo.
 * [Zone Of Front-Enders](http://zofe.com.br) - Podcast com enfoque no desenvolvimento front-end da web.
 
