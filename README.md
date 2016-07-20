@@ -107,6 +107,7 @@ A curated list of podcasts we like to listen to.
 * [GDGCasts](http://gdgcasts.com) - Podcast do Google Developer Groups.
 * [Grok Podcast](http://www.grokpodcast.com) - Tecnologia, empreendedorismo, agilidade e muito mais.
 * [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) - Podcast about technology and Open Source/Free software
+* [Hipsters ponto Tech](http://hipsters.tech) - Podcast da Caelum sobre startups, programação, UX, gadgets e as últimas tendências em tecnologia.
 * [Lambda3 Podcast](https://blog.lambda3.com.br/category/podcast/) - Podcast da Lambda3
 * [NerdCast](http://jovemnerd.com.br/categoria/nerdcast/) - Podcast do portal JovemNerd que fala sobre nerdices, teorias e rpg's
 * [OpenCast](http://tecnologiaaberta.com.br/category/opencast/) - Podcast que aborda tecologias Open Source, de uma maneira geral.
@@ -115,7 +116,6 @@ A curated list of podcasts we like to listen to.
 * [PODebug](http://www.podebug.com/) - Desenvolvimento de software e tecnologia em geral, mas de forma bem humorada e descontraída.
 * [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br) - Agilidade, arquitetura, linguagens e ativismo.
 * [Zone Of Front-Enders](http://zofe.com.br) - Podcast com enfoque no desenvolvimento front-end da web.
-* [Hipsters ponto Tech](http://hipsters.tech) - Podcast da Caelum sobre startups, programação, UX, gadgets e as últimas tendências em tecnologia.
 
 ## In Spanish
 
