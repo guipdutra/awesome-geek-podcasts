@@ -47,6 +47,7 @@ A curated list of podcasts we like to listen to.
 * [Linear Digressions](http://www.lineardigressions.com) - Explores topics of data science and machine learning in an accessible way through real-world stories and examples.
 * [Linux Outlaws](http://sixgun.org/linuxoutlaws) - About anything that runs on Linux, about open source software on other platforms and many other things.
 * [Listen and Learn about AWS](http://aws.amazon.com/podcasts/aws-podcast/) - Jeff Barr discusses various aspects of the Amazon Web Services (AWS) offering. Each podcast include AWS news, tech tips, and interviews with startups, AWS partners, and AWS employees.
+* [Makers](https://makers.crew.co/) - Unexpected life moments that have had an impact on today’s most influential and experimental makers.
 * [Mind the Cloud Podcast](http://mindthecloud.com) - The podcast about the developers and companies using the cloud to create the future.
 * [Nodeup](http://nodeup.com/) - A Node.js Podcast.
 * [Note To Self](http://www.wnyc.org/shows/notetoself/) - Host Manoush Zomorodi talks with everyone from big name techies to elementary school teachers about the effects of technology on our lives, in a quest for the smart choices that will help you think and live better.
