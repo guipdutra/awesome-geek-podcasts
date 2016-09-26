@@ -142,6 +142,7 @@ A curated list of podcasts we like to listen to.
 * [Python en español](http://podcast.jcea.es/python/) - Python en tu idioma
 * [Reality Cracking](http://mhyst.es/rcracking/) - GNU/Linux, privacidad, ética, seguridad, etc.
 * [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in english).
+* [Preceptos Digitales](http://preceptosdigitales.com/) - Planificación y desarrollo Web.
 
 ## In Russian
 * [DevZen Podcast](http://devzen.ru/) - Podcast about programming, IT and related topics.
