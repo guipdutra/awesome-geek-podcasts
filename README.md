@@ -24,6 +24,7 @@ A curated list of podcasts we like to listen to.
 * [CppCast](http://cppcast.com/) - The first podcast by C++ developers for C++ developers.
 * [Creative Coding Podcast](http://creativecodingpodcast.com/) - about programming for visual and creative applications.
 * [CTRL+Click Cast](http://ctrlclickcast.com/) - They "inspect the web for you". Interviews with developers and designers, about design, code, and content management systems. Hosted by Lea Alcantara and Emily Lewis.
+* [Curious Minds](http://www.cmpod.net/) - Curious Minds is a podcast about Science, Technology, and History. Each episode brings interesting stories from a wide range of subjects: from Physics and Astronomy to Medicine, Art and Science Fiction.
 * [Descriptive](http://descriptive.audio/) - This is an interview show with people from the JavaScript and web development world, hosted by Kahlil Lechelt and Henning Glatter-Götz.
 * [Dev Discussions](http://www.devdiscussions.com) - Discussions over a wide variety of topics including functional programming, domain-driven design, and game development.
 * [DevChat.tv](https://devchat.tv/) - We are programmers. House of Ruby Rogues, Javascript Jabber, IPhreaks, Freelancers' Show, Adventures in Angular and RailsClips.
