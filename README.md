@@ -143,6 +143,7 @@ A curated list of podcasts we like to listen to.
 * [Reality Cracking](http://mhyst.es/rcracking/) - GNU/Linux, privacidad, ética, seguridad, etc.
 * [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in english).
 * [Preceptos Digitales](http://preceptosdigitales.com/) - Planificación y desarrollo Web.
+* [Nación Lumpen](http://www.nacionlumpen.com/) - similar a "Basta ya de picar".
 
 ## In Russian
 * [DevZen Podcast](http://devzen.ru/) - Podcast about programming, IT and related topics.
