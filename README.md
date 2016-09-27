@@ -177,6 +177,7 @@ A curated list of podcasts we like to listen to.
 ## In Chinese
 
 * [Programmer life](http://podcast.tchen.me/) - Weekly tech podcast hosted by Tyr Chen in the silicon valley. Main topics are interesting github projects / hacker news topics and startups.
+* [Teahour](http://teahour.fm/) - A podcast hosted by [Terry Tai](https://github.com/poshboytl), [Dingding Ye](https://github.com/sishen) and [Daniel Lv](https://github.com/lgn21st), Most topics are about software development, startups, etc.
 
 ## In Polish
 
