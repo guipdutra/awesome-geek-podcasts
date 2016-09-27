@@ -137,13 +137,13 @@ A curated list of podcasts we like to listen to.
 * [Basta ya de picar](http://www.bastayadepicar.com/) - Podcasts donde se discuten diversos temas de programación y de la vida del programador.
 * [CAChemE](http://cacheme.org/podcast/) - Aplicaciones para ciencia e ingeniería (principalmente Python).
 * [Entre Dev y Ops](http://www.entredevyops.es/podcast.html) - Podcast sobre DevOps y metodologías ágiles.
+* [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) - Programa de divulgación científica, ciencia ficción y vídeo juegos.
 * [Ideas ágiles](http://www.ideasagiles.com/podcast/) - Podcast sobre charlas, entrevistas y experiencias sobre la vida del desarrollador de software.
-* [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) - Programa de divulgación cientifica, ciencia ficción y videojuegos.
+* [Nación Lumpen](http://www.nacionlumpen.com/) - similar a "Basta ya de picar".
+* [Preceptos Digitales](http://preceptosdigitales.com/) - Planificación y desarrollo Web.
 * [Python en español](http://podcast.jcea.es/python/) - Python en tu idioma
 * [Reality Cracking](http://mhyst.es/rcracking/) - GNU/Linux, privacidad, ética, seguridad, etc.
-* [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in english).
-* [Preceptos Digitales](http://preceptosdigitales.com/) - Planificación y desarrollo Web.
-* [Nación Lumpen](http://www.nacionlumpen.com/) - similar a "Basta ya de picar".
+* [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in English).
 
 ## In Russian
 * [DevZen Podcast](http://devzen.ru/) - Podcast about programming, IT and related topics.
