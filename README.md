@@ -41,6 +41,7 @@ A curated list of podcasts we like to listen to.
 * [Garbage](http://garbage.fm/) - A podcast about technology by two OpenBSD developers.
 * [Get Up and Code](http://getupandcode.com/) - Get Up and Code is a podcast about fitness for programmers and software developers. Every week, John Sonmez, helps you lose weight, refactor your diet and get in shape.
 * [GitMinutes](http://www.gitminutes.com/) - The show for proficient Git users.
+* [Go Time](https://changelog.com/gotime/) - Interesting topics around the Go programming language, building systems, the community, and everything in between.
 * [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - The Google Cloud Platform Podcast, coming to you every week. Discussing everything from on Google Cloud Platform from App Engine to Big Query.
 * [HardcoreHistory](http://www.dancarlin.com/hardcore-history-series/) - In "Hardcore History" the very unconventional Dan Carlin takes his "Martian", outside-the-box way of thinking and applies it to the past.
 * [Harry Potter and the methods of rationality](http://www.hpmorpodcast.com/) - This is an alternate universe story, where Petunia married a scientist. Harry enters the wizarding world armed with Enlightenment ideals and the experimental spirit.
