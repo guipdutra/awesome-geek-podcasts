@@ -44,6 +44,7 @@ A curated list of podcasts we like to listen to.
 * [Radiolab](http://www.radiolab.org) - Radiolab is a show about curiosity. Where sound illuminates ideas, and the boundaries blur between science, philosophy, and human experience.
 * [React Podcast](http://reactpodcast.com/) - Podcast about React.js
 * [Reply All](http://gimletmedia.com/show/reply-all) - Reply All is a show about the internet.
+* [Rocket Talk](http://www.tor.com/features/series/rocket-talk-podcast/) - Rocket Talk is Tor.com’s sci-fi/fantasy podcast, blending discussion style talk-radio with audio narrations of Tor.com’s award winning short fiction.
 * [Roots Radio](https://roots.io/radio0) - Roots Radio is a new podcast about the Roots tools, a chance for the Roots team to talk with some folks doing cool things with their own Roots related projects, and general banter about modern web development.
 * [Ruby Rogues](http://devchat.tv/ruby-rogues) - Ruby Rogues is a weekly panel discussion about programming. Ruby and technologies like Rails are what we have in common, but the discussions cover parts of the Ruby ecosystem, gems (libraries) as well as programming practices, tools, and careers.
 * [Ruby5](https://ruby5.codeschool.com) - The latest news in the Ruby and Rails community.
@@ -54,6 +55,7 @@ A curated list of podcasts we like to listen to.
 * [Software Engineering Radio](http://www.se-radio.net/) - The podcast for professional software developers.
 * [Sound Of Symfony](http://www.soundofsymfony.com/) - The unofficial Symfony podcast.
 * [StarTalk Radio](http://www.startalkradio.net/shows-archive/) - Program devoted to all things space and is hosted by renowned astrophysicist Neil deGrasse Tyson.
+* [Sword & Laser](http://swordandlaser.com/) - The Sword and Laser (S&L) is a science fiction and fantasy-themed book club, video show and podcast, started by Veronica Belmont and Tom Merritt. 
 * [TTL Podcast](http://ttlpodcast.com/) - The TTL Podcast, hosted by Rebecca Murphey, features conversations with front-end developers at large organizations about how they do their jobs.
 * [Talking Code](http://www.talkingcode.com/) - Short expert interviews that help you _decode_ what developers are saying.
 * [Talk Python to Me](http://www.talkpythontome.com/) - Weekly podcast (30 minutes) that covers a wide array of Python topics.
