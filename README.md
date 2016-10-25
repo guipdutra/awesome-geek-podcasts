@@ -3,7 +3,7 @@ title: Awesome Geek Podcasts
 permalink: /
 layout: default
 ---
-# Awesome Geek Podcasts
+# Awesome Geek Podcasts [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of podcasts we like to listen to.
 
@@ -209,7 +209,5 @@ A curated list of podcasts we like to listen to.
 * [gPodder](http://gpodder.org/) / [gPodder Director](https://gpodder.net/) - (Multi-plataform Open Source and Podcast Directory)
 
 ### More
-
-[![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 See [CONTRIBUTING](CONTRIBUTING.md) for info on how to contribute to this list.
