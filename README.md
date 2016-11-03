@@ -204,6 +204,7 @@ A curated list of podcasts we like to listen to.
 * [Le comptoir sécu](http://www.comptoirsecu.fr) — Bimensual podcasts about security, welcoming an expert for each subject. Hosted by Justin Ganivet, Morgan Hotonnier, Youenn Piolet, Loïs Samain.
 
 ## In German
+* [Apfelfunk](http://apfelfunk.com/) - Weekly podcast about everything that's related to Apple. 
 * [Freak Show](http://freakshow.fm/) - Tech podcast, normally published every two weeks. Mostly Apple, Bitcoin and podcasting.
 * [GeekWeek](http://geek-week.de/) - Weekly tech podcast hosted by Frederic Lardinois in the USA, Jean-Claude Frick in Switzerland und Marcus Schuler in Germany. Main topics are 'web' and 'mobile' news.
 * [Request for Comments](http://requestforcomments.de/) - Der RFC Podcast
