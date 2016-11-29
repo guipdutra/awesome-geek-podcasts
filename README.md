@@ -43,7 +43,6 @@ A curated list of podcasts we like to listen to.
 * [DevChat.tv](https://devchat.tv/) - We are programmers. House of Ruby Rogues, Javascript Jabber, IPhreaks, Freelancers' Show, Adventures in Angular and RailsClips.
 * [Dev Discussions](http://www.devdiscussions.com) - Discussions over a wide variety of topics including functional programming, domain-driven design, and game development.
 * [Developer On Fire](http://developeronfire.com/) - Podcast with inspiring interviews with successful software developers, architects, testers, and other professionals with stories of success, failure, excellence, and inspiration.
-* [Developer On Fire](http://developeronfire.com/) - Podcast with inspiring interviews with successful software developers, architects, testers, and other professionals with stories of success, failure, excellence, and inspiration.
 * [DevelopersHangout](http://www.developershangout.io/) - Two Developers talk about challeges, articles, news, books and other podcasts that came across their radar every 2 weeks. Laravel, PHP are two key topics, and other great podcasts like the ones listed above.
 * [Developer Tea](https://developertea.com) - Podcast for web and software developers hosted by a developer that you can listen to in less than 10 minutes.
 * [Developing Perspective](	http://developingperspective.com/) - From development and design to marketing and support, Under the Radar is all about independent app development. It's never longer than 30 minutes.
