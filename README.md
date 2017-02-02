@@ -230,6 +230,10 @@ A curated list of podcasts we like to listen to.
 
 * [Frontend Friday](http://frontendfriday.fi/) – A podcast and meeting about HTML, the Web, and related topics. From Oulu, Finland.
 
+## In Japanese
+
+* [Rebuild](http://rebuild.fm/) - A Podcast by Tatsuhiko Miyagawa. Talking about Tech, Software Development and Gadgets.
+
 ### Tooling
 
 * [Pocket Casts](http://www.shiftyjelly.com/pocketcasts)
