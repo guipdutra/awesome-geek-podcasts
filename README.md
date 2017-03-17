@@ -134,6 +134,7 @@ A curated list of podcasts we like to listen to.
 * [Three Devs and a Maybe](http://threedevsandamaybe.com/) - Weekly discussion podcast on all things web development. Topics range from daily developer life, PHP, frameworks, testing, good software design and our experiences using many other programming languages.
 * [Toolsday Podcast](http://toolsday.io/) - A 20-ish-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays at 2!
 * [TTL Podcast](http://ttlpodcast.com/) - The TTL Podcast, hosted by Rebecca Murphey, features conversations with front-end developers at large organizations about how they do their jobs.
+* [Ubuntu Podcast](http://ubuntupodcast.org) - A lively and upbeat podcast made by members of the Ubuntu UK LoCo that includes news, discussion and interviews from the Ubuntu and Open Source communities.
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com) - Interviews with people that are making the PHP community special.
 * [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - Podcast about JavaScript and front-end web development.
 * [Why Are Computers](http://whyarecomputers.com/) - A podcast about computers and computer programs and why.
