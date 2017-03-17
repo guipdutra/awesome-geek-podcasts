@@ -208,6 +208,7 @@ A curated list of podcasts we like to listen to.
 * [Apfelfunk](http://apfelfunk.com/) - Weekly podcast about everything that's related to Apple. 
 * [Freak Show](http://freakshow.fm/) - Tech podcast, normally published every two weeks. Mostly Apple, Bitcoin and podcasting.
 * [GeekWeek](http://geek-week.de/) - Weekly tech podcast hosted by Frederic Lardinois in the USA, Jean-Claude Frick in Switzerland und Marcus Schuler in Germany. Main topics are 'web' and 'mobile' news.
+* [Logbuch:Netzpolitik](https://logbuch-netzpolitik.de/) - Weekly podcast about netpolitics.
 * [Request for Comments](http://requestforcomments.de/) - Der RFC Podcast
 * [Working Draft](http://workingdraft.de/) - Weekly news podcast for webdesigners and developers.
 
