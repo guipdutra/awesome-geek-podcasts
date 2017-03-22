@@ -65,6 +65,7 @@ A curated list of podcasts we like to listen to.
 * [Go Time](https://changelog.com/gotime/) - Interesting topics around the Go programming language, building systems, the community, and everything in between.
 * [HardcoreHistory](http://www.dancarlin.com/hardcore-history-series/) - In "Hardcore History" the very unconventional Dan Carlin takes his "Martian", outside-the-box way of thinking and applies it to the past.
 * [Harry Potter and the methods of rationality](http://www.hpmorpodcast.com/) - This is an alternate universe story, where Petunia married a scientist. Harry enters the wizarding world armed with Enlightenment ideals and the experimental spirit.
+* [HaskellCast](http://www.haskellcast.com/) — A podcast for Haskell developers working in industry.
 * [HTTP 203](https://developers.google.com/web/shows/http203/) -  In each show Jake and Paul pick a hot topic in the world of web development and discuss the various aspects of it, meanwhile dropping in lifehacks, lessons and some rather honest truths.
 * [JavaScript Air](https://javascriptair.com/) - The live broadcast podcast all about JavaScript.
 * [Laravel News Podcast](http://podcast.laravel-news.com/) - The Laravel News Podcast brings you all the latest news and events related to Laravel.
