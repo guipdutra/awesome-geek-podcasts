@@ -112,6 +112,7 @@ A curated list of podcasts we like to listen to.
 * [Start Here FM](http://dain.io/startherefm/) - An informative and up-to-date podcast on creating a business with Web Development.
 * [Syscast Podcast](http://podcast.sysca.st/) - Talking Linux, open source, web development and system administration (DevOps).
 * [Talking Code](http://www.talkingcode.com/) - Short expert interviews that help you _decode_ what developers are saying.
+* [Talking Kotlin](http://talkingkotlin.com/) - A bimonthly podcast on Kotlin and more hosted by Hadi Hariri.
 * [Talking Machines](http://www.thetalkingmachines.com/) - Talking Machines is your window into the world of machine learning.
 * [Talking Kotlin](http://talkingkotlin.com/) - A Podcast on Kotlin and more.
 * [Talk Python to Me](http://talkpython.fm/) - Weekly podcast (30 minutes) that covers a wide array of Python topics.
