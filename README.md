@@ -110,6 +110,7 @@ A curated list of podcasts we like to listen to.
 * [Sound Of Symfony](http://www.soundofsymfony.com/) - The unofficial Symfony podcast.
 * [StarTalk Radio](http://www.startalkradio.net/shows-archive/) - Program devoted to all things space and is hosted by renowned astrophysicist Neil deGrasse Tyson.
 * [Start Here FM](http://dain.io/startherefm/) - An informative and up-to-date podcast on creating a business with Web Development.
+* [Syntax FM](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
 * [Syscast Podcast](http://podcast.sysca.st/) - Talking Linux, open source, web development and system administration (DevOps).
 * [Talking Code](http://www.talkingcode.com/) - Short expert interviews that help you _decode_ what developers are saying.
 * [Talking Kotlin](http://talkingkotlin.com/) - A bimonthly podcast on Kotlin and more hosted by Hadi Hariri.
