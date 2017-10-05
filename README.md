@@ -32,6 +32,7 @@ A curated list of podcasts we like to listen to.
 * [CodePen Radio](https://blog.codepen.io/radio/) - Co-founders of CodePen talk about the ins and outs of running a web software business.
 * [Coding Blocks](http://www.codingblocks.net) - Software and Web Programming, security, best practices, Microsoft .NET and more.
 * [Complete Developer Podcast](http://completedeveloperpodcast.com/) - There are plenty of podcasts out there about languages and coding. What we are doing with the Complete Developer Podcast is to cover the other areas of life. For example, our first episode is about talking with customers, bosses, and others that developers interact with who are not fellow developers.
+* [Cortex](https://www.relay.fm/cortex) - Content creators CGP Grey and Myke Hurley discuss their processes, productivity hacks, workflows, and general working lives.
 * [CppCast](http://cppcast.com/) - The first podcast by C++ developers for C++ developers.
 * [Creative Coding Podcast](http://creativecodingpodcast.com/) - about programming for visual and creative applications.
 * [CTRL+Click Cast](http://ctrlclickcast.com/) - They "inspect the web for you". Interviews with developers and designers, about design, code, and content management systems. Hosted by Lea Alcantara and Emily Lewis.
