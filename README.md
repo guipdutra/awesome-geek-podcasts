@@ -52,6 +52,7 @@ A curated list of podcasts we like to listen to.
 * [Eat Sleep Code Podcast](https://soundcloud.com/esc-podcast) - On the show we’ll be talking to passionate people about a wide range of developer related topics.
 * [Elixir Foundation](http://feed.elixirfountain.com/) - Your weekly podcast for news & interviews from around the Elixirlang Community
 * [Embedded.fm](http://embedded.fm/) - Talk about the how, why, and what of engineering, usually devices.
+* [Elm Town](https://elmtown.github.io/) - A podcast about the people making and using the Elm language, and the things that they do.
 * [Entreprogrammers](http://entreprogrammers.com/) - Get a fly-on-the-wall perspective from 4 developers turned entrepreneurs, as they struggle with the business and learn lessons the hard way. This is the weekly mastermind group of the entreprogrammers.
 * [FiveJS](https://fivejs.codeschool.com) - The latest news in the JavaScript community.
 * [FLOSS Weekly](https://twit.tv/shows/floss-weekly) - Interviews with prominent guests from the free software/open source community.
@@ -111,6 +112,7 @@ A curated list of podcasts we like to listen to.
 * [Syscast Podcast](http://podcast.sysca.st/) - Talking Linux, open source, web development and system administration (DevOps).
 * [Talking Code](http://www.talkingcode.com/) - Short expert interviews that help you _decode_ what developers are saying.
 * [Talking Machines](http://www.thetalkingmachines.com/) - Talking Machines is your window into the world of machine learning.
+* [Talking Kotlin](http://talkingkotlin.com/) - A Podcast on Kotlin and more.
 * [Talk Python to Me](http://talkpython.fm/) - Weekly podcast (30 minutes) that covers a wide array of Python topics.
 * [TechStuff](http://shows.howstuffworks.com/techstuff-podcast.htm) - TechStuff tackles topics ranging from basic electronics to the Large Hadron Collider and everything in between. TechStuff is dedicated to demystifying technology and its role in our society and culture.
 * [Test and Code Podcast](http://pythontesting.net/test-podcast/) - A podcast about Software Development, Software Testing, and Python.
@@ -127,7 +129,7 @@ A curated list of podcasts we like to listen to.
 * [The Hanselminutes podcast](http://hanselminutes.com) - Fresh Air for Developers.
 * [The Laravel Podcast](http://www.laravelpodcast.com) - The Laravel Podcast brings you Laravel and PHP development news and discussion.
 * [The Life Scientific](http://www.bbc.co.uk/programmes/b015sqc7) - Professor Jim Al-Khalili talks to leading scientists about their life and work, finding out what inspires and motivates them and asking what their discoveries might do for mankind.
-* [The Linux Action Show](http://www.jupiterbroadcasting.com/tag/linux-action-show/) - Podcast about Linux and Open Source.
+* [The Linux Action Show](http://www.jupiterbroadcasting.com/tag/linux-action-show/) - Podcast about Linux and Open Source. (discontinued)
 * [The Loosely Coupled Podcast](http://looselycoupled.info/) - Jeff Carouth and Matt Frost combine their decades of experience as web developers to talk about developer life.
 * [The Music Makers](http://musicmakers.fm) - The best articles from around the web, curated and read to you.
 * [The Path to Performance](https://pathtoperf.com/) - A podcast for everyone dedicated to making websites faster.
@@ -210,7 +212,7 @@ A curated list of podcasts we like to listen to.
 * [Le comptoir sécu](http://www.comptoirsecu.fr) — Bimensual podcasts about security, welcoming an expert for each subject. Hosted by Justin Ganivet, Morgan Hotonnier, Youenn Piolet, Loïs Samain.
 
 ## In German
-* [Apfelfunk](http://apfelfunk.com/) - Weekly podcast about everything that's related to Apple. 
+* [Apfelfunk](http://apfelfunk.com/) - Weekly podcast about everything that's related to Apple.
 * [Freak Show](http://freakshow.fm/) - Tech podcast, normally published every two weeks. Mostly Apple, Bitcoin and podcasting.
 * [GeekWeek](http://geek-week.de/) - Weekly tech podcast hosted by Frederic Lardinois in the USA, Jean-Claude Frick in Switzerland und Marcus Schuler in Germany. Main topics are 'web' and 'mobile' news.
 * [Logbuch:Netzpolitik](https://logbuch-netzpolitik.de/) - Weekly podcast about netpolitics.
