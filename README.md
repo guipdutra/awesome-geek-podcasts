@@ -96,6 +96,7 @@ A curated list of podcasts we like to listen to.
 * [React Podcast](http://reactpodcast.com/) - Podcast about React.js
 * [Reasonably Sound](http://www.infiniteguest.org/reasonably-sound/) - Context, explanation and a little celebration of the complexities and awesomeness of audio, and the various cultures which surround and have grown around it.
 * [Reply All](https://gimletmedia.com/show/reply-all/) - Reply All is a show about the internet.
+* [Rocket Talk](http://www.tor.com/features/series/rocket-talk-podcast/) - Rocket Talk is Tor.com’s sci-fi/fantasy podcast, blending discussion style talk-radio with audio narrations of Tor.com’s award winning short fiction.
 * [Risky Business](http://risky.biz/netcasts/risky-business) - Risky Business was established in February, 2007. It take a lighthearted look at information security news and features.
 * [Roots Radio](https://roots.io/radio0) - Roots Radio is a new podcast about the Roots tools, a chance for the Roots team to talk with some folks doing cool things with their own Roots related projects, and general banter about modern web development.
 * [Ruby5](https://ruby5.codeschool.com) - The latest news in the Ruby and Rails community.
@@ -109,6 +110,7 @@ A curated list of podcasts we like to listen to.
 * [Soft Skills Engineering](https://softskills.audio/) - Weekly advice podcast for software developers. It takes more than great code to be a great developer.
 * [Sound Of Symfony](http://www.soundofsymfony.com/) - The unofficial Symfony podcast.
 * [StarTalk Radio](http://www.startalkradio.net/shows-archive/) - Program devoted to all things space and is hosted by renowned astrophysicist Neil deGrasse Tyson.
+* [Sword & Laser](http://swordandlaser.com/) - The Sword and Laser (S&L) is a science fiction and fantasy-themed book club, video show and podcast, started by Veronica Belmont and Tom Merritt. 
 * [Start Here FM](http://dain.io/startherefm/) - An informative and up-to-date podcast on creating a business with Web Development.
 * [Syntax FM](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
 * [Syscast Podcast](http://podcast.sysca.st/) - Talking Linux, open source, web development and system administration (DevOps).
