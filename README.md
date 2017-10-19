@@ -75,6 +75,7 @@ A curated list of podcasts we like to listen to.
 * [Iron Sysadmin](https://www.undrground.org/ironsysadmin) - A Podcast by real world sysadmins, for real world sysadmins.
 * [IRL: Because Online Life Is Real Life](https://irlpodcast.org/) - Host Veronica Belmont shares real stories of life online and real talk about the future of the Web. IRL is an original podcast from Mozilla.
 * [JavaScript Air](https://javascriptair.com/) - The live broadcast podcast all about JavaScript.
+* [Javascript to Elm](http://jstoelm.com/) - A podcast about using Elm coming from Javascript and other languages.
 * [Laravel News Podcast](http://podcast.laravel-news.com/) - The Laravel News Podcast brings you all the latest news and events related to Laravel.
 * [Linear Digressions](http://www.lineardigressions.com) - Explores topics of data science and machine learning in an accessible way through real-world stories and examples.
 * [Linux Outlaws](http://sixgun.org/linuxoutlaws) - About anything that runs on Linux, about open source software on other platforms and many other things.
