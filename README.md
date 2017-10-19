@@ -7,6 +7,29 @@ layout: default
 
 A curated list of podcasts we like to listen to.
 
+# Table of Contents
+
+## Podcasts by language
+
+- [English](#in-english)
+- [Portuguese](#in-portuguese)
+- [Spanish](#in-spanish)
+- [Russian](#in-russian)
+- [Persian](#in-persian)
+- [Swedish](#in-swedish)
+- [French](#in-french)
+- [German](#in-german)
+- [Chinese](#in-chinese)
+- [Polish](#in-polish)
+- [Turkish](#in-turkish)
+- [Finnish](#in-finnish)
+- [Japanese](#in-japanese)
+
+## Other information
+
+- [Tooling](#tooling)
+- [More](#more)
+
 ## In English
 
 * [.NET Rocks!](http://www.dotnetrocks.com/) - The internet audio talk show for .NET developer with Carl Franklin and Richard Campbell.
@@ -206,6 +229,7 @@ A curated list of podcasts we like to listen to.
 * [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in English).
 
 ## In Russian
+
 * [DevZen Podcast](http://devzen.ru/) - Podcast about programming, IT and related topics.
 * [How to make games](http://galyonkin.com/podcast/) - Podcast about video games and video games industry.
 * [RWPod](http://www.rwpod.com/) - Podcast about world of Ruby and Web technologies.
@@ -218,19 +242,23 @@ A curated list of podcasts we like to listen to.
 * [GoLang Show](https://golangshow.com/) - Podcast about Go language.
 
 ## In Persian
+
 * [RadioGeek](http://jadi.net/podcast/) - Yet another podcast for wandering geeks in the intersection of society and technology.
 * [Shir Ya Khat](http://shiryakhat.net/) - The first Blockchain Podcast dedicated to Iranians and Farsi speaking communities. We talk about Bitcoin, Blockchain assets and decentralization ideaology.
 
 ## In Swedish
+
 * [Kodsnack](http://kodsnack.se) - Weekly Swedish podcast about all things code, for coders. Hosted by Fredrik Björeman, Tobias Hieta and Kristoffer Grönlund, with occasional guests.
 
 ## In French
+
 * [Blogue Linux](http://www.bloguelinux.ca/) - French (Quebec) podcast talking about Linux technologies.
 * [La Dev Team](http://www.radiokawa.com/jeux-video/la-dev-team/) - Monthly podcast hosted by developers and talking about the video game industry.
 * [Le comptoir sécu](http://www.comptoirsecu.fr) — Bimensual podcasts about security, welcoming an expert for each subject. Hosted by Justin Ganivet, Morgan Hotonnier, Youenn Piolet, Loïs Samain.
 * [Visual Studio Talk Show](http://visualstudiotalkshow.libsyn.com/) - French podcast talking about development with Microsoft technologies. Hosted by Mario Cardinal and Guy Barrette.
 
 ## In German
+
 * [Apfelfunk](http://apfelfunk.com/) - Weekly podcast about everything that's related to Apple.
 * [Freak Show](http://freakshow.fm/) - Tech podcast, normally published every two weeks. Mostly Apple, Bitcoin and podcasting.
 * [GeekWeek](http://geek-week.de/) - Weekly tech podcast hosted by Frederic Lardinois in the USA, Jean-Claude Frick in Switzerland und Marcus Schuler in Germany. Main topics are 'web' and 'mobile' news.
