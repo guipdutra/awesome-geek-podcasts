@@ -225,6 +225,7 @@ A curated list of podcasts we like to listen to.
 * [Nación Lumpen](http://www.nacionlumpen.com/) - similar a "Basta ya de picar".
 * [Preceptos Digitales](http://preceptosdigitales.com/) - Planificación y desarrollo Web.
 * [Python en español](http://podcast.jcea.es/python/) - Python en tu idioma
+* [RantPod](http://rantpod.com/) - el podcast de Agile Galicia, o algo así.
 * [Reality Cracking](http://mhyst.es/rcracking/) - GNU/Linux, privacidad, ética, seguridad, etc.
 * [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in English).
 
