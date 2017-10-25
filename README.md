@@ -220,84 +220,84 @@ A curated list of podcasts we like to listen to.
 
 ## In Spanish
 
-* [1984](http://podcast.jcea.es/podcast1984/) - Hacking, hacktivismo y seguridad
-* [5 minutos con Carlos Fenollosa](http://cf5m.com/) - Micro-Podcast (5-10 minutos) de reflexiones sobre TIC
-* [85% Cocoa](http://ochentaycincoporcientococoa.tumblr.com/) - Podcast sobre Cocoa y programación.
-* [A hombros de gigantes](http://www.rtve.es/alacarta/audios/a-hombros-de-gigantes/) - Programa de divulgación científica.
-* [Basta ya de picar](http://www.bastayadepicar.com/) - Podcasts donde se discuten diversos temas de programación y de la vida del programador.
-* [CAChemE](http://cacheme.org/podcast/) - Aplicaciones para ciencia e ingeniería (principalmente Python).
-* [El gato de Turing](https://elgatodeturing.com/) - Podcast sobre la actualidad científica y tecnológica.
-* [Entre Dev y Ops](http://www.entredevyops.es/podcast.html) - Podcast sobre DevOps y metodologías ágiles.
-* [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) - Programa de divulgación científica, ciencia ficción y vídeo juegos.
-* [Ideas ágiles](http://www.ideasagiles.com/podcast/) - Podcast sobre charlas, entrevistas y experiencias sobre la vida del desarrollador de software.
-* [Nación Lumpen](http://www.nacionlumpen.com/) - similar a "Basta ya de picar".
-* [Preceptos Digitales](http://preceptosdigitales.com/) - Planificación y desarrollo Web.
-* [Python en español](http://podcast.jcea.es/python/) - Python en tu idioma
-* [RantPod](http://rantpod.com/) - el podcast de Agile Galicia, o algo así.
-* [Reality Cracking](http://mhyst.es/rcracking/) - GNU/Linux, privacidad, ética, seguridad, etc.
-* [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in English).
+* :closed_book: [1984](http://podcast.jcea.es/podcast1984/) - Hacking, hacktivismo y seguridad
+* :closed_book: [5 minutos con Carlos Fenollosa](http://cf5m.com/) - Micro-Podcast (5-10 minutos) de reflexiones sobre TIC
+* :closed_book: [85% Cocoa](http://ochentaycincoporcientococoa.tumblr.com/) - Podcast sobre Cocoa y programación.
+* :green_book: [A hombros de gigantes](http://www.rtve.es/alacarta/audios/a-hombros-de-gigantes/) - Programa de divulgación científica.
+* :closed_book: [Basta ya de picar](http://www.bastayadepicar.com/) - Podcasts donde se discuten diversos temas de programación y de la vida del programador.
+* :closed_book: [CAChemE](http://cacheme.org/podcast/) - Aplicaciones para ciencia e ingeniería (principalmente Python).
+* :green_book: [El gato de Turing](https://elgatodeturing.com/) - Podcast sobre la actualidad científica y tecnológica.
+* :closed_book: [Entre Dev y Ops](http://www.entredevyops.es/podcast.html) - Podcast sobre DevOps y metodologías ágiles.
+* :green_book: [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) - Programa de divulgación científica, ciencia ficción y vídeo juegos.
+* :white_circle: [Ideas ágiles](http://www.ideasagiles.com/podcast/) - Podcast sobre charlas, entrevistas y experiencias sobre la vida del desarrollador de software.
+* :blue_book: [Nación Lumpen](http://www.nacionlumpen.com/) - similar a "Basta ya de picar".
+* :blue_book: [Preceptos Digitales](http://preceptosdigitales.com/) - Planificación y desarrollo Web.
+* :closed_book: [Python en español](http://podcast.jcea.es/python/) - Python en tu idioma
+* :closed_book: [RantPod](http://rantpod.com/) - el podcast de Agile Galicia, o algo así.
+* :closed_book: [Reality Cracking](http://mhyst.es/rcracking/) - GNU/Linux, privacidad, ética, seguridad, etc.
+* :closed_book: [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in English).
 
 ## In Russian
 
-* [DevZen Podcast](http://devzen.ru/) - Podcast about programming, IT and related topics.
-* [How to make games](http://galyonkin.com/podcast/) - Podcast about video games and video games industry.
-* [RWPod](http://www.rwpod.com/) - Podcast about world of Ruby and Web technologies.
-* [Radio-T](http://www.radio-t.com/) - Podcast of weekend. Improvisation on the theme of IT.
-* [RadioJS](http://radiojs.ru/) - Podcast about web-development, Javascript, Frontend and client-side.
-* [SDCast](http://sdcast.ksdaemon.ru) — Software development podcast. Interviews with developers, talks about development, open source and related IT topics.
-* [Razbor Poletov](http://razbor-poletov.com/) - Podcast about world of Java, technologies and software development.
-* [uWebDesign](https://uwebdesign.ru/) - Podcast about web-design, web-development and all IT-related stuff.
-* [Frontflip Podcast](http://frontflip.me/) - Podcast about JavaScript, frontend and related technologies.
-* [GoLang Show](https://golangshow.com/) - Podcast about Go language.
+* :green_book: [DevZen Podcast](http://devzen.ru/) - Podcast about programming, IT and related topics.
+* :closed_book: [How to make games](http://galyonkin.com/podcast/) - Podcast about video games and video games industry.
+* :green_book: [RWPod](http://www.rwpod.com/) - Podcast about world of Ruby and Web technologies.
+* :green_book: [Radio-T](http://www.radio-t.com/) - Podcast of weekend. Improvisation on the theme of IT.
+* :green_book: [RadioJS](http://radiojs.ru/) - Podcast about web-development, Javascript, Frontend and client-side.
+* :green_book: [SDCast](http://sdcast.ksdaemon.ru) — Software development podcast. Interviews with developers, talks about development, open source and related IT topics.
+* :green_book: [Razbor Poletov](http://razbor-poletov.com/) - Podcast about world of Java, technologies and software development.
+* :green_book: [uWebDesign](https://uwebdesign.ru/) - Podcast about web-design, web-development and all IT-related stuff.
+* :closed_book: [Frontflip Podcast](http://frontflip.me/) - Podcast about JavaScript, frontend and related technologies.
+* :orange_book: [GoLang Show](https://golangshow.com/) - Podcast about Go language.
 
 ## In Persian
 
-* [RadioGeek](http://jadi.net/podcast/) - Yet another podcast for wandering geeks in the intersection of society and technology.
-* [Shir Ya Khat](http://shiryakhat.net/) - The first Blockchain Podcast dedicated to Iranians and Farsi speaking communities. We talk about Bitcoin, Blockchain assets and decentralization ideaology.
+* :green_book: [RadioGeek](http://jadi.net/podcast/) - Yet another podcast for wandering geeks in the intersection of society and technology.
+* :green_book: [Shir Ya Khat](http://shiryakhat.net/) - The first Blockchain Podcast dedicated to Iranians and Farsi speaking communities. We talk about Bitcoin, Blockchain assets and decentralization ideaology.
 
 ## In Swedish
 
-* [Kodsnack](http://kodsnack.se) - Weekly Swedish podcast about all things code, for coders. Hosted by Fredrik Björeman, Tobias Hieta and Kristoffer Grönlund, with occasional guests.
+* :green_book: [Kodsnack](http://kodsnack.se) - Weekly Swedish podcast about all things code, for coders. Hosted by Fredrik Björeman, Tobias Hieta and Kristoffer Grönlund, with occasional guests.
 
 ## In French
 
-* [Blogue Linux](http://www.bloguelinux.ca/) - French (Quebec) podcast talking about Linux technologies.
-* [La Dev Team](http://www.radiokawa.com/jeux-video/la-dev-team/) - Monthly podcast hosted by developers and talking about the video game industry.
-* [Le comptoir sécu](http://www.comptoirsecu.fr) — Bimensual podcasts about security, welcoming an expert for each subject. Hosted by Justin Ganivet, Morgan Hotonnier, Youenn Piolet, Loïs Samain.
-* [Visual Studio Talk Show](http://visualstudiotalkshow.libsyn.com/) - French podcast talking about development with Microsoft technologies. Hosted by Mario Cardinal and Guy Barrette.
+* :green_book: [Blogue Linux](http://www.bloguelinux.ca/) - French (Quebec) podcast talking about Linux technologies.
+* :green_book: [La Dev Team](http://www.radiokawa.com/jeux-video/la-dev-team/) - Monthly podcast hosted by developers and talking about the video game industry.
+* :green_book: [Le comptoir sécu](http://www.comptoirsecu.fr) — Bimensual podcasts about security, welcoming an expert for each subject. Hosted by Justin Ganivet, Morgan Hotonnier, Youenn Piolet, Loïs Samain.
+* :green_book: [Visual Studio Talk Show](http://visualstudiotalkshow.libsyn.com/) - French podcast talking about development with Microsoft technologies. Hosted by Mario Cardinal and Guy Barrette.
 
 ## In German
 
-* [Apfelfunk](http://apfelfunk.com/) - Weekly podcast about everything that's related to Apple.
-* [Freak Show](http://freakshow.fm/) - Tech podcast, normally published every two weeks. Mostly Apple, Bitcoin and podcasting.
-* [GeekWeek](http://geek-week.de/) - Weekly tech podcast hosted by Frederic Lardinois in the USA, Jean-Claude Frick in Switzerland und Marcus Schuler in Germany. Main topics are 'web' and 'mobile' news.
-* [Logbuch:Netzpolitik](https://logbuch-netzpolitik.de/) - Weekly podcast about netpolitics.
-* [Request for Comments](http://requestforcomments.de/) - Der RFC Podcast
-* [Working Draft](http://workingdraft.de/) - Weekly news podcast for webdesigners and developers.
+* :white_circle: [Apfelfunk](http://apfelfunk.com/) - Weekly podcast about everything that's related to Apple.
+* :green_book: [Freak Show](http://freakshow.fm/) - Tech podcast, normally published every two weeks. Mostly Apple, Bitcoin and podcasting.
+* :white_circle: [GeekWeek](http://geek-week.de/) - Weekly tech podcast hosted by Frederic Lardinois in the USA, Jean-Claude Frick in Switzerland und Marcus Schuler in Germany. Main topics are 'web' and 'mobile' news.
+* :green_book: [Logbuch:Netzpolitik](https://logbuch-netzpolitik.de/) - Weekly podcast about netpolitics.
+* :orange_book: [Request for Comments](http://requestforcomments.de/) - Der RFC Podcast
+* :green_book: [Working Draft](http://workingdraft.de/) - Weekly news podcast for webdesigners and developers.
 
 ## In Chinese
 
-* [Code Time](https://codetimecn.com/) - A Chinese podcast for programmers, hosted by [业余西](http://weibo.com/yeyuxi113?is_hot=1)
-* [Programmer life](http://podcast.tchen.me/) - Weekly tech podcast hosted by Tyr Chen in the silicon valley. Main topics are interesting github projects / hacker news topics and startups.
-* [Teahour](http://teahour.fm/) - A podcast hosted by [Terry Tai](https://github.com/poshboytl), [Dingding Ye](https://github.com/sishen) and [Daniel Lv](https://github.com/lgn21st), Most topics are about software development, startups, etc.
+* :white_circle: [Code Time](https://codetimecn.com/) - A Chinese podcast for programmers, hosted by [业余西](http://weibo.com/yeyuxi113?is_hot=1)
+* :green_book: [Programmer life](http://podcast.tchen.me/) - Weekly tech podcast hosted by Tyr Chen in the silicon valley. Main topics are interesting github projects / hacker news topics and startups.
+* :closed_book: [Teahour](http://teahour.fm/) - A podcast hosted by [Terry Tai](https://github.com/poshboytl), [Dingding Ye](https://github.com/sishen) and [Daniel Lv](https://github.com/lgn21st), Most topics are about software development, startups, etc.
 
 ## In Polish
 
-* [DevTalk](http://devtalk.pl/) - Tech podcast for passionate developers. All topics related to dev: architecture, languages, tools, libraries, conferences, community, career planning... Hosted by Maciej Aniserowicz.
-* [Just4Fun](http://just4fun.io/) - Biweekly tech podcast hosted by Rafal Warzycha and Piotr Leszczynski. Main topics are JavaScript and frontend.
+* :green_book: [DevTalk](http://devtalk.pl/) - Tech podcast for passionate developers. All topics related to dev: architecture, languages, tools, libraries, conferences, community, career planning... Hosted by Maciej Aniserowicz.
+* :green_book: [Just4Fun](http://just4fun.io/) - Biweekly tech podcast hosted by Rafal Warzycha and Piotr Leszczynski. Main topics are JavaScript and frontend.
 *
 
 ## In Turkish
 
-* [devPod](http://devpod.org) - Turkish podcast talking about modern software technology,programming languages,conferences,Linux,Unix,iOS,MacOS,Python,Ruby,Git etc. Hosted by [Uğur Özyılmazel(Vigo)](https://github.com/vigo) and [Üstün Özgür](https://github.com/ustun).
+* :blue_book: [devPod](http://devpod.org) - Turkish podcast talking about modern software technology,programming languages,conferences,Linux,Unix,iOS,MacOS,Python,Ruby,Git etc. Hosted by [Uğur Özyılmazel(Vigo)](https://github.com/vigo) and [Üstün Özgür](https://github.com/ustun).
 
 ## In Finnish
 
-* [Frontend Friday](http://frontendfriday.fi/) – A podcast and meeting about HTML, the Web, and related topics. From Oulu, Finland.
+* :closed_book: [Frontend Friday](http://frontendfriday.fi/) – A podcast and meeting about HTML, the Web, and related topics. From Oulu, Finland.
 
 ## In Japanese
 
-* [Rebuild](http://rebuild.fm/) - A Podcast by Tatsuhiko Miyagawa. Talking about Tech, Software Development and Gadgets.
+* :green_book: [Rebuild](http://rebuild.fm/) - A Podcast by Tatsuhiko Miyagawa. Talking about Tech, Software Development and Gadgets.
 
 ### Tooling
 
