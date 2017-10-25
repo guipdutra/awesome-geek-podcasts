@@ -25,6 +25,15 @@ A curated list of podcasts we like to listen to.
 - [Finnish](#in-finnish)
 - [Japanese](#in-japanese)
 
+## Podcast status
+| Status   |      Icon     | Reference |
+|----------|:-------------:|:-------------:|
+| Updated | :green_book: | One month at least with new episodes|
+| Outdated | :orange_book: | Above two months without new episodes|
+| Standby | :blue_book: | Between six and twelve months without new episodes |
+| Closed | :closed_book: | More than a year without new  episodes OR has explicitly ended |
+| Unavailable Data | :white_circle: | Not possible to determinate |
+
 ## Other information
 
 - [Tooling](#tooling)
@@ -32,183 +41,182 @@ A curated list of podcasts we like to listen to.
 
 ## In English
 
-* [.NET Rocks!](http://www.dotnetrocks.com/) - The internet audio talk show for .NET developer with Carl Franklin and Richard Campbell.
-* [/dev/hell](http://devhell.info/) - Chris Hartjes and Ed Finkler are trapped in Development Hell, where they talk mostly about PHP, web, their development experiences and also with special guests.
-* [Accidental Tech Podcast](http://atp.fm/) - Three nerds discussing tech, Apple, programming, and loosely related matters.
-* [Ada Lovelace Day](http://findingada.com/) [iTunes](https://itunes.apple.com/gb/podcast/ada-lovelace-day-podcast/id1119310112) - Achievements of women in science, technology, engineering and maths (STEM).
-* [Almost Better Than Silence](http://almostbetterthansilence.com/) - A comedy podcast about video games that features technology news, guest interviews, and conversation games!
-* [Android Developers Backstage](http://androidbackstage.blogspot.com/) - Android Backstage, a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.
-* [Away From The Keyboard](http://awayfromthekeyboard.com/category/podcasts/) - Away From The Keyboard is where technologists tell their stories of how they started, how they grew, how they learned, and how they unwind.
-* [AWS re:Invent 2015](https://www.youtube.com/user/AmazonWebServices/about) [iTunes](https://itunes.apple.com/us/podcast/aws-re-invent-2015/id1041854841?mt=2&ign-mpt=uo%3D4) [RSS](https://s3.amazonaws.com/reinvent-podcasts/AWS_reInvent2015_PodcastRSS.xml)- 230+ technical sessions covering architecture, operations, security, and more.
-* [Azure Friday](http://s.ch9.ms/Shows/Azure-Friday) - Scott Hanselman sits down with the actual engineers who build Azure on his journey to learn how to program the cloud. No marketing, no BS, just two engineers and a laptop in short managable chunks.
-* [Beats, Rye & Types](http://beatsryetypes.com/) - Two old friends, discuss their three main obsessions: music, food, and programming.
-* [Between Screens](https://soundcloud.com/between-screens) - Expect to find content about the following topics: Ruby, Rails, Sinatra, Sass, Javascript, Design Patterns, Jekyll, Client-Side Web Apps, Rust, Typography, Git, Responsive Design, Prototyping, Web Design, Type Design and more.
-* [Boagworld Show](https://boagworld.com/show) - Boagworld is a podcast about digital strategy, management and user experience. It offers practical advice, news, tools, review and interviews with leading figures in the web design community.
-* [Bootstrapped](http://bootstrapped.fm/) - Both Ian and Andrey are experience startup founders, both have had major blows and successes in their career. You can learn alot listening to them.
-* [Bootstrapped Web](http://bootstrappedweb.com/) - Bootstrapped Web is for entrepreneurs bootstrapping their startups, who believe that the best way to get to where we're going is to learn by doing.
-* [BSDNow](http://www.bsdnow.tv/) - A Weekly BSD Podcast - News, Interviews and Tutorials.
-* [BSDTalk](http://bsdtalk.blogspot.com/) - Talking about the BSD family of free operating systems.
-* [Build Phase](http://buildphase.fm/) - Build Phase is a weekly technical podcast discussing iOS development and design.
-* [Cloudcast](http://www.thecloudcast.net/) - Award-winning podcast on all things, Cloud Computing, AWS Ecosystem, OpenSource, DevOps, AppDev, SaaS and SDN.
-* [CMOS](http://code-maven.com/cmos) - The Code-Maven Open Source podcast helps you become familiar with a wide range of projects by interviewing users or developers of these projects.
-* [CodeNewbie Podcast](http://www.codenewbie.org/podcast) - Stories from people on their coding journey.
-* [CodePen Radio](https://blog.codepen.io/radio/) - Co-founders of CodePen talk about the ins and outs of running a web software business.
-* [Coding Blocks](http://www.codingblocks.net) - Software and Web Programming, security, best practices, Microsoft .NET and more.
-* [Complete Developer Podcast](http://completedeveloperpodcast.com/) - There are plenty of podcasts out there about languages and coding. What we are doing with the Complete Developer Podcast is to cover the other areas of life. For example, our first episode is about talking with customers, bosses, and others that developers interact with who are not fellow developers.
-* [Cortex](https://www.relay.fm/cortex) - Content creators CGP Grey and Myke Hurley discuss their processes, productivity hacks, workflows, and general working lives.
-* [CppCast](http://cppcast.com/) - The first podcast by C++ developers for C++ developers.
-* [Creative Coding Podcast](http://creativecodingpodcast.com/) - about programming for visual and creative applications.
-* [CTRL+Click Cast](http://ctrlclickcast.com/) - They "inspect the web for you". Interviews with developers and designers, about design, code, and content management systems. Hosted by Lea Alcantara and Emily Lewis.
-* [Curious Minds](http://www.cmpod.net/) - Curious Minds is a podcast about Science, Technology, and History. Each episode brings interesting stories from a wide range of subjects: from Physics and Astronomy to Medicine, Art and Science Fiction.
-* [Data Skeptic](http://dataskeptic.com/) - The Data Skeptic Podcast features interviews and discussion of topics related to data science, statistics, machine learning, artificial intelligence and the like.
-* [Data Stories](http://datastori.es/) - Enrico Bertini and Moritz Stefaner discuss the latest developments in data analytics, visualization and related topics.
-* [Descriptive](http://descriptive.audio/) - This is an interview show with people from the JavaScript and web development world, hosted by Kahlil Lechelt and Henning Glatter-Götz.
-* [Design vs Dev](http://agileleague.com/) - A podcast about web development from the different perspectives of designers and developers.
-* [DevChat.tv](https://devchat.tv/) - We are programmers. House of Ruby Rogues, Javascript Jabber, IPhreaks, Freelancers' Show, Adventures in Angular and RailsClips.
-* [Dev Discussions](http://www.devdiscussions.com) - Discussions over a wide variety of topics including functional programming, domain-driven design, and game development.
-* [Developer On Fire](http://developeronfire.com/) - Podcast with inspiring interviews with successful software developers, architects, testers, and other professionals with stories of success, failure, excellence, and inspiration.
-* [DevelopersHangout](http://www.developershangout.io/) - Two Developers talk about challeges, articles, news, books and other podcasts that came across their radar every 2 weeks. Laravel, PHP are two key topics, and other great podcasts like the ones listed above.
-* [Developer Tea](https://developertea.com) - Podcast for web and software developers hosted by a developer that you can listen to in less than 10 minutes.
-* [Developing Perspective](	http://developingperspective.com/) - From development and design to marketing and support, Under the Radar is all about independent app development. It's never longer than 30 minutes.
-* [Devnology](http://devnology.nl/podcasts) - Podcast of the Dutch user group Devnology. It is mostly in English. Lots of interesting discussions with interesting people
-* [DevOps Cafe](http://devopscafe.org/) - In this interview driven show, John Willis and Damon Edwards take a pragmatic look at the technology, tools, and business developments behind the emerging DevOps movement.
-* [Digital Human](http://www.bbc.co.uk/programmes/b01n7094) - BBC series explores the digital world presented by Aleks Krotoski.
-* [Eat Sleep Code Podcast](https://soundcloud.com/esc-podcast) - On the show we’ll be talking to passionate people about a wide range of developer related topics.
-* [Elixir Foundation](http://feed.elixirfountain.com/) - Your weekly podcast for news & interviews from around the Elixirlang Community
-* [Embedded.fm](http://embedded.fm/) - Talk about the how, why, and what of engineering, usually devices.
-* [Ember Weekend](https://emberweekend.com) - A week(end)ly podcast about Ember, hosted by Jon and Chase.
-* [Elm Town](https://elmtown.github.io/) - A podcast about the people making and using the Elm language, and the things that they do.
-* [Entreprogrammers](http://entreprogrammers.com/) - Get a fly-on-the-wall perspective from 4 developers turned entrepreneurs, as they struggle with the business and learn lessons the hard way. This is the weekly mastermind group of the entreprogrammers.
-* [FiveJS](https://fivejs.codeschool.com) - The latest news in the JavaScript community.
-* [FLOSS Weekly](https://twit.tv/shows/floss-weekly) - Interviews with prominent guests from the free software/open source community.
-* [Fragmented](http://fragmentedpodcast.com/) - An Android Developer Podcast.
-* [Full Stack Radio](http://www.fullstackradio.com/) - A podcast for developers interested in building great software products.
-* [Functional Geekery](http://www.functionalgeekery.com) - Functional Geeks, Geeking Functionally.
-* [Fw:Thinking](http://www.fwthinking.com/podcasts/) - It's about technology. It's about humanity. It's about our future. It's Fw:Thinking.
-* [Garbage](http://garbage.fm/) - A podcast about technology by two OpenBSD developers.
-* [Get Up and Code](http://getupandcode.com/) - Get Up and Code is a podcast about fitness for programmers and software developers. Every week, John Sonmez, helps you lose weight, refactor your diet and get in shape.
-* [GitMinutes](http://www.gitminutes.com/) - The show for proficient Git users.
-* [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - The Google Cloud Platform Podcast, coming to you every week. Discussing everything from on Google Cloud Platform from App Engine to Big Query.
-* [Go Time](https://changelog.com/gotime/) - Interesting topics around the Go programming language, building systems, the community, and everything in between.
-* [HardcoreHistory](http://www.dancarlin.com/hardcore-history-series/) - In "Hardcore History" the very unconventional Dan Carlin takes his "Martian", outside-the-box way of thinking and applies it to the past.
-* [Harry Potter and the methods of rationality](http://www.hpmorpodcast.com/) - This is an alternate universe story, where Petunia married a scientist. Harry enters the wizarding world armed with Enlightenment ideals and the experimental spirit.
-* [HaskellCast](http://www.haskellcast.com/) — A podcast for Haskell developers working in industry.
-* [Hello Internet](http://www.hellointernet.fm/) - Science youtubers CGP Grey and Brady Haran discuss everything from flag design to Star Wars.
-* [HTTP 203](https://developers.google.com/web/shows/http203/) -  In each show Jake and Paul pick a hot topic in the world of web development and discuss the various aspects of it, meanwhile dropping in lifehacks, lessons and some rather honest truths.
-* [Iron Sysadmin](https://www.undrground.org/ironsysadmin) - A Podcast by real world sysadmins, for real world sysadmins.
-* [IRL: Because Online Life Is Real Life](https://irlpodcast.org/) - Host Veronica Belmont shares real stories of life online and real talk about the future of the Web. IRL is an original podcast from Mozilla.
-* [JavaScript Air](https://javascriptair.com/) - The live broadcast podcast all about JavaScript.
-* [Javascript to Elm](http://jstoelm.com/) - A podcast about using Elm coming from Javascript and other languages.
-* [Laravel News Podcast](http://podcast.laravel-news.com/) - The Laravel News Podcast brings you all the latest news and events related to Laravel.
-* [Linear Digressions](http://www.lineardigressions.com) - Explores topics of data science and machine learning in an accessible way through real-world stories and examples.
-* [Linux Outlaws](http://sixgun.org/linuxoutlaws) - About anything that runs on Linux, about open source software on other platforms and many other things.
-* [Listen and Learn about AWS](http://aws.amazon.com/podcasts/aws-podcast/) - Jeff Barr discusses various aspects of the Amazon Web Services (AWS) offering. Each podcast include AWS news, tech tips, and interviews with startups, AWS partners, and AWS employees.
-* [Magic Read Along](http://www.magicreadalong.com) - A podcast about programming, life and the internet. Topics include FP, OOP, development practices, and a dip into our personal lives from time to time.
-* [Makers](https://makers.crew.co/) - Unexpected life moments that have had an impact on today’s most influential and experimental makers.
-* [Mastering Embedded Systems](http://embeddedsuccess.com/podcast/) - I have identified four major problems in mastering Embedded Systems: 1. Not enough specialists; 2. inadequate design and poor detections of faults; 3. mandatory multi-site approaches are failing; 4. bad mistakes in managing Virtual Teams I'll teach you the know-how and the tools to overcome these challenges.
-* [Mind the Cloud Podcast](http://mindthecloud.com) - The podcast about the developers and companies using the cloud to create the future.
-* [MS Dev Show](http://msdevshow.com/) - THE podcast for Microsoft developers. Jason Young and Carl Schweitzer talk about the latest in developer news covering topics such as the Azure cloud, Windows, Windows Phone, Visual Studio, and cross-platform development using the Microsoft platform.
-* [New Rustacean](http://www.newrustacean.com/) - This is a podcast about learning the programming language Rust—from scratch.
-* [Nodeup](http://nodeup.com/) - A Node.js Podcast.
-* [Note To Self](http://www.wnyc.org/shows/notetoself/) - Host Manoush Zomorodi talks with everyone from big name techies to elementary school teachers about the effects of technology on our lives, in a quest for the smart choices that will help you think and live better.
-* [Office 365 Developer Podcast](http://blogs.office.com/) - The only show focused on Office 365 development where we talk to the experts from all over the globe coding on the Office 365 platform.
-* [Open Source System Podcast](http://opensourcesystempodcast.vf.io/) - Latest open source projects and news!
-* [Packet Pushers](http://packetpushers.net/) - About data networking by network architects. Deeply technical & unabashedly nerdy.
-* [Partially Derivative](http://www.partiallyderivative.com/) - A podcast about Data, Nerdiness, and Beer.
-* [PHP Round Table](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
-* [PHP Town Hall](http://phptownhall.com/) - Town Hall a way for PHP developers to raise questions about current events (or upcoming things) in the PHP community, with different guests each week.
-* [Podcast.\__init__](http://podcastinit.com/) - A podcast about Python and the people who make it great.
-* [Python Bytes](https://pythonbytes.fm/) - Python headlines delivered directly to your earbuds.
-* [Radiolab](http://www.radiolab.org) - Radiolab is a show about curiosity. Where sound illuminates ideas, and the boundaries blur between science, philosophy, and human experience.
-* [Reactive](http://reactive.audio/) - A podcast which merges, filters, scans and maps streams of thoughts about software engineering, culture, and technology.
-* [React Podcast](http://reactpodcast.com/) - Podcast about React.js
-* [Reasonably Sound](http://www.infiniteguest.org/reasonably-sound/) - Context, explanation and a little celebration of the complexities and awesomeness of audio, and the various cultures which surround and have grown around it.
-* [Reply All](https://gimletmedia.com/show/reply-all/) - Reply All is a show about the internet.
-* [Rocket Talk](http://www.tor.com/features/series/rocket-talk-podcast/) - Rocket Talk is Tor.com’s sci-fi/fantasy podcast, blending discussion style talk-radio with audio narrations of Tor.com’s award winning short fiction.
-* [Risky Business](http://risky.biz/netcasts/risky-business) - Risky Business was established in February, 2007. It take a lighthearted look at information security news and features.
-* [Roots Radio](https://roots.io/radio0) - Roots Radio is a new podcast about the Roots tools, a chance for the Roots team to talk with some folks doing cool things with their own Roots related projects, and general banter about modern web development.
-* [Ruby5](https://ruby5.codeschool.com) - The latest news in the Ruby and Rails community.
-* [Ruby Rogues](https://devchat.tv/ruby-rogues) - Ruby Rogues is a weekly panel discussion about programming. Ruby and technologies like Rails are what we have in common, but the discussions cover parts of the Ruby ecosystem, gems (libraries) as well as programming practices, tools, and careers.
-* [RunAs Radio](http://www.runasradio.com/) - A weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.
-* [Rusty Radio](http://rustyrad.io/) - A show about the Rust programming language and community.
-* [Security Now!](https://www.grc.com/securitynow.htm) - Security Now! consists of a discussion between Steve Gibson and Leo Laporte of issues of computer security and, conversely, insecurity.
-* [ShopTalk Show](http://shoptalkshow.com) - Podcast about front end web design, development and UX.
-* [Software Engineering Daily](http://softwareengineeringdaily.com/) - A podcast with daily interviews about technical software topics intended for professional software developers.
-* [Software Engineering Radio](http://www.se-radio.net/) - The podcast for professional software developers.
-* [Soft Skills Engineering](https://softskills.audio/) - Weekly advice podcast for software developers. It takes more than great code to be a great developer.
-* [Sound Of Symfony](http://www.soundofsymfony.com/) - The unofficial Symfony podcast.
-* [StarTalk Radio](http://www.startalkradio.net/shows-archive/) - Program devoted to all things space and is hosted by renowned astrophysicist Neil deGrasse Tyson.
-* [Sword & Laser](http://swordandlaser.com/) - The Sword and Laser (S&L) is a science fiction and fantasy-themed book club, video show and podcast, started by Veronica Belmont and Tom Merritt.
-* [Start Here FM](http://dain.io/startherefm/) - An informative and up-to-date podcast on creating a business with Web Development.
-* [SYFY25 Origin Stories](http://www.syfy.com/syfywire/podcast-episodes/) - Adam Savage sits down with creators, thought-leaders, and celebrity fans to discuss the moments, people, and milestones that have changed the genre universe forever; a nostalgic celebration of all things science fiction.
-* [Syntax FM](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
-* [Sysadministrivia](https://sysadministrivia.com/) - Linux, Lagers, and Late Nights.
-* [Syscast Podcast](http://podcast.sysca.st/) - Talking Linux, open source, web development and system administration (DevOps).
-* [Talking Code](http://www.talkingcode.com/) - Short expert interviews that help you _decode_ what developers are saying.
-* [Talking Kotlin](http://talkingkotlin.com/) - A bimonthly podcast on Kotlin and more hosted by Hadi Hariri.
-* [Talking Machines](http://www.thetalkingmachines.com/) - Talking Machines is your window into the world of machine learning.
-* [Talking Kotlin](http://talkingkotlin.com/) - A Podcast on Kotlin and more.
-* [Talk Python to Me](http://talkpython.fm/) - Weekly podcast (30 minutes) that covers a wide array of Python topics.
-* [TechStuff](http://shows.howstuffworks.com/techstuff-podcast.htm) - TechStuff tackles topics ranging from basic electronics to the Large Hadron Collider and everything in between. TechStuff is dedicated to demystifying technology and its role in our society and culture.
-* [Test and Code Podcast](http://pythontesting.net/test-podcast/) - A podcast about Software Development, Software Testing, and Python.
-* [Testing In The Pub](http://testinginthepub.co.uk/testinginthepub/) - British podcast about Software Testing practices
-* [That Podcast](https://thatpodcast.io/) - Beau and Dave talking about life as dads, programmers, and entrepreneurs.
-* [The Accidental Engineer](http://theaccidentalengineer.com) - Interviews with engineers about how they started their career
-* [The Agile Coffee Podcast](http://agilecoffee.com/) - AgileCoffee brings together an engaged group of practitioners passionate about Agile methodologies and Lean practices.
-* [The Amp Hour](http://theamphour.com/) - Discussing the world of electronics design in an hour long(ish) weekly show.
-* [The Back to Front Show](http://backtofrontshow.com/) - The Back to Front show was started in 2013 by web industry veterans Keir Whitaker and Kieran Masterton. Over the first 40 episodes they have discussed everything from web design and development to startups and dog related tech.
-* [The Big Web Show](http://5by5.tv/bigwebshow) - It's everything web that matters.
-* [The Bike Shed](http://bikeshed.fm/) - On The Bike Shed, hosts Derek Prior, Sean Griffin, Laila Winner, and guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week.
-* [The Changelog](https://changelog.com/podcast/) - Open Source moves fast. Keep up. Releasing a new episode every Friday.
-* [The Cognicast](http://blog.cognitect.com/cognicast) - The Cognicast previously ThinkRelevance: The Podcast is the podcast from the Cognitect family.
-* [The Five-Minute Geek Show](http://www.fiveminutegeekshow.com) - Matt Stauffer, unabashedly geeky, 5 minutes, twice a week. Frontend dev, backend dev, audio, design, podcasts--all fair game.
-* [The Food Fight Show](http://foodfightshow.org/) - The Podcast where DevOps chefs do battle
-* [The Hanselminutes podcast](http://hanselminutes.com) - Fresh Air for Developers.
-* [The Laravel Podcast](http://www.laravelpodcast.com) - The Laravel Podcast brings you Laravel and PHP development news and discussion.
-* [The Life Scientific](http://www.bbc.co.uk/programmes/b015sqc7) - Professor Jim Al-Khalili talks to leading scientists about their life and work, finding out what inspires and motivates them and asking what their discoveries might do for mankind.
-* [The Linux Action Show](http://www.jupiterbroadcasting.com/tag/linux-action-show/) - Podcast about Linux and Open Source. (discontinued)
-* [The Loosely Coupled Podcast](http://looselycoupled.info/) - Jeff Carouth and Matt Frost combine their decades of experience as web developers to talk about developer life.
-* [The Manifest](https://manifest.fm) - A podcast all about package management.
-* [The Music Makers](http://musicmakers.fm) - The best articles from around the web, curated and read to you.
-* [The Path to Performance](https://pathtoperf.com/) - A podcast for everyone dedicated to making websites faster.
-* [The Ship Show](http://theshipshow.com/) - Build engineering, DevOps, release management & everything in between!
-* [The Stack Overflow Podcast](https://stackoverflow.blog/podcasts/) - A weekly podcast about developers and the Stack Overflow community.
-* [The Web Ahead](http://5by5.tv/webahead) - Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up.
-* [The Web Platform Podcast](http://thewebplatform.libsyn.com/) - A weekly show that dives deep into all things web from the developers building the platform today.
-* [This Developer's Life](http://thisdeveloperslife.com/) - A podcast about developers and their lives.
-* [Thoughtbot](https://thoughtbot.com/podcasts) - We record and release weekly podcasts from thoughtbot on design, Ruby on Rails, iOS, running software companies, and maintaining work/life balance.
-* [ThoughtWorks](https://soundcloud.com/thoughtworks) - A community of passionate individuals whose purpose is to revolutionize software design, creation and delivery, while advocating for positive social change.
-* [Three Devs and a Maybe](http://threedevsandamaybe.com/) - Weekly discussion podcast on all things web development. Topics range from daily developer life, PHP, frameworks, testing, good software design and our experiences using many other programming languages.
-* [Toolsday Podcast](http://toolsday.io/) - A 20-ish-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays at 2!
-* [TTL Podcast](http://ttlpodcast.com/) - The TTL Podcast, hosted by Rebecca Murphey, features conversations with front-end developers at large organizations about how they do their jobs.
-* [Ubuntu Podcast](http://ubuntupodcast.org) - A lively and upbeat podcast made by members of the Ubuntu UK LoCo that includes news, discussion and interviews from the Ubuntu and Open Source communities.
-* [Voices of the ElePHPant](https://voicesoftheelephpant.com) - Interviews with people that are making the PHP community special.
-* [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - Podcast about JavaScript and front-end web development.
-* [Why Are Computers](http://whyarecomputers.com/) - A podcast about computers and computer programs and why.
-* [WIRED's Webmonkey Podcast](http://www.wired.com/series/webmonkey) - Glance behind the scenes of WIRED.com with the tech team.
+* :green_book: [.NET Rocks!](http://www.dotnetrocks.com/) - The internet audio talk show for .NET developer with Carl Franklin and Richard Campbell.
+* :orange_book: [/dev/hell](http://devhell.info/) - Chris Hartjes and Ed Finkler are trapped in Development Hell, where they talk mostly about PHP, web, their development experiences and also with special guests.
+* :green_book: [Accidental Tech Podcast](http://atp.fm/) - Three nerds discussing tech, Apple, programming, and loosely related matters.
+* :green_book: [Ada Lovelace Day](http://findingada.com/) [iTunes](https://itunes.apple.com/gb/podcast/ada-lovelace-day-podcast/id1119310112) - Achievements of women in science, technology, engineering and maths (STEM).
+* :green_book: [Almost Better Than Silence](http://almostbetterthansilence.com/) - A comedy podcast about video games that features technology news, guest interviews, and conversation games!
+* :green_book: [Android Developers Backstage](http://androidbackstage.blogspot.com/) - Android Backstage, a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.
+* :green_book: [Away From The Keyboard](http://awayfromthekeyboard.com/category/podcasts/) - Away From The Keyboard is where technologists tell their stories of how they started, how they grew, how they learned, and how they unwind.
+* :green_book: [AWS re:Invent 2015](https://www.youtube.com/user/AmazonWebServices/about) [iTunes](https://itunes.apple.com/us/podcast/aws-re-invent-2015/id1041854841?mt=2&ign-mpt=uo%3D4) [RSS](https://s3.amazonaws.com/reinvent-podcasts/AWS_reInvent2015_PodcastRSS.xml)- 230+ technical sessions covering architecture, operations, security, and more.
+* :green_book: [Azure Friday](http://s.ch9.ms/Shows/Azure-Friday) - Scott Hanselman sits down with the actual engineers who build Azure on his journey to learn how to program the cloud. No marketing, no BS, just two engineers and a laptop in short managable chunks.
+* :orange_book: [Beats, Rye & Types](http://beatsryetypes.com/) - Two old friends, discuss their three main obsessions: music, food, and programming.
+* :orange_book: [Between Screens](https://soundcloud.com/between-screens) - Expect to find content about the following topics: Ruby, Rails, Sinatra, Sass, Javascript, Design Patterns, Jekyll, Client-Side Web Apps, Rust, Typography, Git, Responsive Design, Prototyping, Web Design, Type Design and more.
+* :green_book: [Boagworld Show](https://boagworld.com/show) - Boagworld is a podcast about digital strategy, management and user experience. It offers practical advice, news, tools, review and interviews with leading figures in the web design community.
+* :green_book: [Bootstrapped](http://bootstrapped.fm/) - Both Ian and Andrey are experience startup founders, both have had major blows and successes in their career. You can learn alot listening to them.
+* :green_book: [Bootstrapped Web](http://bootstrappedweb.com/) - Bootstrapped Web is for entrepreneurs bootstrapping their startups, who believe that the best way to get to where we're going is to learn by doing.
+* :green_book: [BSDNow](http://www.bsdnow.tv/) - A Weekly BSD Podcast - News, Interviews and Tutorials.
+* :orange_book: [BSDTalk](http://bsdtalk.blogspot.com/) - Talking about the BSD family of free operating systems.
+* :orange_book: [Build Phase](http://buildphase.fm/) - Build Phase is a weekly technical podcast discussing iOS development and design.
+* :green_book: [Cloudcast](http://www.thecloudcast.net/) - Award-winning podcast on all things, Cloud Computing, AWS Ecosystem, OpenSource, DevOps, AppDev, SaaS and SDN.
+* :orange_book: [CMOS](http://code-maven.com/cmos) - The Code-Maven Open Source podcast helps you become familiar with a wide range of projects by interviewing users or developers of these projects.
+* :green_book: [CodeNewbie Podcast](http://www.codenewbie.org/podcast) - Stories from people on their coding journey.
+* :green_book:[CodePen Radio](https://blog.codepen.io/radio/) - Co-founders of CodePen talk about the ins and outs of running a web software business.
+* :green_book: [Coding Blocks](http://www.codingblocks.net) - Software and Web Programming, security, best practices, Microsoft .NET and more.
+* :green_book: [Complete Developer Podcast](http://completedeveloperpodcast.com/) - There are plenty of podcasts out there about languages and coding. What we are doing with the Complete Developer Podcast is to cover the other areas of life. For example, our first episode is about talking with customers, bosses, and others that developers interact with who are not fellow developers.
+* :green_book: [Cortex](https://www.relay.fm/cortex) - Content creators CGP Grey and Myke Hurley discuss their processes, productivity hacks, workflows, and general working lives.
+* :green_book: [CppCast](http://cppcast.com/) - The first podcast by C++ developers for C++ developers.
+* :orange_book: [Creative Coding Podcast](http://creativecodingpodcast.com/) - about programming for visual and creative applications.
+* :green_book: [CTRL+Click Cast](http://ctrlclickcast.com/) - They "inspect the web for you". Interviews with developers and designers, about design, code, and content management systems. Hosted by Lea Alcantara and Emily Lewis.
+* :green_book: [Curious Minds](http://www.cmpod.net/) - Curious Minds is a podcast about Science, Technology, and History. Each episode brings interesting stories from a wide range of subjects: from Physics and Astronomy to Medicine, Art and Science Fiction.
+* :green_book: [Data Skeptic](http://dataskeptic.com/) - The Data Skeptic Podcast features interviews and discussion of topics related to data science, statistics, machine learning, artificial intelligence and the like.
+* :green_book: [Data Stories](http://datastori.es/) - Enrico Bertini and Moritz Stefaner discuss the latest developments in data analytics, visualization and related topics.
+* :closed_book: [Descriptive](http://descriptive.audio/) - This is an interview show with people from the JavaScript and web development world, hosted by Kahlil Lechelt and Henning Glatter-Götz.
+* :orange_book: [Design vs Dev](http://agileleague.com/) - A podcast about web development from the different perspectives of designers and developers.
+* :green_book: [DevChat.tv](https://devchat.tv/) - We are programmers. House of Ruby Rogues, Javascript Jabber, IPhreaks, Freelancers' Show, Adventures in Angular and RailsClips.
+* :orange_book: [Dev Discussions](http://www.devdiscussions.com) - Discussions over a wide variety of topics including functional programming, domain-driven design, and game development.
+* :green_book: [Developer On Fire](http://developeronfire.com/) - Podcast with inspiring interviews with successful software developers, architects, testers, and other professionals with stories of success, failure, excellence, and inspiration.
+* :orange_book: [DevelopersHangout](http://www.developershangout.io/) - Two Developers talk about challeges, articles, news, books and other podcasts that came across their radar every 2 weeks. Laravel, PHP are two key topics, and other great podcasts like the ones listed above.
+* :green_book: [Developer Tea](https://developertea.com) - Podcast for web and software developers hosted by a developer that you can listen to in less than 10 minutes.
+* :closed_book: [Developing Perspective](	http://developingperspective.com/) - From development and design to marketing and support, Under the Radar is all about independent app development. It's never longer than 30 minutes.
+* :closed_book: [Devnology](http://devnology.nl/podcasts) - Podcast of the Dutch user group Devnology. It is mostly in English. Lots of interesting discussions with interesting people
+* :green_book: [DevOps Cafe](http://devopscafe.org/) - In this interview driven show, John Willis and Damon Edwards take a pragmatic look at the technology, tools, and business developments behind the emerging DevOps movement.
+* :green_book: [Digital Human](http://www.bbc.co.uk/programmes/b01n7094) - BBC series explores the digital world presented by Aleks Krotoski.
+* :blue_book: [Eat Sleep Code Podcast](https://soundcloud.com/esc-podcast) - On the show we’ll be talking to passionate people about a wide range of developer related topics.
+* :green_book: [Elixir Foundation](http://feed.elixirfountain.com/) - Your weekly podcast for news & interviews from around the Elixirlang Community
+* :green_book: [Embedded.fm](http://embedded.fm/) - Talk about the how, why, and what of engineering, usually devices.
+* :green_book: [Ember Weekend](https://emberweekend.com) - A week(end)ly podcast about Ember, hosted by Jon and Chase.
+* :green_book: [Elm Town](https://elmtown.github.io/) - A podcast about the people making and using the Elm language, and the things that they do.
+* :green_book: [Entreprogrammers](http://entreprogrammers.com/) - Get a fly-on-the-wall perspective from 4 developers turned entrepreneurs, as they struggle with the business and learn lessons the hard way. This is the weekly mastermind group of the entreprogrammers.
+* :blue_book:[FiveJS](https://fivejs.codeschool.com) - The latest news in the JavaScript community.
+* :green_book:[FLOSS Weekly](https://twit.tv/shows/floss-weekly) - Interviews with prominent guests from the free software/open source community.
+* :green_book: [Fragmented](http://fragmentedpodcast.com/) - An Android Developer Podcast.
+* :green_book: [Full Stack Radio](http://www.fullstackradio.com/) - A podcast for developers interested in building great software products.
+* :green_book: [Functional Geekery](http://www.functionalgeekery.com) - Functional Geeks, Geeking Functionally.
+* :closed_book: [Fw:Thinking](http://www.fwthinking.com/podcasts/) - It's about technology. It's about humanity. It's about our future. It's Fw:Thinking.
+* :orange_book: [Garbage](http://garbage.fm/) - A podcast about technology by two OpenBSD developers.
+* :closed_book: [Get Up and Code](http://getupandcode.com/) - Get Up and Code is a podcast about fitness for programmers and software developers. Every week, John Sonmez, helps you lose weight, refactor your diet and get in shape.
+* :green_book: [GitMinutes](http://www.gitminutes.com/) - The show for proficient Git users.
+* :green_book: [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - The Google Cloud Platform Podcast, coming to you every week. Discussing everything from on Google Cloud Platform from App Engine to Big Query.
+* :green_book: [Go Time](https://changelog.com/gotime/) - Interesting topics around the Go programming language, building systems, the community, and everything in between.
+* :blue_book: [HardcoreHistory](http://www.dancarlin.com/hardcore-history-series/) - In "Hardcore History" the very unconventional Dan Carlin takes his "Martian", outside-the-box way of thinking and applies it to the past.
+* :blue_book: [Harry Potter and the methods of rationality](http://www.hpmorpodcast.com/) - This is an alternate universe story, where Petunia married a scientist. Harry enters the wizarding world armed with Enlightenment ideals and the experimental spirit.
+* :orange_book: [HaskellCast](http://www.haskellcast.com/) — A podcast for Haskell developers working in industry.
+* :green_book: [Hello Internet](http://www.hellointernet.fm/) - Science youtubers CGP Grey and Brady Haran discuss everything from flag design to Star Wars.
+* :green_book: [HTTP 203](https://developers.google.com/web/shows/http203/) -  In each show Jake and Paul pick a hot topic in the world of web development and discuss the various aspects of it, meanwhile dropping in lifehacks, lessons and some rather honest truths.
+* :green_book: [Iron Sysadmin](https://www.undrground.org/ironsysadmin) - A Podcast by real world sysadmins, for real world sysadmins.
+* :green_book: [IRL: Because Online Life Is Real Life](https://irlpodcast.org/) - Host Veronica Belmont shares real stories of life online and real talk about the future of the Web. IRL is an original podcast from Mozilla.
+* :green_book: [JavaScript Air](https://javascriptair.com/) - The live broadcast podcast all about JavaScript.
+* :green_book: [Javascript to Elm](http://jstoelm.com/) - A podcast about using Elm coming from Javascript and other languages.
+* :green_book: [Laravel News Podcast](http://podcast.laravel-news.com/) - The Laravel News Podcast brings you all the latest news and events related to Laravel.
+* :green_book: [Linear Digressions](http://www.lineardigressions.com) - Explores topics of data science and machine learning in an accessible way through real-world stories and examples.
+* :closed_book: [Linux Outlaws](http://sixgun.org/linuxoutlaws) - About anything that runs on Linux, about open source software on other platforms and many other things.
+* :green_book: [Listen and Learn about AWS](http://aws.amazon.com/podcasts/aws-podcast/) - Jeff Barr discusses various aspects of the Amazon Web Services (AWS) offering. Each podcast include AWS news, tech tips, and interviews with startups, AWS partners, and AWS employees.
+* :green_book: [Magic Read Along](http://www.magicreadalong.com) - A podcast about programming, life and the internet. Topics include FP, OOP, development practices, and a dip into our personal lives from time to time.
+* :green_book: [Makers](https://makers.crew.co/) - Unexpected life moments that have had an impact on today’s most influential and experimental makers.
+* :orange_book: [Mastering Embedded Systems](http://embeddedsuccess.com/podcast/) - I have identified four major problems in mastering Embedded Systems: 1. Not enough specialists; 2. inadequate design and poor detections of faults; 3. mandatory multi-site approaches are failing; 4. bad mistakes in managing Virtual Teams I'll teach you the know-how and the tools to overcome these challenges.
+* :closed_book: [Mind the Cloud Podcast](http://mindthecloud.com) - The podcast about the developers and companies using the cloud to create the future.
+* :green_book: [MS Dev Show](http://msdevshow.com/) - THE podcast for Microsoft developers. Jason Young and Carl Schweitzer talk about the latest in developer news covering topics such as the Azure cloud, Windows, Windows Phone, Visual Studio, and cross-platform development using the Microsoft platform.
+* :green_book: [New Rustacean](http://www.newrustacean.com/) - This is a podcast about learning the programming language Rust—from scratch.
+* :green_book: [Nodeup](http://nodeup.com/) - A Node.js Podcast.
+* :green_book: [Note To Self](http://www.wnyc.org/shows/notetoself/) - Host Manoush Zomorodi talks with everyone from big name techies to elementary school teachers about the effects of technology on our lives, in a quest for the smart choices that will help you think and live better.
+* :green_book: [Office 365 Developer Podcast](http://blogs.office.com/) - The only show focused on Office 365 development where we talk to the experts from all over the globe coding on the Office 365 platform.
+* :closed_book: [Open Source System Podcast](http://opensourcesystempodcast.vf.io/) - Latest open source projects and news!
+* :green_book: [Packet Pushers](http://packetpushers.net/) - About data networking by network architects. Deeply technical & unabashedly nerdy.
+* :closed_book: [Partially Derivative](http://www.partiallyderivative.com/) - A podcast about Data, Nerdiness, and Beer.
+* :green_book: [PHP Round Table](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
+* :orange_book: [PHP Town Hall](http://phptownhall.com/) - Town Hall a way for PHP developers to raise questions about current events (or upcoming things) in the PHP community, with different guests each week.
+* :green_book: [Podcast.\__init__](http://podcastinit.com/) - A podcast about Python and the people who make it great.
+* :green_book: [Python Bytes](https://pythonbytes.fm/) - Python headlines delivered directly to your earbuds.
+* :green_book: [Radiolab](http://www.radiolab.org) - Radiolab is a show about curiosity. Where sound illuminates ideas, and the boundaries blur between science, philosophy, and human experience.
+* :green_book: [Reactive](http://reactive.audio/) - A podcast which merges, filters, scans and maps streams of thoughts about software engineering, culture, and technology.
+* :white_circle: [React Podcast](http://reactpodcast.com/) - Podcast about React.js
+* :green_book: [Reasonably Sound](http://www.infiniteguest.org/reasonably-sound/) - Context, explanation and a little celebration of the complexities and awesomeness of audio, and the various cultures which surround and have grown around it.
+* :green_book: [Reply All](https://gimletmedia.com/show/reply-all/) - Reply All is a show about the internet.
+* :closed_book: [Rocket Talk](http://www.tor.com/features/series/rocket-talk-podcast/) - Rocket Talk is Tor.com’s sci-fi/fantasy podcast, blending discussion style talk-radio with audio narrations of Tor.com’s award winning short fiction.
+* :green_book: [Risky Business](http://risky.biz/netcasts/risky-business) - Risky Business was established in February, 2007. It take a lighthearted look at information security news and features.
+* :green_book: [Roots Radio](https://roots.io/radio0) - Roots Radio is a new podcast about the Roots tools, a chance for the Roots team to talk with some folks doing cool things with their own Roots related projects, and general banter about modern web development.
+* :closed_book: [Ruby5](https://ruby5.codeschool.com) - The latest news in the Ruby and Rails community.
+* :green_book: [Ruby Rogues](https://devchat.tv/ruby-rogues) - Ruby Rogues is a weekly panel discussion about programming. Ruby and technologies like Rails are what we have in common, but the discussions cover parts of the Ruby ecosystem, gems (libraries) as well as programming practices, tools, and careers.
+* :green_book: [RunAs Radio](http://www.runasradio.com/) - A weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.
+* :closed_book:[Rusty Radio](http://rustyrad.io/) - A show about the Rust programming language and community.
+* :green_book: [Security Now!](https://www.grc.com/securitynow.htm) - Security Now! consists of a discussion between Steve Gibson and Leo Laporte of issues of computer security and, conversely, insecurity.
+* :green_book: [ShopTalk Show](http://shoptalkshow.com) - Podcast about front end web design, development and UX.
+* :green_book: [Software Engineering Daily](http://softwareengineeringdaily.com/) - A podcast with daily interviews about technical software topics intended for professional software developers.
+* :green_book: [Software Engineering Radio](http://www.se-radio.net/) - The podcast for professional software developers.
+* :green_book: [Soft Skills Engineering](https://softskills.audio/) - Weekly advice podcast for software developers. It takes more than great code to be a great developer.
+* :orange_book: [Sound Of Symfony](http://www.soundofsymfony.com/) - The unofficial Symfony podcast.
+* :closed_book: [StarTalk Radio](http://www.startalkradio.net/shows-archive/) - Program devoted to all things space and is hosted by renowned astrophysicist Neil deGrasse Tyson.
+* :green_book: [Sword & Laser](http://swordandlaser.com/) - The Sword and Laser (S&L) is a science fiction and fantasy-themed book club, video show and podcast, started by Veronica Belmont and Tom Merritt.
+* :closed_book: [Start Here FM](http://dain.io/startherefm/) - An informative and up-to-date podcast on creating a business with Web Development.
+* :green_book: [SYFY25 Origin Stories](http://www.syfy.com/syfywire/podcast-episodes/) - Adam Savage sits down with creators, thought-leaders, and celebrity fans to discuss the moments, people, and milestones that have changed the genre universe forever; a nostalgic celebration of all things science fiction.
+* :green_book: [Syntax FM](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
+* :green_book: [Sysadministrivia](https://sysadministrivia.com/) - Linux, Lagers, and Late Nights.
+* :blue_book: [Syscast Podcast](http://podcast.sysca.st/) - Talking Linux, open source, web development and system administration (DevOps).
+* :closed_book: [Talking Code](http://www.talkingcode.com/) - Short expert interviews that help you _decode_ what developers are saying.
+* :green_book: [Talking Kotlin](http://talkingkotlin.com/) - A bimonthly podcast on Kotlin and more hosted by Hadi Hariri.
+* :green_book: [Talking Machines](http://www.thetalkingmachines.com/) - Talking Machines is your window into the world of machine learning.
+* :green_book: [Talk Python to Me](http://talkpython.fm/) - Weekly podcast (30 minutes) that covers a wide array of Python topics.
+* :green_book:  [TechStuff](http://shows.howstuffworks.com/techstuff-podcast.htm) - TechStuff tackles topics ranging from basic electronics to the Large Hadron Collider and everything in between. TechStuff is dedicated to demystifying technology and its role in our society and culture.
+* :blue_book: [Test and Code Podcast](http://pythontesting.net/test-podcast/) - A podcast about Software Development, Software Testing, and Python.
+* :orange_book: [Testing In The Pub](http://testinginthepub.co.uk/testinginthepub/) - British podcast about Software Testing practices
+* :orange_book: [That Podcast](https://thatpodcast.io/) - Beau and Dave talking about life as dads, programmers, and entrepreneurs.
+* :green_book: [The Accidental Engineer](http://theaccidentalengineer.com) - Interviews with engineers about how they started their career
+* :blue_book: [The Agile Coffee Podcast](http://agilecoffee.com/) - AgileCoffee brings together an engaged group of practitioners passionate about Agile methodologies and Lean practices.
+* :green_book: [The Amp Hour](http://theamphour.com/) - Discussing the world of electronics design in an hour long(ish) weekly show.
+* :green_book: [The Back to Front Show](http://backtofrontshow.com/) - The Back to Front show was started in 2013 by web industry veterans Keir Whitaker and Kieran Masterton. Over the first 40 episodes they have discussed everything from web design and development to startups and dog related tech.
+* :green_book: [The Big Web Show](http://5by5.tv/bigwebshow) - It's everything web that matters.
+* :green_book: [The Bike Shed](http://bikeshed.fm/) - On The Bike Shed, hosts Derek Prior, Sean Griffin, Laila Winner, and guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week.
+* :green_book: [The Changelog](https://changelog.com/podcast/) - Open Source moves fast. Keep up. Releasing a new episode every Friday.
+* :green_book: [The Cognicast](http://blog.cognitect.com/cognicast) - The Cognicast previously ThinkRelevance: The Podcast is the podcast from the Cognitect family.
+* :orange_book: [The Five-Minute Geek Show](http://www.fiveminutegeekshow.com) - Matt Stauffer, unabashedly geeky, 5 minutes, twice a week. Frontend dev, backend dev, audio, design, podcasts--all fair game.
+* :green_book: [The Food Fight Show](http://foodfightshow.org/) - The Podcast where DevOps chefs do battle
+* :green_book: [The Hanselminutes podcast](http://hanselminutes.com) - Fresh Air for Developers.
+* :green_book: [The Laravel Podcast](http://www.laravelpodcast.com) - The Laravel Podcast brings you Laravel and PHP development news and discussion.
+* :green_book: [The Life Scientific](http://www.bbc.co.uk/programmes/b015sqc7) - Professor Jim Al-Khalili talks to leading scientists about their life and work, finding out what inspires and motivates them and asking what their discoveries might do for mankind.
+* :green_book: [The Linux Action Show](http://www.jupiterbroadcasting.com/tag/linux-action-show/) - Podcast about Linux and Open Source. (discontinued)
+* :closed_book: [The Loosely Coupled Podcast](http://looselycoupled.info/) - Jeff Carouth and Matt Frost combine their decades of experience as web developers to talk about developer life.
+* :green_book: [The Manifest](https://manifest.fm) - A podcast all about package management.
+* :closed_book: [The Music Makers](http://musicmakers.fm) - The best articles from around the web, curated and read to you.
+* :closed_book: [The Path to Performance](https://pathtoperf.com/) - A podcast for everyone dedicated to making websites faster.
+* :closed_book: [The Ship Show](http://theshipshow.com/) - Build engineering, DevOps, release management & everything in between!
+* :green_book: [The Stack Overflow Podcast](https://stackoverflow.blog/podcasts/) - A weekly podcast about developers and the Stack Overflow community.
+* :closed_book: [The Web Ahead](http://5by5.tv/webahead) - Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up.
+* https://stackoverflow.blog/podcasts/ [The Web Platform Podcast](http://thewebplatform.libsyn.com/) - A weekly show that dives deep into all things web from the developers building the platform today.
+* :green_book: [This Developer's Life](http://thisdeveloperslife.com/) - A podcast about developers and their lives.
+* :green_book: [Thoughtbot](https://thoughtbot.com/podcasts) - We record and release weekly podcasts from thoughtbot on design, Ruby on Rails, iOS, running software companies, and maintaining work/life balance.
+* :closed_book: [ThoughtWorks](https://soundcloud.com/thoughtworks) - A community of passionate individuals whose purpose is to revolutionize software design, creation and delivery, while advocating for positive social change.
+* :orange_book: [Three Devs and a Maybe](http://threedevsandamaybe.com/) - Weekly discussion podcast on all things web development. Topics range from daily developer life, PHP, frameworks, testing, good software design and our experiences using many other programming languages.
+* :green_book: [Toolsday Podcast](http://toolsday.io/) - A 20-ish-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays at 2!
+* :closed_book: [TTL Podcast](http://ttlpodcast.com/) - The TTL Podcast, hosted by Rebecca Murphey, features conversations with front-end developers at large organizations about how they do their jobs.
+* :green_book: [Ubuntu Podcast](http://ubuntupodcast.org) - A lively and upbeat podcast made by members of the Ubuntu UK LoCo that includes news, discussion and interviews from the Ubuntu and Open Source communities.
+* :green_book: [Voices of the ElePHPant](https://voicesoftheelephpant.com) - Interviews with people that are making the PHP community special.
+* :green_book: [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - Podcast about JavaScript and front-end web development.
+* :white_circle: [Why Are Computers](http://whyarecomputers.com/) - A podcast about computers and computer programs and why.
+* :closed_book: [WIRED's Webmonkey Podcast](http://www.wired.com/series/webmonkey) - Glance behind the scenes of WIRED.com with the tech team.
 
 ## In Portuguese
 
-* [CapyCast](https://soundcloud.com/rdshipit/) - Podcast com o Time de Produto da Resultados Digitais sobre os seus aprendizados em Desenvolvimento e Design.
-* [Curto Circuito](http://curtocircuito.cc/) - Um bate-papo descontraído sobre tecnologia, nerdices e tudo o mais que a curiosidade pedir no melhor estilo "mesa de bar".
-* [DatabaseCast](http://imasters.com.br/perfil/databasecast/) - Primeiro podcast brasileiro sobre bancos de dados.
-* [DevNaEstrada](http://devnaestrada.com.br) - Podcast semanal sobre desenvolvimento web com uma pitada de humor.
-* [DioCast](http://www.diolinux.com.br/search/label/DioCast) - Podcast sobre Linux e Software Livre.
-* [FooCast](http://foocast.io/) - Podcast sucinto que fala sobre desenvolvimento em geral.
-* [GDGCasts](http://gdgcasts.com) - Podcast do Google Developer Groups.
-* [Grok Podcast](http://www.grokpodcast.com) - Tecnologia, empreendedorismo, agilidade e muito mais.
-* [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) - Podcast about technology and Open Source/Free software
-* [Hipsters ponto Tech](http://hipsters.tech) - Podcast da Caelum sobre startups, programação, UX, gadgets e as últimas tendências em tecnologia.
-* [Lambda3 Podcast](https://blog.lambda3.com.br/category/podcast/) - Podcast da Lambda3
-* [NerdCast](http://jovemnerd.com.br/categoria/nerdcast/) - Podcast do portal JovemNerd que fala sobre nerdices, teorias e rpg's
-* [OpenCast](http://tecnologiaaberta.com.br/category/opencast/) - Podcast que aborda tecologias Open Source, de uma maneira geral.
-* [OpenDevPodcast](http://www.opendevpodcast.com.br) - Um bate papo descontraído sobre a área de tecnologia da informação
-* [PHP Do Jeito Certo](http://phpdojeitocerto.tumblr.com/) - Notícias sobre as novidades do PHP para desenvolvedores experientes e iniciantes.
-* [PHPSPCast](http://phpsp.org.br/category/phpsp/phpspcast/) - O podcast do PHPSP, o primeiro podcast brasileiro sobre PHP.
-* [PODebug](http://www.podebug.com/) - Desenvolvimento de software e tecnologia em geral, mas de forma bem humorada e descontraída.
-* [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br) - Agilidade, arquitetura, linguagens e ativismo.
-* [Zeno Overflow](https://soundcloud.com/zenorocha) - Uma série de perguntas e respostas ao vivo sobre tecnologia, carreira e a vida fora do Brasil.
-* [Zone Of Front-Enders](http://zofe.com.br) - Podcast com enfoque no desenvolvimento front-end da web.
+* :closed_book: [CapyCast](https://soundcloud.com/rdshipit/) - Podcast com o Time de Produto da Resultados Digitais sobre os seus aprendizados em Desenvolvimento e Design.
+* :closed_book: [Curto Circuito](http://curtocircuito.cc/) - Um bate-papo descontraído sobre tecnologia, nerdices e tudo o mais que a curiosidade pedir no melhor estilo "mesa de bar".
+* :green_book: [DatabaseCast](http://imasters.com.br/perfil/databasecast/) - Primeiro podcast brasileiro sobre bancos de dados.
+* :green_book: [DevNaEstrada](http://devnaestrada.com.br) - Podcast semanal sobre desenvolvimento web com uma pitada de humor.
+* :orange_book: [DioCast](http://www.diolinux.com.br/search/label/DioCast) - Podcast sobre Linux e Software Livre.
+* :blue_book: [FooCast](http://foocast.io/) - Podcast sucinto que fala sobre desenvolvimento em geral.
+* :closed_book: [GDGCasts](http://gdgcasts.com) - Podcast do Google Developer Groups.
+* :closed_book: [Grok Podcast](http://www.grokpodcast.com) - Tecnologia, empreendedorismo, agilidade e muito mais.
+* :orange_book: [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) - Podcast about technology and Open Source/Free software
+* :green_book: [Hipsters ponto Tech](http://hipsters.tech) - Podcast da Caelum sobre startups, programação, UX, gadgets e as últimas tendências em tecnologia.
+* :green_book: [Lambda3 Podcast](https://blog.lambda3.com.br/category/podcast/) - Podcast da Lambda3
+* :green_book: [NerdCast](http://jovemnerd.com.br/categoria/nerdcast/) - Podcast do portal JovemNerd que fala sobre nerdices, teorias e rpg's
+* :green_book: [OpenCast](http://tecnologiaaberta.com.br/category/opencast/) - Podcast que aborda tecologias Open Source, de uma maneira geral.
+* :green_book: [OpenDevPodcast](http://www.opendevpodcast.com.br) - Um bate papo descontraído sobre a área de tecnologia da informação
+* :closed_book: [PHP Do Jeito Certo](http://phpdojeitocerto.tumblr.com/) - Notícias sobre as novidades do PHP para desenvolvedores experientes e iniciantes.
+* :closed_book: [PHPSPCast](http://phpsp.org.br/category/phpsp/phpspcast/) - O podcast do PHPSP, o primeiro podcast brasileiro sobre PHP.
+* :blue_book: [PODebug](http://www.podebug.com/) - Desenvolvimento de software e tecnologia em geral, mas de forma bem humorada e descontraída.
+* :closed_book: [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br) - Agilidade, arquitetura, linguagens e ativismo.
+* :closed_book: [Zeno Overflow](https://soundcloud.com/zenorocha) - Uma série de perguntas e respostas ao vivo sobre tecnologia, carreira e a vida fora do Brasil.
+* :blue_book: [Zone Of Front-Enders](http://zofe.com.br) - Podcast com enfoque no desenvolvimento front-end da web.
 
 ## In Spanish
 
