@@ -277,7 +277,7 @@ A curated list of podcasts we like to listen to.
 
 * [DevTalk](http://devtalk.pl/) - Tech podcast for passionate developers. All topics related to dev: architecture, languages, tools, libraries, conferences, community, career planning... Hosted by Maciej Aniserowicz.
 * [Just4Fun](http://just4fun.io/) - Biweekly tech podcast hosted by Rafal Warzycha and Piotr Leszczynski. Main topics are JavaScript and frontend.
-*
+* [ChwastIT](https://chwast.codearsonist.com/) - The worst programming podcast in Poland. Casually, unbearably and possibly flippantly about software engineering. With [@kwasniew](https://twitter.com/kwasniew), [@kubek2k](https://twitter.com/kubek2k), [@peel](https://twitter.com/peel) and their guests - the weeds of polish IT.
 
 ## In Turkish
 
