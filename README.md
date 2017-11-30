@@ -299,6 +299,7 @@ A curated list of podcasts we like to listen to.
 * [Soundwaves](https://github.com/bottiger/SoundWaves) - (Android and Open Source)
 * [DoggCatcher](http://www.doggcatcher.com) - Android Podcast player
 * [gPodder](http://gpodder.org/) / [gPodder Director](https://gpodder.net/) - (Multi-plataform Open Source and Podcast Directory)
+* [RadioPublic](http://www.radiopublic.com/)
 
 ### More
 
