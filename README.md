@@ -265,6 +265,7 @@ A curated list of podcasts we like to listen to.
 * [Logbuch:Netzpolitik](https://logbuch-netzpolitik.de/) - Weekly podcast about netpolitics.
 * [Request for Comments](http://requestforcomments.de/) - Der RFC Podcast
 * [Working Draft](http://workingdraft.de/) - Weekly news podcast for webdesigners and developers.
+* [Methodisch inkorrekt](http://minkorrekt.de/) - humoristic reviews of papers 4. Releasing pretty much all two weeks
 
 ## In Chinese
 
