@@ -103,6 +103,7 @@ A curated list of podcasts we like to listen to.
 * [Laravel News Podcast](http://podcast.laravel-news.com/) - The Laravel News Podcast brings you all the latest news and events related to Laravel.
 * [Linear Digressions](http://www.lineardigressions.com) - Explores topics of data science and machine learning in an accessible way through real-world stories and examples.
 * [Linux Outlaws](http://sixgun.org/linuxoutlaws) - About anything that runs on Linux, about open source software on other platforms and many other things.
+* [Linux Unplugged](http://www.jupiterbroadcasting.com/show/linuxun/) - Weekly Linux live and open talk show
 * [Listen and Learn about AWS](http://aws.amazon.com/podcasts/aws-podcast/) - Jeff Barr discusses various aspects of the Amazon Web Services (AWS) offering. Each podcast include AWS news, tech tips, and interviews with startups, AWS partners, and AWS employees.
 * [Magic Read Along](http://www.magicreadalong.com) - A podcast about programming, life and the internet. Topics include FP, OOP, development practices, and a dip into our personal lives from time to time.
 * [Makers](https://makers.crew.co/) - Unexpected life moments that have had an impact on today’s most influential and experimental makers.
