@@ -245,6 +245,8 @@ A curated list of podcasts we like to listen to.
 * [uWebDesign](https://uwebdesign.ru/) - Podcast about web-design, web-development and all IT-related stuff.
 * [Frontflip Podcast](http://frontflip.me/) - Podcast about JavaScript, frontend and related technologies.
 * [GoLang Show](https://golangshow.com/) - Podcast about Go language.
+* [DevOps Deflope](https://devopsdeflope.ru/) - Podcast about DevOps.
+* [HangOps.Ru](https://www.youtube.com/channel/UCr5mwN4AKxiYxysr8PeQdaA/feed) - Podcast + Live talk on YouTube about DevOps.
 
 ## In Persian
 
