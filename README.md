@@ -76,7 +76,8 @@ A curated list of podcasts we like to listen to.
 * [DevOps Cafe](http://devopscafe.org/) - In this interview driven show, John Willis and Damon Edwards take a pragmatic look at the technology, tools, and business developments behind the emerging DevOps movement.
 * [Digital Human](http://www.bbc.co.uk/programmes/b01n7094) - BBC series explores the digital world presented by Aleks Krotoski.
 * [Eat Sleep Code Podcast](https://soundcloud.com/esc-podcast) - On the show we’ll be talking to passionate people about a wide range of developer related topics.
-* [Elixir Foundation](http://feed.elixirfountain.com/) - Your weekly podcast for news & interviews from around the Elixirlang Community
+* [Elixir Foundation](http://feed.elixirfountain.com/) - Your weekly podcast for news & interviews from around the Elixirlang Community.
+* [Elixir Outlaws](https://elixiroutlaws.com) - Panel discussions of topics in and around Elixir development.
 * [Embedded.fm](http://embedded.fm/) - Talk about the how, why, and what of engineering, usually devices.
 * [Ember Weekend](https://emberweekend.com) - A week(end)ly podcast about Ember, hosted by Jon and Chase.
 * [Elm Town](https://elmtown.github.io/) - A podcast about the people making and using the Elm language, and the things that they do.
