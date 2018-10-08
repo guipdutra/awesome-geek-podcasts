@@ -232,7 +232,6 @@ A curated list of podcasts we like to listen to.
 ## In Spanish
 
 * [1984](http://podcast.jcea.es/podcast1984/) - Hacking, hacktivismo y seguridad
-* [5 minutos con Carlos Fenollosa](http://cf5m.com/) - Micro-Podcast (5-10 minutos) de reflexiones sobre TIC
 * [85% Cocoa](http://ochentaycincoporcientococoa.tumblr.com/) - Podcast sobre Cocoa y programación.
 * [A hombros de gigantes](http://www.rtve.es/alacarta/audios/a-hombros-de-gigantes/) - Programa de divulgación científica.
 * [Basta ya de picar](http://www.bastayadepicar.com/) - Podcasts donde se discuten diversos temas de programación y de la vida del programador.
@@ -242,10 +241,7 @@ A curated list of podcasts we like to listen to.
 * [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) - Programa de divulgación científica, ciencia ficción y vídeo juegos.
 * [Ideas ágiles](http://www.ideasagiles.com/podcast/) - Podcast sobre charlas, entrevistas y experiencias sobre la vida del desarrollador de software.
 * [Nación Lumpen](http://www.nacionlumpen.com/) - similar a "Basta ya de picar".
-* [Preceptos Digitales](http://preceptosdigitales.com/) - Planificación y desarrollo Web.
 * [Python en español](http://podcast.jcea.es/python/) - Python en tu idioma
-* [RantPod](http://rantpod.com/) - el podcast de Agile Galicia, o algo así.
-* [Reality Cracking](http://mhyst.es/rcracking/) - GNU/Linux, privacidad, ética, seguridad, etc.
 * [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in English).
 
 ## In Russian
