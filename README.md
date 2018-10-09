@@ -207,14 +207,11 @@ A curated list of podcasts we like to listen to.
 ## In Portuguese
 
 * [CapyCast](https://soundcloud.com/rdshipit/) - Podcast com o Time de Produto da Resultados Digitais sobre os seus aprendizados em Desenvolvimento e Design.
-* [Curto Circuito](http://curtocircuito.cc/) - Um bate-papo descontraído sobre tecnologia, nerdices e tudo o mais que a curiosidade pedir no melhor estilo "mesa de bar".
 * [DatabaseCast](http://imasters.com.br/perfil/databasecast/) - Primeiro podcast brasileiro sobre bancos de dados.
 * [DevDrops](https://anchor.fm/devdrops) - O seu podcast sobre desenvolvimento de software.
 * [DevNaEstrada](http://devnaestrada.com.br) - Podcast semanal sobre desenvolvimento web com uma pitada de humor.
 * [DioCast](http://www.diolinux.com.br/search/label/DioCast) - Podcast sobre Linux e Software Livre.
 * [FooCast](http://foocast.io/) - Podcast sucinto que fala sobre desenvolvimento em geral.
-* [GDGCasts](http://gdgcasts.com) - Podcast do Google Developer Groups.
-* [Grok Podcast](http://www.grokpodcast.com) - Tecnologia, empreendedorismo, agilidade e muito mais.
 * [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) - Podcast about technology and Open Source/Free software
 * [Hipsters ponto Tech](http://hipsters.tech) - Podcast da Caelum sobre startups, programação, UX, gadgets e as últimas tendências em tecnologia.
 * [Lambda3 Podcast](https://blog.lambda3.com.br/category/podcast/) - Podcast da Lambda3
@@ -237,7 +234,6 @@ A curated list of podcasts we like to listen to.
 * [Basta ya de picar](http://www.bastayadepicar.com/) - Podcasts donde se discuten diversos temas de programación y de la vida del programador.
 * [CAChemE](http://cacheme.org/podcast/) - Aplicaciones para ciencia e ingeniería (principalmente Python).
 * [El gato de Turing](https://elgatodeturing.com/) - Podcast sobre la actualidad científica y tecnológica.
-* [Entre Dev y Ops](http://www.entredevyops.es/podcast.html) - Podcast sobre DevOps y metodologías ágiles.
 * [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) - Programa de divulgación científica, ciencia ficción y vídeo juegos.
 * [Ideas ágiles](http://www.ideasagiles.com/podcast/) - Podcast sobre charlas, entrevistas y experiencias sobre la vida del desarrollador de software.
 * [Nación Lumpen](http://www.nacionlumpen.com/) - similar a "Basta ya de picar".
