@@ -94,6 +94,7 @@ A curated list of podcasts we like to listen to.
 * [Fragmented](http://fragmentedpodcast.com/) - An Android Developer Podcast.
 * [Full Stack Radio](http://www.fullstackradio.com/) - A podcast for developers interested in building great software products.
 * [Functional Geekery](http://www.functionalgeekery.com) - Functional Geeks, Geeking Functionally.
+* [Future of Coding](https://futureofcoding.org/) - Monthly interviews.
 * [Fw:Thinking](http://www.fwthinking.com/podcasts/) - It's about technology. It's about humanity. It's about our future. It's Fw:Thinking.
 * [Garbage](http://garbage.fm/) - A podcast about technology by two OpenBSD developers.
 * [Get Up and Code](http://getupandcode.com/) - Get Up and Code is a podcast about fitness for programmers and software developers. Every week, John Sonmez, helps you lose weight, refactor your diet and get in shape.
