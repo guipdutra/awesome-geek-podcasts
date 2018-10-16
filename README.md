@@ -240,6 +240,7 @@ A curated list of podcasts we like to listen to.
 * [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) - Programa de divulgación científica, ciencia ficción y vídeo juegos.
 * [Ideas ágiles](http://www.ideasagiles.com/podcast/) - Podcast sobre charlas, entrevistas y experiencias sobre la vida del desarrollador de software.
 * [Nación Lumpen](http://www.nacionlumpen.com/) - similar a "Basta ya de picar".
+* [Programar es una mierda](https://www.programaresunamierda.com/) - Podcast sobre desarrollo de software.
 * [Python en español](http://podcast.jcea.es/python/) - Python en tu idioma
 * [Ubuntu y otras hierbas](https://www.ubuntuleon.com/search?q=podcast&max-results=20&by-date=true) - Podcast en español sobre Ubuntu y software libre en general.
 * [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in English).
