@@ -236,6 +236,7 @@ A curated list of podcasts we like to listen to.
 * [A hombros de gigantes](http://www.rtve.es/alacarta/audios/a-hombros-de-gigantes/) - Programa de divulgación científica.
 * [Basta ya de picar](http://www.bastayadepicar.com/) - Podcasts donde se discuten diversos temas de programación y de la vida del programador.
 * [CAChemE](http://cacheme.org/podcast/) - Aplicaciones para ciencia e ingeniería (principalmente Python).
+* [Compilando podcast](https://compilando.audio/) - GNU/Linux y software libre.
 * [El gato de Turing](https://elgatodeturing.com/) - Podcast sobre la actualidad científica y tecnológica.
 * [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) - Programa de divulgación científica, ciencia ficción y vídeo juegos.
 * [Ideas ágiles](http://www.ideasagiles.com/podcast/) - Podcast sobre charlas, entrevistas y experiencias sobre la vida del desarrollador de software.
