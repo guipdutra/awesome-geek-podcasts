@@ -24,6 +24,7 @@ A curated list of podcasts we like to listen to.
 - [Turkish](#in-turkish)
 - [Finnish](#in-finnish)
 - [Japanese](#in-japanese)
+- [Bahasa Indonesia](#in-bahasa-indonesia)
 
 ## Other information
 
@@ -312,6 +313,10 @@ A curated list of podcasts we like to listen to.
 ## In Japanese
 
 * [Rebuild](http://rebuild.fm/) - A Podcast by Tatsuhiko Miyagawa. Talking about Tech, Software Development and Gadgets.
+
+## In Bahasa Indonesia
+* [Ceritanya Developer Podcast](https://ceritanyadeveloper.com/)  - Developer inspiratif bercerita tentang bagaimana mereka memulai menjadi developer.
+* [Teh atau Kopi](https://tehataukopi.club/) - Belajar di luar sekolah
 
 ### Tooling
 
