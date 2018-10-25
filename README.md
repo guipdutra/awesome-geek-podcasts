@@ -11,20 +11,26 @@ A curated list of podcasts we like to listen to.
 
 ## Podcasts by language
 
-- [English](#in-english)
-- [Portuguese](#in-portuguese)
-- [Spanish](#in-spanish)
-- [Russian](#in-russian)
-- [Persian](#in-persian)
-- [Swedish](#in-swedish)
-- [French](#in-french)
-- [German](#in-german)
-- [Chinese](#in-chinese)
-- [Polish](#in-polish)
-- [Turkish](#in-turkish)
-- [Finnish](#in-finnish)
-- [Japanese](#in-japanese)
-- [Bahasa Indonesia](#in-bahasa-indonesia)
+- [Awesome Geek Podcasts ![awesome](https://github.com/sindresorhus/awesome)](#awesome-geek-podcasts-awesome)
+- [Table of Contents](#table-of-contents)
+  - [Podcasts by language](#podcasts-by-language)
+  - [Other information](#other-information)
+  - [In English](#in-english)
+  - [In Portuguese](#in-portuguese)
+  - [In Spanish](#in-spanish)
+  - [In Russian](#in-russian)
+  - [In Persian](#in-persian)
+  - [In Swedish](#in-swedish)
+  - [In French](#in-french)
+  - [In German](#in-german)
+  - [In Chinese](#in-chinese)
+  - [In Polish](#in-polish)
+  - [In Turkish](#in-turkish)
+  - [In Finnish](#in-finnish)
+  - [In Japanese](#in-japanese)
+  - [In Bahasa Indonesia](#in-bahasa-indonesia)
+    - [Tooling](#tooling)
+    - [More](#more)
 
 ## Other information
 
@@ -227,6 +233,7 @@ A curated list of podcasts we like to listen to.
 * [PHPSPCast](http://phpsp.org.br/category/phpsp/phpspcast/) - O podcast do PHPSP, o primeiro podcast brasileiro sobre PHP.
 * [PlayBook](https://astellainvest.com/playbook/) - Onde empreendedores e investidores dividem a história da sua jornada.
 * [PODebug](http://www.podebug.com/) - Desenvolvimento de software e tecnologia em geral, mas de forma bem humorada e descontraída.
+* [PodProgramar](https://podprogramar.com.br/) - Podcast apresentado por mulheres, desenvolvedoras, focado em programação, notícias e histórias da área. Tudo com o toque feminino numa área ainda dominada por homens.
 * [Souforce.cloud](https://souforce.cloud/podcast/) - O primeiro podcast voltado ao mundo Salesforce no idioma Português, aqui batemos um papo de Desenvolvimento, Administração da Plataforma, Produtos Salesforce além de assuntos como Carreira entre outros.
 * [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br) - Agilidade, arquitetura, linguagens e ativismo.
 * [Zeno Overflow](https://soundcloud.com/zenorocha) - Uma série de perguntas e respostas ao vivo sobre tecnologia, carreira e a vida fora do Brasil.
