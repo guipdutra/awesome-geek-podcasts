@@ -84,6 +84,7 @@ A curated list of podcasts we like to listen to.
 * [Disruptive](https://soundcloud.com/wyssinstitute/sets/disruptive) - Researchers at the Wyss Institute for Biologically Inspired Engineering use Nature's design principles to develop bioinspired materials and devices that will transform medicine and create a more sustainable world. In this podcast series, Terrence McNally speaks directly with Institute researchers, exploring their motivations and how they envision our future as it might be impacted by their disruptive technologies.
 * [Eat Sleep Code Podcast](https://soundcloud.com/esc-podcast) - On the show we’ll be talking to passionate people about a wide range of developer related topics.
 * [Elixir Foundation](http://feed.elixirfountain.com/) - Your weekly podcast for news & interviews from around the Elixirlang Community.
+* [Elixir Mix](https://devchat.tv/elixir-mix/) - Elixir Mix is a weekly show focused on the Elixir programming community.
 * [Elixir Outlaws](https://elixiroutlaws.com) - Panel discussions of topics in and around Elixir development.
 * [Embedded.fm](http://embedded.fm/) - Talk about the how, why, and what of engineering, usually devices.
 * [Ember Weekend](https://emberweekend.com) - A week(end)ly podcast about Ember, hosted by Jon and Chase.
