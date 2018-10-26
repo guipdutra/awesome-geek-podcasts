@@ -220,6 +220,7 @@ A curated list of podcasts we like to listen to.
 * [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) - Podcast about technology and Open Source/Free software
 * [Hipsters ponto Tech](http://hipsters.tech) - Podcast da Caelum sobre startups, programação, UX, gadgets e as últimas tendências em tecnologia.
 * [Lambda3 Podcast](https://blog.lambda3.com.br/category/podcast/) - Podcast da Lambda3
+* [Like a Boss](https://www.likeaboss.com.br) - O podcast Like a Boss é um podcast para empreendedores. Líderes e fundadores de startups e empresas de sucesso sentam com os dois hosts do programa.
 * [NerdCast](http://jovemnerd.com.br/categoria/nerdcast/) - Podcast do portal JovemNerd que fala sobre nerdices, teorias e rpg's
 * [OpenCast](http://tecnologiaaberta.com.br/category/opencast/) - Podcast que aborda tecologias Open Source, de uma maneira geral.
 * [OpenDevPodcast](http://www.opendevpodcast.com.br) - Um bate papo descontraído sobre a área de tecnologia da informação
