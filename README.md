@@ -324,6 +324,7 @@ A curated list of podcasts we like to listen to.
 ## In Bahasa Indonesia
 * [Ceritanya Developer Podcast](https://ceritanyadeveloper.com/)  - Developer inspiratif bercerita tentang bagaimana mereka memulai menjadi developer.
 * [Teh atau Kopi](https://tehataukopi.club/) - Belajar di luar sekolah
+* [Developer Muslim](https://devmuslim.id/) - Jurnal seorang developer muslim
 
 ### Tooling
 
