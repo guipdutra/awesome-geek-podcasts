@@ -327,6 +327,7 @@ A curated list of podcasts we like to listen to.
 * [Ceritanya Developer Podcast](https://ceritanyadeveloper.com/)  -Cerita Developer inspiratif tentang bagaimana mereka memulai menjadi developer.
 * [Teh atau Kopi](https://tehataukopi.club/) - Belajar di luar sekolah
 * [Developer Muslim](https://devmuslim.id/) - Jurnal seorang developer muslim
+* [Teman Macet](http://temanmacet.com/) - Tentang programming dan industri informatika.
 
 ### Tooling
 
