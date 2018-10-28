@@ -324,7 +324,7 @@ A curated list of podcasts we like to listen to.
 * [Rebuild](http://rebuild.fm/) - A Podcast by Tatsuhiko Miyagawa. Talking about Tech, Software Development and Gadgets.
 
 ## In Bahasa Indonesia
-* [Ceritanya Developer Podcast](https://ceritanyadeveloper.com/)  - Developer inspiratif bercerita tentang bagaimana mereka memulai menjadi developer.
+* [Ceritanya Developer Podcast](https://ceritanyadeveloper.com/)  -Cerita Developer inspiratif tentang bagaimana mereka memulai menjadi developer.
 * [Teh atau Kopi](https://tehataukopi.club/) - Belajar di luar sekolah
 * [Developer Muslim](https://devmuslim.id/) - Jurnal seorang developer muslim
 
