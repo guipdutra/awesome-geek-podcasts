@@ -1,4 +1,4 @@
----
+﻿---
 title: Awesome Geek Podcasts
 permalink: /
 layout: default
@@ -144,7 +144,6 @@ A curated list of podcasts we like to listen to.
 * [Reply All](https://gimletmedia.com/show/reply-all/) - Reply All is a show about the internet.
 * [Rocket Talk](http://www.tor.com/features/series/rocket-talk-podcast/) - Rocket Talk is Tor.com’s sci-fi/fantasy podcast, blending discussion style talk-radio with audio narrations of Tor.com’s award winning short fiction.
 * [Risky Business](http://risky.biz/netcasts/risky-business) - Risky Business was established in February, 2007. It take a lighthearted look at information security news and features.
-* [Roots Radio](https://roots.io/radio0) - Roots Radio is a new podcast about the Roots tools, a chance for the Roots team to talk with some folks doing cool things with their own Roots related projects, and general banter about modern web development.
 * [Ruby5](https://ruby5.codeschool.com) - The latest news in the Ruby and Rails community.
 * [Ruby Rogues](https://devchat.tv/ruby-rogues) - Ruby Rogues is a weekly panel discussion about programming. Ruby and technologies like Rails are what we have in common, but the discussions cover parts of the Ruby ecosystem, gems (libraries) as well as programming practices, tools, and careers.
 * [RunAs Radio](http://www.runasradio.com/) - A weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.
