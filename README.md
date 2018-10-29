@@ -103,6 +103,7 @@ A curated list of podcasts we like to listen to.
 * [GitMinutes](http://www.gitminutes.com/) - The show for proficient Git users.
 * [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - The Google Cloud Platform Podcast, coming to you every week. Discussing everything from on Google Cloud Platform from App Engine to Big Query.
 * [Go Time](https://changelog.com/gotime/) - Interesting topics around the Go programming language, building systems, the community, and everything in between.
+* [Greater Than Code](https://www.greaterthancode.com/) - because #peoplematter.
 * [HardcoreHistory](http://www.dancarlin.com/hardcore-history-series/) - In "Hardcore History" the very unconventional Dan Carlin takes his "Martian", outside-the-box way of thinking and applies it to the past.
 * [Harry Potter and the methods of rationality](http://www.hpmorpodcast.com/) - This is an alternate universe story, where Petunia married a scientist. Harry enters the wizarding world armed with Enlightenment ideals and the experimental spirit.
 * [HaskellCast](http://www.haskellcast.com/) — A podcast for Haskell developers working in industry.
@@ -222,6 +223,7 @@ A curated list of podcasts we like to listen to.
 * [Hipsters ponto Tech](http://hipsters.tech) - Podcast da Caelum sobre startups, programação, UX, gadgets e as últimas tendências em tecnologia.
 * [Lambda3 Podcast](https://blog.lambda3.com.br/category/podcast/) - Podcast da Lambda3
 * [Like a Boss](https://www.likeaboss.com.br) - O podcast Like a Boss é um podcast para empreendedores. Líderes e fundadores de startups e empresas de sucesso sentam com os dois hosts do programa.
+* [Lovelace Podcast](https://twitter.com/LovelacePodcast) - Internet, memes, games, atualidades e quando dá - tecnologia.
 * [Naruhodo!](https://www.b9.com.br/podcasts/naruhodo/) - O Podcast tem uma proposta de explicar diversos temas, usando ciência, filosofia, história entre outros para embasar as respostas.
 * [NerdCast](http://jovemnerd.com.br/categoria/nerdcast/) - Podcast do portal JovemNerd que fala sobre nerdices, teorias e rpg's
 * [OpenCast](http://tecnologiaaberta.com.br/category/opencast/) - Podcast que aborda tecologias Open Source, de uma maneira geral.
@@ -231,6 +233,7 @@ A curated list of podcasts we like to listen to.
 * [PlayBook](https://astellainvest.com/playbook/) - Onde empreendedores e investidores dividem a história da sua jornada.
 * [PODebug](http://www.podebug.com/) - Desenvolvimento de software e tecnologia em geral, mas de forma bem humorada e descontraída.
 * [PodProgramar](https://podprogramar.com.br/) - Podcast apresentado por mulheres, desenvolvedoras, focado em programação, notícias e histórias da área. Tudo com o toque feminino numa área ainda dominada por homens.
+* [Quebradev](http://quebradev.com.br/) - Um podcast de origem periférica e com destino voltado à origem.
 * [Rapadura Cast](https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/) - Podcast da galera do Cinema com rapadura, considerado hoje referência sobre cultura pop no Brasil.
 * [Rede Geek](http://www.redegeek.com.br/podcast/) - Podcast destinado ao público geek sobre diversos assuntos como, tecnologia, ciência, história e outros.
 * [Souforce.cloud](https://souforce.cloud/podcast/) - O primeiro podcast voltado ao mundo Salesforce no idioma Português, aqui batemos um papo de Desenvolvimento, Administração da Plataforma, Produtos Salesforce além de assuntos como Carreira entre outros.
