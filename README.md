@@ -25,6 +25,7 @@ A curated list of podcasts we like to listen to.
 - [Finnish](#in-finnish)
 - [Japanese](#in-japanese)
 - [Bahasa Indonesia](#in-bahasa-indonesia)
+- [Dutch](#in-dutch)
 
 ## Other information
 
