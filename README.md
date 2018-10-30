@@ -25,6 +25,7 @@ A curated list of podcasts we like to listen to.
 - [Finnish](#in-finnish)
 - [Japanese](#in-japanese)
 - [Bahasa Indonesia](#in-bahasa-indonesia)
+- [Dutch](#in-dutch)
 
 ## Other information
 
@@ -330,6 +331,15 @@ A curated list of podcasts we like to listen to.
 * [Teh atau Kopi](https://tehataukopi.club/) - Belajar di luar sekolah
 * [Developer Muslim](https://devmuslim.id/) - Jurnal seorang developer muslim
 * [Teman Macet](http://temanmacet.com/) - Tentang programming dan industri informatika.
+
+## In Dutch
+* [BNR: Digitaal](https://www.bnr.nl/programmas/digitaal) - Herbert Blankesteijn schakelt tussen internet, computer en telefonie.
+* [BNR: De Technoloog](https://www.bnr.nl/programmas/de-technoloog) - Herbert Blankesteijn en Ben van der Burg in gesprek met spraakmakende experts over technologische ontwikkelingen en de impact op onze samenleving.
+* [De Appels en Peren Show](http://appelsenperenshow.nl/) - Een talkshow over en uit de toekomst. Technologie, media, cultuur en alles wat verder de toekomst mogelijk maakt.
+* [Tech45](https://tech45.eu/) - Tech45 is een wekelijkse technologiepodcast. In ongeveer 45 minuten loodst een panel geeks je door het interessantste technieuws van de voorbije week.
+* [TechSnacks](https://techsnacks.nl/) - De enige techpodcast op snackformaat!
+* [Met Nerds om Tafel](https://www.metnerdsomtafel.nl/) - Wekelijkse podcast waarin nerds Spa Rood drinken en praten over tech-onderwerpen. Met regelmatig gastnerds en vaste tafelnerds Daniel Kegel, Floris Diemel, Joost Schellevis, Jurian Ubachs en Randal Peelen.
+* [ZeepCast](https://twitter.com/Zeepcast) - Een podcast over de laatste ontwikkelingen in wetenschap, technologie & popculture. Gehost door Sander Bijleveld & David van Dorsten.
 
 ### Tooling
 
