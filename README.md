@@ -70,10 +70,8 @@ A curated list of podcasts we like to listen to.
 * [Darknet Diaries](https://darknetdiaries.com) - Stories from hackers or those who have been attacked. How they got in and what happened.
 * [Data Skeptic](http://dataskeptic.com/) - The Data Skeptic Podcast features interviews and discussion of topics related to data science, statistics, machine learning, artificial intelligence and the like.
 * [Data Stories](http://datastori.es/) - Enrico Bertini and Moritz Stefaner discuss the latest developments in data analytics, visualization and related topics.
-* [Descriptive](http://descriptive.audio/) - This is an interview show with people from the JavaScript and web development world, hosted by Kahlil Lechelt and Henning Glatter-Götz.
 * [Design vs Dev](https://agileleague.com/) - A podcast about web development from the different perspectives of designers and developers.
 * [DevChat.tv](https://devchat.tv/) - We are programmers. House of Ruby Rogues, Javascript Jabber, IPhreaks, Freelancers' Show, Adventures in Angular and RailsClips.
-* [Dev Discussions](http://www.devdiscussions.com) - Discussions over a wide variety of topics including functional programming, domain-driven design, and game development.
 * [Developer On Fire](http://developeronfire.com/) - Podcast with inspiring interviews with successful software developers, architects, testers, and other professionals with stories of success, failure, excellence, and inspiration.
 * [DevelopersHangout](http://www.developershangout.io/) - Two Developers talk about challeges, articles, news, books and other podcasts that came across their radar every 2 weeks. Laravel, PHP are two key topics, and other great podcasts like the ones listed above.
 * [Developer Tea](https://spec.fm/podcasts/developer-tea) - Podcast for web and software developers hosted by a developer that you can listen to in less than 10 minutes.
@@ -147,7 +145,6 @@ A curated list of podcasts we like to listen to.
 * [Ruby5](https://www.pluralsight.com/search?q=ruby) - The latest news in the Ruby and Rails community.
 * [Ruby Rogues](https://devchat.tv/ruby-rogues/) - Ruby Rogues is a weekly panel discussion about programming. Ruby and technologies like Rails are what we have in common, but the discussions cover parts of the Ruby ecosystem, gems (libraries) as well as programming practices, tools, and careers.
 * [RunAs Radio](http://www.runasradio.com/) - A weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.
-* [Rusty Radio](http://rustyrad.io/) - A show about the Rust programming language and community.
 * [Security Now!](https://www.grc.com/securitynow.htm) - Security Now! consists of a discussion between Steve Gibson and Leo Laporte of issues of computer security and, conversely, insecurity.
 * [Security Weekly](https://securityweekly.com) - A weekly podcast about security and info sec.
 * [ShopTalk Show](https://shoptalkshow.com/) - Podcast about front end web design, development and UX.
@@ -297,7 +294,6 @@ A curated list of podcasts we like to listen to.
 ## In Chinese
 
 * [Code Time](http://codetimecn.com/) - A Chinese podcast for programmers, hosted by [业余西](https://www.weibo.com/us)
-* [Programmer life](http://podcast.tchen.me/) - Weekly tech podcast hosted by Tyr Chen in the silicon valley. Main topics are interesting github projects / hacker news topics and startups.
 * [Teahour](http://teahour.fm/) - A podcast hosted by [Terry Tai](https://github.com/poshboytl), [Dingding Ye](https://github.com/sishen) and [Daniel Lv](https://github.com/lgn21st), Most topics are about software development, startups, etc.
 
 ## In Polish
