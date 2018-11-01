@@ -45,6 +45,7 @@ A curated list of podcasts we like to listen to.
 * [Away from Keyboard](https://changelog.com/afk) – Exploring the human side of creative work.
 * [AWS re:Invent 2015](https://www.youtube.com/user/AmazonWebServices/about) [iTunes](https://itunes.apple.com/us/podcast/aws-re-invent-2015/id1041854841?mt=2&ign-mpt=uo%3D4) [RSS](https://s3.amazonaws.com/reinvent-podcasts/AWS_reInvent2015_PodcastRSS.xml)- 230+ technical sessions covering architecture, operations, security, and more.
 * [Azure Friday](http://s.ch9.ms/Shows/Azure-Friday) - Scott Hanselman sits down with the actual engineers who build Azure on his journey to learn how to program the cloud. No marketing, no BS, just two engineers and a laptop in short managable chunks.
+* [Base.cs](https://www.codenewbie.org/basecs) - Beginner-friendly computer science lessons based on Vaidehi Joshi's base.cs blog series, produced by CodeNewbie.
 * [Beats, Rye & Types](http://beatsryetypes.com/) - Two old friends, discuss their three main obsessions: music, food, and programming.
 * [Between Screens](https://soundcloud.com/between-screens) - Expect to find content about the following topics: Ruby, Rails, Sinatra, Sass, Javascript, Design Patterns, Jekyll, Client-Side Web Apps, Rust, Typography, Git, Responsive Design, Prototyping, Web Design, Type Design and more.
 * [Blockchain Insider](http://bi.11fs.com/) - Weekly podcast specialising in all things blockchain, ledger technology and crypto currencies.
