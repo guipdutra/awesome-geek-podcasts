@@ -12,7 +12,9 @@ env:
 install:
   - bundle install
   - gem install jekyll html-proofer
-
+  - gem install awesome_bot
+  
 script:
   - bundle exec jekyll build --incremental
   - bundle exec rake test
+  - awesome_bot README.md
