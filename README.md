@@ -143,9 +143,9 @@ A curated list of podcasts we like to listen to.
 * [React Podcast](https://reactpodcast.com/) - Podcast about React.js
 * [Reasonably Sound](http://reasonablysound.com/) - Context, explanation and a little celebration of the complexities and awesomeness of audio, and the various cultures which surround and have grown around it.
 * [Reply All](https://www.gimletmedia.com/reply-all) - Reply All is a show about the internet.
+* [Risky Business](https://risky.biz/netcasts/risky-business/) - Risky Business was established in February, 2007. It take a lighthearted look at information security news and features.
 * [Rocket Ranch](https://www.nasa.gov/kennedy/rocketranch) - Official podcast from NASA’s Kennedy Space Center.
 * [Rocket Talk](https://www.tor.com/features/series/rocket-talk-podcast/) - Rocket Talk is Tor.com’s sci-fi/fantasy podcast, blending discussion style talk-radio with audio narrations of Tor.com’s award winning short fiction.
-* [Risky Business](https://risky.biz/netcasts/risky-business/) - Risky Business was established in February, 2007. It take a lighthearted look at information security news and features.
 * [Ruby5](https://www.pluralsight.com/search?q=ruby) - The latest news in the Ruby and Rails community.
 * [Ruby Rogues](https://devchat.tv/ruby-rogues/) - Ruby Rogues is a weekly panel discussion about programming. Ruby and technologies like Rails are what we have in common, but the discussions cover parts of the Ruby ecosystem, gems (libraries) as well as programming practices, tools, and careers.
 * [RunAs Radio](http://www.runasradio.com/) - A weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.
