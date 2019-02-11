@@ -103,6 +103,7 @@ A curated list of podcasts we like to listen to.
 * [GitMinutes](http://www.gitminutes.com/) - The show for proficient Git users.
 * [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - The Google Cloud Platform Podcast, coming to you every week. Discussing everything from on Google Cloud Platform from App Engine to Big Query.
 * [Go Time](https://changelog.com/gotime) - Interesting topics around the Go programming language, building systems, the community, and everything in between.
+* [Hackaday Podcast](https://hackaday.com/category/podcasts/) - Hackaday's podcast, talking about the best articles published and hackaday contests.
 * [HardcoreHistory](https://www.dancarlin.com/hardcore-history-series/) - In "Hardcore History" the very unconventional Dan Carlin takes his "Martian", outside-the-box way of thinking and applies it to the past.
 * [Greater Than Code](https://www.greaterthancode.com/) - because #peoplematter.
 * [Harry Potter and the methods of rationality](http://www.hpmorpodcast.com/) - This is an alternate universe story, where Petunia married a scientist. Harry enters the wizarding world armed with Enlightenment ideals and the experimental spirit.
@@ -131,6 +132,7 @@ A curated list of podcasts we like to listen to.
 * [Note To Self](https://www.wnycstudios.org/shows/notetoself) - Host Manoush Zomorodi talks with everyone from big name techies to elementary school teachers about the effects of technology on our lives, in a quest for the smart choices that will help you think and live better.
 * [Office 365 Developer Podcast](https://www.microsoft.com/en-us/microsoft-365/blog/) - The only show focused on Office 365 development where we talk to the experts from all over the globe coding on the Office 365 platform.
 * [Open Source System Podcast](http://opensourcesystempodcast.vf.io/) - Latest open source projects and news!
+* [Our Ludicrous Future](https://ourludicrousfuture.com/) - Mostly talks abut space, technology and Elon Musk.
 * [Packet Pushers](https://packetpushers.net/) - About data networking by network architects. Deeply technical & unabashedly nerdy.
 * [Partially Derivative](http://partiallyderivative.com/) - A podcast about Data, Nerdiness, and Beer.
 * [PHP Round Table](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
@@ -221,6 +223,7 @@ A curated list of podcasts we like to listen to.
 * [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) - Podcast about technology and Open Source/Free software
 * [Hipsters ponto Tech](https://hipsters.tech/) - Podcast da Caelum sobre startups, programação, UX, gadgets e as últimas tendências em tecnologia.
 * [Lambda3 Podcast](https://www.lambda3.com.br/category/podcast/) - Podcast da Lambda3
+* [Lídercast Café Brasil](http://www.portalcafebrasil.com.br/todos/lidercast/) - Entrevistas tratando de assuntos como liderança e empreendedorismo.
 * [Like a Boss](https://www.likeaboss.com.br) - O podcast Like a Boss é um podcast para empreendedores. Líderes e fundadores de startups e empresas de sucesso sentam com os dois hosts do programa.
 * [Lovelace Podcast](https://twitter.com/LovelacePodcast) - Internet, memes, games, atualidades e quando dá - tecnologia.
 * [Naruhodo!](https://www.b9.com.br/podcasts/naruhodo/) - O Podcast tem uma proposta de explicar diversos temas, usando ciência, filosofia, história entre outros para embasar as respostas.
@@ -235,7 +238,9 @@ A curated list of podcasts we like to listen to.
 * [Rapadura Cast](https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/) - Podcast da galera do Cinema com rapadura, considerado hoje referência sobre cultura pop no Brasil.
 * [Rede Geek](http://www.redegeek.com.br/podcast/) - Podcast destinado ao público geek sobre diversos assuntos como, tecnologia, ciência, história e outros.
 * [Souforce.cloud](https://souforce.cloud/podcast/) - O primeiro podcast voltado ao mundo Salesforce no idioma Português, aqui batemos um papo de Desenvolvimento, Administração da Plataforma, Produtos Salesforce além de assuntos como Carreira entre outros.
+* [Tecnocast](https://tecnoblog.net/categoria/podcast/) - Podcast do Tecnoblog, sobre tecnologia.
 * [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br) - Agilidade, arquitetura, linguagens e ativismo.
+* [Xadrez Verbal](https://xadrezverbal.com/category/audio/podcast-do-xadrez-verbal/) - Política, história e atualidades.
 * [Zeno Overflow](https://soundcloud.com/zenorocha) - Uma série de perguntas e respostas ao vivo sobre tecnologia, carreira e a vida fora do Brasil.
 * [Zone Of Front-Enders](https://zofe.com.br/) - Podcast com enfoque no desenvolvimento front-end da web.
 
