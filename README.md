@@ -321,6 +321,7 @@ A curated list of podcasts we like to listen to.
 ## In Finnish
 
 * [Frontend Friday](http://frontendfriday.fi/) – A podcast and meeting about HTML, the Web, and related topics. From Oulu, Finland.
+* [Webbidevaus.fi](https://webbidevaus.fi/) - Weekly podcast about web-development. Hosted by Antti Mattila and Riku Rouvila.
 
 ## In Japanese
 
