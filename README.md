@@ -117,6 +117,7 @@ A curated list of podcasts we like to listen to.
 * [Laravel News Podcast](https://laravel-news.com/podcast/) - The Laravel News Podcast brings you all the latest news and events related to Laravel.
 * [Linear Digressions](http://lineardigressions.com/) - Explores topics of data science and machine learning in an accessible way through real-world stories and examples.
 * [Linux Action News](http://www.jupiterbroadcasting.com/show/linux-action-news/) - Weekly news about Linux and the open source world.
+* [Linux For Everyone](https://linuxforeveryone.fireside.fm/) - A show about the thrilling world of desktop Linux, open source software and the community creating it. For beginners and veterans alike! Hosted by Forbes' Jason Evangelho and friends.
 * [Linux Outlaws](http://sixgun.org/linuxoutlaws/) - About anything that runs on Linux, about open source software on other platforms and many other things.
 * [Linux Unplugged](http://www.jupiterbroadcasting.com/show/linuxun/) - Weekly Linux live and open talk show
 * [Listen and Learn about AWS](https://aws.amazon.com/podcasts/aws-podcast/) - Jeff Barr discusses various aspects of the Amazon Web Services (AWS) offering. Each podcast include AWS news, tech tips, and interviews with startups, AWS partners, and AWS employees.
