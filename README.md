@@ -54,6 +54,7 @@ A curated list of podcasts we like to listen to.
 * [BSDNow](http://www.bsdnow.tv/) - A Weekly BSD Podcast - News, Interviews and Tutorials.
 * [BSDTalk](http://bsdtalk.blogspot.com/) - Talking about the BSD family of free operating systems.
 * [Build Phase](http://buildphase.fm/) - Build Phase is a weekly technical podcast discussing iOS development and design.
+* [Choose Linux](https://chooselinux.show/) - The show that captures the excitement of discovering Linux.
 * [Cloudcast](http://www.thecloudcast.net/) - Award-winning podcast on all things, Cloud Computing, AWS Ecosystem, OpenSource, DevOps, AppDev, SaaS and SDN.
 * [CMOS](https://code-maven.com/cmos) - The Code-Maven Open Source podcast helps you become familiar with a wide range of projects by interviewing users or developers of these projects.
 * [CodeNewbie Podcast](https://www.codenewbie.org/podcast) - Stories from people on their coding journey.
