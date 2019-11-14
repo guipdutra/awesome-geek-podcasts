@@ -297,9 +297,9 @@ A curated list of podcasts we like to listen to.
 * [Chaosradio](https://chaosradio.ccc.de/) - Monthly live talk radio show of the Chaos Computer Club.
 * [Freak Show](https://freakshow.fm/) - Tech podcast, normally published every two weeks. Mostly Apple, Bitcoin and podcasting.
 * [Logbuch:Netzpolitik](https://logbuch-netzpolitik.de/) - Weekly podcast about netpolitics.
+* [Methodisch inkorrekt](http://minkorrekt.de/) - humoristic reviews of papers 4. Releasing pretty much all two weeks
 * [Request for Comments](https://requestforcomments.de/) - Der RFC Podcast
 * [Working Draft](https://workingdraft.de/) - Weekly news podcast for webdesigners and developers.
-* [Methodisch inkorrekt](http://minkorrekt.de/) - humoristic reviews of papers 4. Releasing pretty much all two weeks
 
 ## In Chinese
 
