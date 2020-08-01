@@ -67,7 +67,7 @@ A curated list of podcasts we like to listen to.
 * [Creative Coding Podcast](http://creativecodingpodcast.com/) - about programming for visual and creative applications.
 * [CTRL+Click Cast](https://ctrlclickcast.com/) - They "inspect the web for you". Interviews with developers and designers, about design, code, and content management systems. Hosted by Lea Alcantara and Emily Lewis.
 * [Curious Minds](https://www.cmpod.net/) - Curious Minds is a podcast about Science, Technology, and History. Each episode brings interesting stories from a wide range of subjects: from Physics and Astronomy to Medicine, Art and Science Fiction.
-* [DevRelChat](http://devrelchat.dev/) - Developer Relations Conversations delivered in Audio & Video formats with leading industry specialist for the community. From @developerayo #DevRelChat
+* [DevRelChat](http://devrelchat.dev/) - Developer Relations Conversations delivered in Audio & Video formats with leading industry specialist for the community. From [@developerayo](https://twitter.com/developerayo) #DevRelChat
 * [Darknet Diaries](https://darknetdiaries.com) - Stories from hackers or those who have been attacked. How they got in and what happened.
 * [Data Skeptic](http://dataskeptic.com/) - The Data Skeptic Podcast features interviews and discussion of topics related to data science, statistics, machine learning, artificial intelligence and the like.
 * [Data Stories](http://datastori.es/) - Enrico Bertini and Moritz Stefaner discuss the latest developments in data analytics, visualization and related topics.
