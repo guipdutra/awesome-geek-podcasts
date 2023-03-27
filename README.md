@@ -218,7 +218,10 @@ A curated list of podcasts we like to listen to.
 * [DevNaEstrada](https://devnaestrada.com.br/) - Podcast semanal sobre desenvolvimento web com uma pitada de humor.
 * [DioCast](https://www.diolinux.com.br/search/label/DioCast) - Podcast sobre Linux e Software Livre.
 * [Elemencast](https://elemencast.github.io) - A proposta é levar ao ouvinte drops de conteúdo diversos a respeito do universo Front-End, NodeJs, Programação Funcional etc.
+* [Elixir em Foco](https://www.elixiremfoco.com/) - Elixir em Foco é um podcast em que conversamos com pessoas da comunidade brasileira de desenvolvedores de software sobre a linguagem de programação Elixir.
+* [Emílias Podcast - Mulheres na Computação](https://podcasters.spotify.com/pod/show/emilias-podcast) - Um projeto de extensão da UTFPR Curitiba que entrevista mulheres da área de Computação e afins, explorando suas motivações e desafios, com o bjetivo de incentivar a presença feminina na tecnologia. 
 * [FooCast](https://foocast.io/) - Podcast sucinto que fala sobre desenvolvimento em geral.
+* [Fronteiras da Engenharia de Software](https://fronteirases.github.io/) - Fronteiras da Engenharia de Software é um podcast para refletir sobre o presente e o futuro da engenharia de software. 
 * [Galera do Rau](http://galeradorau.com.br/category/podcast/galera-do-rau/) - Quatro professores, extremamente nerds, divertidos e com muita história pra contar.
 * [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) - Podcast about technology and Open Source/Free software
 * [Hipsters ponto Tech](https://hipsters.tech/) - Podcast da Caelum sobre startups, programação, UX, gadgets e as últimas tendências em tecnologia.
